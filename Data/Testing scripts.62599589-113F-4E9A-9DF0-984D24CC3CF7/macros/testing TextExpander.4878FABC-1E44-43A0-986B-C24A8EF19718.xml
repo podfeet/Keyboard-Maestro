@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>ByTyping</string>
+				<key>ActionUID</key>
+				<integer>216</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
+				<key>Text</key>
+				<string>ccatpep;</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>642193588.26266801</real>
+		<key>ModificationDate</key>
+		<real>642193746.45730102</real>
+		<key>Name</key>
+		<string>testing TextExpander</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>4878FABC-1E44-43A0-986B-C24A8EF19718</string>
+	</dict>
+</array>
+</plist>

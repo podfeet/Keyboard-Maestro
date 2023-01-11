@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>ByPastingStyles</string>
+				<key>ActionUID</key>
+				<integer>2763</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC6KAQAAKwAAAAEAAACC
+							AQAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYyNjM2Clxjb2Nv
+							YXRleHRzY2FsaW5nMFxj
+							b2NvYXBsYXRmb3JtMHtc
+							Zm9udHRibFxmMFxmc3dp
+							c3NcZmNoYXJzZXQwIEhl
+							bHZldGljYTt9CntcY29s
+							b3J0Ymw7XHJlZDI1NVxn
+							cmVlbjI1NVxibHVlMjU1
+							O1xyZWQwXGdyZWVuMFxi
+							bHVlMDt9CntcKlxleHBh
+							bmRlZGNvbG9ydGJsOztc
+							Y3NzcmdiXGMwXGMwXGMw
+							XGM4NDcwNlxjbmFtZSBj
+							b250cm9sVGV4dENvbG9y
+							O30KXHBhcmRcdHg1NjBc
+							dHgxMTIwXHR4MTY4MFx0
+							eDIyNDBcdHgyODAwXHR4
+							MzM2MFx0eDM5MjBcdHg0
+							NDgwXHR4NTA0MFx0eDU2
+							MDBcdHg2MTYwXHR4Njcy
+							MFxwYXJkaXJuYXR1cmFs
+							XHBhcnRpZ2h0ZW5mYWN0
+							b3IwCgpcZjBcZnMyNiBc
+							Y2YyIG5jYmxlbmNsO30B
+							AAAAIwAAAAEAAAAHAAAA
+							VFhULnJ0ZhAAAAAR2dxh
+							tgEAAAAAAAAAAAAA
+							</data>
+				<key>Text</key>
+				<string>ncblencl;</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>663547534.15506601</real>
+		<key>ModificationDate</key>
+		<real>663556240.07881498</real>
+		<key>Name</key>
+		<string>Enclosures in TextExpander</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>7F4330CA-9F4D-4B70-A125-FB55F7DAA12A</string>
+	</dict>
+</array>
+</plist>

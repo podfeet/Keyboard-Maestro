@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CreationDate</key>
+		<real>559784101.62026501</real>
+		<key>Name</key>
+		<string>Enabled Macros</string>
+		<key>SearchStrings</key>
+		<array>
+			<string>enabled:yes</string>
+		</array>
+		<key>UID</key>
+		<string>5C7A560C-11F0-4E99-8F18-C46E68E80930</string>
+	</dict>
+</array>
+</plist>

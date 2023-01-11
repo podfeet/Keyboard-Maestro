@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>622416578.93441105</real>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array/>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Photos macros</string>
+		<key>PaletteUnderMouse</key>
+		<false/>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>All</string>
+			<key>TargetingApps</key>
+			<array/>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>3EFF7700-35D7-42C4-A65C-C193D34FCF2F</string>
+		<key>UID</key>
+		<string>A11D9DD0-5C00-412B-BF93-CB2BD919E5A5</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>255</integer>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>SystemAction</string>
+				<key>SystemAction</key>
+				<string>Sleep</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>652381226.45433903</real>
+		<key>ModificationDate</key>
+		<real>652381284.81673598</real>
+		<key>Name</key>
+		<string>Sleep</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>KeyCode</key>
+				<integer>1</integer>
+				<key>MacroTriggerType</key>
+				<string>HotKey</string>
+				<key>Modifiers</key>
+				<integer>6912</integer>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>22B0BAC7-4597-41BF-980C-FF3945616ACC</string>
+	</dict>
+</array>
+</plist>

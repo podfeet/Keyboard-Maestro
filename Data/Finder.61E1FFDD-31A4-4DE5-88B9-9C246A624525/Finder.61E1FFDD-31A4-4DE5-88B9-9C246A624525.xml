@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>463264761.449507</real>
+		<key>FocussedWindowConditionType</key>
+		<string>Exists</string>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array/>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Finder</string>
+		<key>PaletteUnderMouse</key>
+		<false/>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.apple.finder</string>
+					<key>Name</key>
+					<string>Finder</string>
+					<key>NewFile</key>
+					<string>/System/Library/CoreServices/Finder.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>663BF9AA-7C2E-4E9C-B91F-ABA18B1C80BC</string>
+		<key>UID</key>
+		<string>61E1FFDD-31A4-4DE5-88B9-9C246A624525</string>
+	</dict>
+</array>
+</plist>

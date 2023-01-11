@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>334</integer>
+				<key>Height</key>
+				<string>72</string>
+				<key>Left</key>
+				<string>100</string>
+				<key>MacroActionType</key>
+				<string>ResizeImage</string>
+				<key>ResizeAction</key>
+				<string>SetDPI</string>
+				<key>TargetUseTriggerClipboard</key>
+				<true/>
+				<key>Top</key>
+				<string>100</string>
+				<key>Width</key>
+				<string>72</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>530765640.33702302</real>
+		<key>ModificationDate</key>
+		<real>530765652.49417698</real>
+		<key>Name</key>
+		<string>Set DPI to Nominal</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>MacroTriggerType</key>
+				<string>ClipboardFilter</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>E1D893D1-3A7C-41C4-B815-C62091ED1C2A</string>
+	</dict>
+</array>
+</plist>

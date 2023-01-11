@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>365</integer>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>ClipboardHistorySwitcher</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>559784101.61872399</real>
+		<key>IsActive</key>
+		<false/>
+		<key>ModificationDate</key>
+		<real>587348217.06403399</real>
+		<key>Name</key>
+		<string>Activate Clipboard History Switcher</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>KeyCode</key>
+				<integer>16</integer>
+				<key>MacroTriggerType</key>
+				<string>HotKey</string>
+				<key>Modifiers</key>
+				<integer>768</integer>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>D0C533F1-DBEF-4622-A722-2138AF41E075</string>
+	</dict>
+</array>
+</plist>

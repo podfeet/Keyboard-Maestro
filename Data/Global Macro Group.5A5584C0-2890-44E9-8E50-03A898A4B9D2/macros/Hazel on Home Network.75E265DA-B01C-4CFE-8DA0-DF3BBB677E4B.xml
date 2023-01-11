@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>2389</integer>
+				<key>AllWindows</key>
+				<true/>
+				<key>AlreadyActivatedActionType</key>
+				<string>Normal</string>
+				<key>Application</key>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.noodlesoft.Hazel</string>
+					<key>Name</key>
+					<string>Hazel</string>
+					<key>NewFile</key>
+					<string>/Applications/Hazel.app</string>
+				</dict>
+				<key>MacroActionType</key>
+				<string>ActivateApplication</string>
+				<key>ReopenWindows</key>
+				<false/>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>2390</integer>
+				<key>KeyCode</key>
+				<integer>37</integer>
+				<key>MacroActionType</key>
+				<string>SimulateKeystroke</string>
+				<key>Modifiers</key>
+				<integer>2304</integer>
+				<key>ReleaseAll</key>
+				<false/>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>663380189.04945195</real>
+		<key>IsActive</key>
+		<false/>
+		<key>ModificationDate</key>
+		<real>663380213.11190796</real>
+		<key>Name</key>
+		<string>Hazel on Home Network</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>Connected</key>
+				<true/>
+				<key>MacroTriggerType</key>
+				<string>WirelessNetwork</string>
+				<key>MatchType</key>
+				<string>NameIs</string>
+				<key>Name</key>
+				<string>WhiteDart</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>75E265DA-B01C-4CFE-8DA0-DF3BBB677E4B</string>
+	</dict>
+</array>
+</plist>

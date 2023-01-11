@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>518</integer>
+				<key>DisplayKind</key>
+				<string>Window</string>
+				<key>HonourFailureSettings</key>
+				<true/>
+				<key>IncludeStdErr</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>ExecuteShellScript</string>
+				<key>Path</key>
+				<string></string>
+				<key>Source</key>
+				<string>Nothing</string>
+				<key>Text</key>
+				<string>screencapture -coi</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>TrimResults</key>
+				<true/>
+				<key>TrimResultsNew</key>
+				<true/>
+				<key>UseText</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>641931823.56187606</real>
+		<key>ModificationDate</key>
+		<real>642040638.79245806</real>
+		<key>Name</key>
+		<string>Clipboard - Screencapture Interactive</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>KeyCode</key>
+				<integer>17</integer>
+				<key>MacroTriggerType</key>
+				<string>HotKey</string>
+				<key>Modifiers</key>
+				<integer>6912</integer>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>8F0BBB3C-4082-4BCB-B6DB-B0A451C3B8F4</string>
+	</dict>
+</array>
+</plist>

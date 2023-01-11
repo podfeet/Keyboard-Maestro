@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>218</integer>
+				<key>InitialSearch</key>
+				<string>Feeder</string>
+				<key>MacroActionType</key>
+				<string>TriggerByName</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>559784101.61210597</real>
+		<key>ModificationDate</key>
+		<real>639866958.97356796</real>
+		<key>Name</key>
+		<string>Trigger Macro by Name</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>KeyCode</key>
+				<integer>17</integer>
+				<key>MacroTriggerType</key>
+				<string>HotKey</string>
+				<key>Modifiers</key>
+				<integer>6912</integer>
+			</dict>
+			<dict>
+				<key>MacroTriggerType</key>
+				<string>StatusMenu</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>4FBAEE4D-6716-4540-AFB4-85EE32CEC9A4</string>
+	</dict>
+</array>
+</plist>

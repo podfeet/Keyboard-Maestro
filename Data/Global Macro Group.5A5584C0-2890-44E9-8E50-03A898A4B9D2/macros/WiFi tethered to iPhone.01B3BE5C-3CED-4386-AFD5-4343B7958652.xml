@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>DisplayLarge</string>
+				<key>ActionUID</key>
+				<integer>9382695</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>Text</key>
+				<string>🚨 You are now tethered to your iPhone 🚨
+🚨 Take Evasive Action 🚨</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>689377586.18593097</real>
+		<key>ModificationDate</key>
+		<real>689377621.58447194</real>
+		<key>Name</key>
+		<string>WiFi tethered to iPhone</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>Connected</key>
+				<true/>
+				<key>MacroTriggerType</key>
+				<string>WirelessNetwork</string>
+				<key>MatchType</key>
+				<string>NameIs</string>
+				<key>Name</key>
+				<string>Al iPhone 14 Pro</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>01B3BE5C-3CED-4386-AFD5-4343B7958652</string>
+	</dict>
+</array>
+</plist>

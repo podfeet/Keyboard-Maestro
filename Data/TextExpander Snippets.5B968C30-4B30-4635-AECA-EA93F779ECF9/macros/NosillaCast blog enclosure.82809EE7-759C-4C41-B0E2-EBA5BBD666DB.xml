@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>ByTyping</string>
+				<key>ActionUID</key>
+				<integer>2762</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
+				<key>Text</key>
+				<string>ncblencl;</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>663474381.61379695</real>
+		<key>ModificationDate</key>
+		<real>663474412.80859196</real>
+		<key>Name</key>
+		<string>NosillaCast blog enclosure</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>82809EE7-759C-4C41-B0E2-EBA5BBD666DB</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>407</integer>
+				<key>MacroActionType</key>
+				<string>Semaphore</string>
+				<key>SemaphoreAction</key>
+				<string>Lock</string>
+				<key>SemaphoreName</key>
+				<string>Semaphore Name</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>630977489.44741499</real>
+		<key>ModificationDate</key>
+		<real>630977502.31692505</real>
+		<key>Name</key>
+		<string>Semaphore Lock</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>87DAED45-4DB3-4F7E-A1C0-853746EF8298</string>
+	</dict>
+</array>
+</plist>

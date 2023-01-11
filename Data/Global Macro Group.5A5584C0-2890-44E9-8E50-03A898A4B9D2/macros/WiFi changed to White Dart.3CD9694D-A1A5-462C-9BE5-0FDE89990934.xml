@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>DisplayLarge</string>
+				<key>ActionUID</key>
+				<integer>9382318</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>Text</key>
+				<string>🚨 WiFi changed to WhiteDart Guest 🚨
+🚨 Take Evasive Action 🚨</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>688595432.20871902</real>
+		<key>ModificationDate</key>
+		<real>688595595.57799399</real>
+		<key>Name</key>
+		<string>WiFi changed to White Dart</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>Connected</key>
+				<true/>
+				<key>MacroTriggerType</key>
+				<string>WirelessNetwork</string>
+				<key>MatchType</key>
+				<string>NameIs</string>
+				<key>Name</key>
+				<string>WhiteDart Guest</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>3CD9694D-A1A5-462C-9BE5-0FDE89990934</string>
+	</dict>
+</array>
+</plist>

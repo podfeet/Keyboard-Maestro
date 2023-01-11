@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>TitleCase</string>
+				<key>ActionUID</key>
+				<integer>335</integer>
+				<key>MacroActionType</key>
+				<string>Filter</string>
+				<key>Source</key>
+				<string>Clipboard</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>454311011.63402998</real>
+		<key>ModificationDate</key>
+		<real>572775924.96369302</real>
+		<key>Name</key>
+		<string>Title Case</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>MacroTriggerType</key>
+				<string>ClipboardFilter</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>0BE34A18-DE7F-4532-B48B-702C35D587BA</string>
+	</dict>
+</array>
+</plist>

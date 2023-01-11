@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>625453254.98819602</real>
+		<key>DisplayToggle</key>
+		<false/>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array/>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Podcast</string>
+		<key>PaletteUnderMouse</key>
+		<false/>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>All</string>
+			<key>TargetingApps</key>
+			<array/>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>FA76B961-E78A-4E56-94DE-FDFDB60A6D33</string>
+		<key>UID</key>
+		<string>116E525D-75CB-460B-B782-3C9CD3417795</string>
+	</dict>
+</array>
+</plist>

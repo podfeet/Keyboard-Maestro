@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>ActiveAndOnceWithPalette</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>661742831.08991802</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/System/Library/CoreServices/Finder.app</string>
+		<key>DisplayToggle</key>
+		<false/>
+		<key>IsActive</key>
+		<false/>
+		<key>KeyCode</key>
+		<integer>3</integer>
+		<key>Macros</key>
+		<array/>
+		<key>Modifiers</key>
+		<integer>2560</integer>
+		<key>Name</key>
+		<string>App Specific: Finder</string>
+		<key>PaletteUnderMouse</key>
+		<false/>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.apple.finder</string>
+					<key>Name</key>
+					<string>Finder</string>
+					<key>NewFile</key>
+					<string>/System/Library/CoreServices/Finder.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>Theme</key>
+		<dict>
+			<key>Columns</key>
+			<integer>2</integer>
+			<key>Size</key>
+			<integer>20</integer>
+			<key>UseDefaultInstead</key>
+			<false/>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>B8EAB981-6D1F-49AD-BD06-104152D0D807</string>
+		<key>UID</key>
+		<string>2994A78A-4270-4EFC-941E-DA2CAAD7E1AF</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>4682</integer>
+				<key>MacroActionType</key>
+				<string>SystemPrefPane</string>
+				<key>NewFile</key>
+				<string>/System/Library/PreferencePanes/Sound.prefPane</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>674625522.27041101</real>
+		<key>ModificationDate</key>
+		<real>674625578.94470799</real>
+		<key>Name</key>
+		<string>Open a System Preference Pane</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>7A76BE9A-4526-40CE-83EA-EFC9B36598AC</string>
+	</dict>
+</array>
+</plist>

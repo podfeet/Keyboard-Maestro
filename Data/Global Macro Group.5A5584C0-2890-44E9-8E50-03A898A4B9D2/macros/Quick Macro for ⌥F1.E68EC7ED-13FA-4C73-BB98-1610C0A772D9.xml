@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>219</integer>
+				<key>AddToMacroPalette</key>
+				<false/>
+				<key>AddToStatusMenu</key>
+				<false/>
+				<key>EnableRepeat</key>
+				<true/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>KeyCode</key>
+				<integer>122</integer>
+				<key>MacroActionType</key>
+				<string>QuickMacro</string>
+				<key>Modifiers</key>
+				<integer>2048</integer>
+				<key>QuickMacroUID</key>
+				<string>9FFCCE03-E308-431C-8D66-BEC38F29BE7A</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>559784101.61842299</real>
+		<key>ModificationDate</key>
+		<real>559784101.61842299</real>
+		<key>Name</key>
+		<string>Quick Macro for ⌥F1</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>KeyCode</key>
+				<integer>122</integer>
+				<key>MacroTriggerType</key>
+				<string>HotKey</string>
+				<key>Modifiers</key>
+				<integer>4096</integer>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>E68EC7ED-13FA-4C73-BB98-1610C0A772D9</string>
+	</dict>
+</array>
+</plist>

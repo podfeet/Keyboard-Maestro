@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>CenterWindowAt</string>
+				<key>ActionUID</key>
+				<integer>256</integer>
+				<key>HeightExpression</key>
+				<string>300</string>
+				<key>HorizontalExpression</key>
+				<string>1500</string>
+				<key>MacroActionType</key>
+				<string>ManipulateWindow</string>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>Targeting</key>
+				<string>FrontWindow</string>
+				<key>TargetingType</key>
+				<string>Front</string>
+				<key>VerticalExpression</key>
+				<string>800</string>
+				<key>WidthExpression</key>
+				<string>300</string>
+				<key>WindowIndexExpression</key>
+				<string>2</string>
+				<key>WindowName</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>653439052.28410494</real>
+		<key>IsActive</key>
+		<false/>
+		<key>ModificationDate</key>
+		<real>653440787.81099606</real>
+		<key>Name</key>
+		<string>Center Window on Mouse Click</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>ChangeType</key>
+				<string>FocussedWindowChanges</string>
+				<key>MacroTriggerType</key>
+				<string>FocussedWindow</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>E0635151-E006-4B2C-9B64-0F4BC9011997</string>
+	</dict>
+</array>
+</plist>

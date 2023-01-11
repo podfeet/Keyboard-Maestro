@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>3046</integer>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>3047</integer>
+						<key>MacroActionType</key>
+						<string>SetVariableToCalculation</string>
+						<key>Text</key>
+						<string>CLIPBOARDSEED()</string>
+						<key>UseFormat</key>
+						<false/>
+						<key>Variable</key>
+						<string>Local__ClipboardSeedVal</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>3048</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Calculation</string>
+									<key>Text</key>
+									<string>Local__ClipboardSeedVal != CLIPBOARDSEED()</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>PauseUntil</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TimeOutPeriod</key>
+						<real>15</real>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>3049</integer>
+						<key>MacroActionType</key>
+						<string>Notification</string>
+						<key>SoundName</key>
+						<string>Funk</string>
+						<key>Subtitle</key>
+						<string>Clipboard Changed</string>
+						<key>Text</key>
+						<string>ClipboardSeed changed from %Variable%Local__ClipboardSeedVal%
+Clipboard Contents: %SystemClipboard%</string>
+						<key>Title</key>
+						<string>%ExecutingMacro%</string>
+					</dict>
+				</array>
+				<key>CountExpression</key>
+				<string>5</string>
+				<key>MacroActionType</key>
+				<string>Repeat</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>3050</integer>
+				<key>DeviceID</key>
+				<string>SOUNDEFFECTS</string>
+				<key>MacroActionType</key>
+				<string>PlaySound</string>
+				<key>Path</key>
+				<string>/System/Library/Sounds/Glass.aiff</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>686962853.92034698</real>
+		<key>ModificationDate</key>
+		<real>686963274.86205804</real>
+		<key>Name</key>
+		<string>Podfeet Clipboard Test</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>217A7802-4A3C-47D6-8B9C-6303173DCEA2</string>
+	</dict>
+</array>
+</plist>

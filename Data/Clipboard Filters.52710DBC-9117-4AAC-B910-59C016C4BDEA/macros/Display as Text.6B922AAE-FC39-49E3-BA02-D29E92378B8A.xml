@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>DisplayWindow</string>
+				<key>ActionUID</key>
+				<integer>320</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC5fAQAAKwAAAAEAAABX
+							AQAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYxNTA0XGNvY29h
+							c3VicnRmODMwCntcZm9u
+							dHRibFxmMFxmbmlsXGZj
+							aGFyc2V0MCBIZWx2ZXRp
+							Y2FOZXVlO30Ke1xjb2xv
+							cnRibDtccmVkMjU1XGdy
+							ZWVuMjU1XGJsdWUyNTU7
+							XHJlZDBcZ3JlZW4wXGJs
+							dWUwO30Ke1wqXGV4cGFu
+							ZGVkY29sb3J0Ymw7O1xj
+							c2dyYXlcYzA7fQpccGFy
+							ZFx0eDU2MFx0eDExMjBc
+							dHgxNjgwXHR4MjI0MFx0
+							eDI4MDBcdHgzMzYwXHR4
+							MzkyMFx0eDQ0ODBcdHg1
+							MDQwXHR4NTYwMFx0eDYx
+							NjBcdHg2NzIwXHBhcmRp
+							cm5hdHVyYWxccGFydGln
+							aHRlbmZhY3RvcjAKClxm
+							MFxmczI2IFxjZjIgJVRy
+							aWdnZXJDbGlwYm9hcmQl
+							fQEAAAAjAAAAAQAAAAcA
+							AABUWFQucnRmEAAAAOPU
+							ZVm2AQAAAAAAAAAAAAA=
+							</data>
+				<key>Text</key>
+				<string>%TriggerClipboard%</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>509947255.63380897</real>
+		<key>ModificationDate</key>
+		<real>512365299.19660997</real>
+		<key>Name</key>
+		<string>Display as Text</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>MacroTriggerType</key>
+				<string>ClipboardFilter</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>6B922AAE-FC39-49E3-BA02-D29E92378B8A</string>
+	</dict>
+</array>
+</plist>

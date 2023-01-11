@@ -1,0 +1,3711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionColor</key>
+				<string>Yellow</string>
+				<key>ActionUID</key>
+				<integer>9385871</integer>
+				<key>MacroActionType</key>
+				<string>Comment</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAwAA
+							ABQAAABQYXN0ZWQgR3Jh
+							cGhpYyAxLnBuZwEAAAAu
+							BwAAAFRYVC5ydGZgIQAA
+							VwAAAHcfAAABAAAAAAAA
+							gKQRAACsDwAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AIlQTkcNChoKAAAADUlI
+							RFIAAACgAAAAPggGAAAA
+							rKMQHgAAAAFzUkdCAK7O
+							HOkAABFeSURBVHgB7Z0H
+							cBVVF8fPS0hoSSgiHxha
+							KIINsaKAoqFY0HHs3UEZ
+							xy6fn73NiPqpY1es41hn
+							1EGxiw1ERQUVxa5IERER
+							QenFhCTvfed3Xu5+m+S9
+							ZF8weXlkT+Zl795797b9
+							7znn3nv2bEREYvoLKRyB
+							tIxAVlpqDSsNR6ByBFq4
+							kYjFQkboxiI8NvwIRCIR
+							q8QDYENXOVMrmDxtkUgk
+							qjI/JjmRLAH0E0b0kTYN
+							XXlYfpMdAWBorK+hOeB/
+							pi2QfkV9pVwrBPxRrTVX
+							orLkr7/kv4M7N9kBChvW
+							MCPgOGCjAfDfUxdKi6yI
+							AjAiucr5YqZ9RiRLwxWR
+							mGRVaEezsiSSXSFlZVka
+							VIQql9RTGTmqSEY1zDhs
+							9aUuWrRIfv/9dxk6dGiT
+							6qsDYKNNQtaXlMnGgi6y
+							MX87Wd++UNbkFer5drKu
+							QMNtu8m6Dt1kLWn53aWk
+							Y6Gsa9dN1uj5hnb/kklT
+							5iYcvB133FFuueWWGml/
+							/vmn7LLLLvLII4/USGuM
+							iKlTp8qAAQNkhx12sN9h
+							hx0mDz74oFRU8JQ1Lk2Z
+							MkXuvvtuq5T6H3jgAdm4
+							cWPjNqKW2urUAZ955hmZ
+							N29e0iK23357Oemkk5Km
+							u4Ts7CxpkZ2tHE8ZXdSY
+							nQl/jZYWyoe5NagBkWjE
+							dAIaFueS2SquEz8n0WhU
+							XnnlFbn44oslJyfHVSUv
+							vfSSctEyK8+LbMQA7Sos
+							LLR2EJ4zZ45cddVV0rdv
+							Xxk1qnF5+fnnny/nnXee
+							9b68vFzuvfdeOfroo6Vt
+							27aNOCLJq0p8Z335Dz74
+							YMlW4CQi4kkPQuXlUSlX
+							cEViESlTJTCqolhUJFcQ
+							1mOWojBL0RjNjihQNU5/
+							7i+muZNRloptOI6fJk+e
+							LNtss40XtXDhQrsJe+21
+							l5xxxhnyySefeGnfffed
+							HHvssbLHHnvIBRdcIF9/
+							/bWlPffcc3LJJZfI2LFj
+							Zdddd7W4b7/91vIOGjRI
+							jjjiCPn000+9cqoHaFdB
+							QYG0b99eiouL5cADD5Q3
+							3njDsm3YsMEemj333FNG
+							jBghtBdavny5jB492h6q
+							kSNHyn777ScPP/ywpfFv
+							/fr11qa9995bhg8fbtzM
+							6e5z5871+njmmWd6TOPF
+							F1+UK6+8Uv7++2856KCD
+							rCz6+/jjj1s4WZ9cW+65
+							5x6hvmnTplnf3333XbuO
+							f08++aS1x4uoR6BOAHbs
+							2DGp/rDvvvsK6UGoTDmB
+							YkpBppMPZW8RPaKA5moL
+							WmogorMT4sCaYlRyyUsG
+							JWWaSemoo46S559/3ksH
+							FHCdwYMHe3E33HCDAeGp
+							p56S/v37y8033+ylcXO2
+							3XZbu5mdO3eWSy+91EQl
+							N/v1118XxPxjjz1m+cnb
+							pUsXuf/++03EAtAgBDf+
+							/vvvpXfv3pb9iSeekJ9/
+							/lnuuusuOeWUU+S6666T
+							tWvXChzq119/tfouv/xy
+							Oe644+S+++7zwMQNp5wJ
+							EybYg0G7vvjiCyvzmmuu
+							kU6dOtlY9OrVS+644w6L
+							B+yrVq2SVq1aWVlE3nrr
+							rfYAEU7WJ9cWyr/99tuF
+							h2XgwIHy5ptvcpkR47P7
+							7ru703od6xTBlMrTBqeg
+							I44AHk91UNL5hCBu+TkC
+							jJwqYzRxm6PHiLYIwGUr
+							EPXUABsrTw5B9Kunn35a
+							fvvtN+nWrZvAuQAlN9gR
+							NxwqLS018cPTv3LlStm0
+							aZPle/bZZyUvL0/gkO+8
+							847Fkx/14rLLLiMoS5Ys
+							kV9++UUmTZpk4mufffYx
+							kH/zzTd2YyyT799fOrs/
+							++yz7WEgD9Li8MMPtxzv
+							vfeecWJuHj9u5Icffii7
+							7babpY8fP964JuIaAJBG
+							W6ZPny5nnXWWHHLIIZYP
+							1Yg4wIFSD9Dz8/Pl6quv
+							9rUkHiS9X79+dlJUVGSM
+							o7Y+OQnCw+EenDFjxlj9
+							gBMs/Pjjj1U4dI1KA0T4
+							4JA8dyJRW5toTlhSOXBS
+							fU+xFFWFTye+pvuh3sEZ
+							0QNpTI7Gt+IcDlkJ0Frw
+							Z8BBbCHG4CKIiCOPPNLq
+							cv9effVVYfAQnSeccIJF
+							o5B/9tlnNriAD0Js0i9u
+							ItS9e3c78s/ldboTY7LT
+							TjvJ7NmzvTz+QG5urgEU
+							UNGum266SeBMTADgYoBk
+							yJAh9ps/f74AUkd+roL4
+							R4fkuh9++KEK2OFItAu6
+							4oorBHE6bNgwOfHEE+XL
+							L790xSU9BulTjx49vOtp
+							F2PDdQAfKRNUAnqFVAsE
+							AiDX8ATyqx62iAD/yrWm
+							HEUaf+h7uRrO0qdSF14U
+							fHpUecsR/S+GTqjxOXrk
+							yY3q4nVtdMwxx5jCj74D
+							F+vatauXvaSkRK6//no5
+							9dRT7SYzaXHEDVy8eLGQ
+							xxHnmzdvdqfeceedd7a8
+							/jSAAwgTEfrf6aefLuec
+							c46B+tFHH7VsALhnz54m
+							DtE3+QE+JimO0OccweWY
+							TXMdnMs/ISRMuyB02Nde
+							e03efvtt6aVAR5Woi1Lt
+							E+Udeuihpg+iE/JQbykF
+							BiAVwR14soNOPPyNq6jQ
+							HRDlbHC1XOVy2fpTfBlH
+							VKwJuoBG6cy18iqNc7Pl
+							ikru6S/PH0YEtW7d2pvh
+							+dPgdPx4UtetWyco1Y4Q
+							Seh96DiITEQxHBJRVp3Q
+							HdGx0NuWLVtmOiP5qLsu
+							YnLz+eefy0cffWRZUV0A
+							JPoeYhCO9f7773vFPPTQ
+							Q8LECUCh0+6///6WVlxc
+							bIr/Tz/9JIhxQEAcIpGV
+							CJZcUEMALH1FF/YTKwVw
+							eyZhTF7q0ydAh5ry1Vdf
+							2YTJX359wikBkJs4bty4
+							erHdqG59ACjFlYEwpkBk
+							N0QlmYljlX6mC2YpEpmA
+							AERlfkbkTURwR34QSwso
+							2swqIZcG52AZAiUdXbZD
+							hw5eGvmuvfZaeeutt0x0
+							AUB0HidmEcl+QmwizgEQ
+							eiXXtmjBo1OT/NeiQ6Gr
+							OvCfdtppNitFdYB7s2Z4
+							wAEHeIUADGbZiFU4Dmua
+							EBMWiDRAjbhlIkgbADEP
+							ByL7hRdesImWa4P/ePzx
+							x9vEY+LEiVZWsj65cbVM
+							vn+AGzGM+HWqiy855SB3
+							z3iOm86nXELAC8brVlz/
+							3kXx3ApEVQM9AnDwHLgi
+							zyyckltPw5igzFuwSCaO
+							7qtn9Se4BBwBDp6ImPU6
+							3S9Ruj8Ona5du3b+qHqF
+							maECdnezly5dag8QEz7a
+							yo+HqjqhD9IP/9qny0OZ
+							dQEDzo0O64DJtUH75JZz
+							UGv8D42rP+jR9Tnx4xu0
+							lBTydevdV6bPniMxRVqE
+							6a+iLaqzkZgiLCtHt9y0
+							rLLyCk3TsKKvTOOZsMA2
+							Bw2Mc4AUqquRNRmnchmD
+							go/8/wT4KKc2oCR7ULjO
+							cWjC1am2Ml3eRMAN0qdZ
+							s2YZ14dDbwn4XDs4Kn9p
+							HA7IsgfLIPUhbgb619ZO
+							cDx0UfTSpkhscbL8AgC3
+							lBwHbDQAbmmDw+u3rhFw
+							AKyqZW9dfQx7kwEj4OmA
+							G3VXIKRwBBp7BEIO2Ngj
+							HtZXZQQ8DlglNkNOVrRs
+							KfMWr9PWYuSvE2tdE2Q5
+							aVj3fJ1t11xMzpBuNatm
+							ZjQA5y1eKx3bd7S1Q9aj
+							WbzOVijOWr5JhnbKlgqd
+							VYbUtEcgowEI4FavWW0A
+							ZB2RBWwIQ4cZyzBu5UQj
+							1Qo2WsGuiSboOfE9exVI
+							YT2XhaiDBd+WyoETramR
+							HlKwEUibDogN35o1a4K1
+							MkmuUjVy3dwyT3/5Utoq
+							X0py86WMsP5KcgqktHWB
+							lGh4c26BlLcmj55rns2t
+							8mTuwtVJSg0WvUKNR9lv
+							hVjfZCchpNRHIG0ccL5a
+							cvDCzBDdyxystnX14SRY
+							0PAzxhZnbrasjpEDP42q
+							/BcfGJ62OJfE7L+SXcaT
+							Uv7fu08f7xqsaVigDbKb
+							4F0UBmwE0gZAai/XicKM
+							GTPMjg3jy76VBpNB7w0G
+							Dpj4Ayz2jCHTBX1h4gAd
+							Ipr9ZwMrcXF4aig5sef6
+							h1q+lKs1jduqYxsMoGHF
+							grk9kx7M17G4wTwL+zlE
+							c0jBRiBtItjfvNWrV5sl
+							c6piuUJvPh0AdOwfcwR7
+							alJo5l0oh8SBNbghILRz
+							PQYhXmdsqcYAvGDENhli
+							liME4Aiz94qVUCsFHeCr
+							bQ83SJ3NLU+TAKAbdMQy
+							7zmwHxqEDHAKMBO5eoEd
+							AaKGTdS6NENpPJ40tXdQ
+							IwgT0EmrQa8DZIAPkHF0
+							20f+i7AoMfVBGwPnS5TH
+							nz8MVx2BtIrgqk0RE8GI
+							Ymz2AlGcGRkXrKjEEyBE
+							HCNqK3FnZl7G+UjTggFh
+							Hfgze71cNeB0gOIYitZA
+							dyWlTE0CgOhSo9Q40700
+							E7QHAM1eclKw8dKTAxwA
+							MyBypDD9B/DsnWQSNX8M
+							hNZCWFiXqmk+YhYuh65X
+							X2ueWqpp9klpBWAL5TC8
+							XYZVb31mwUxCgBFgw5jV
+							SMMADTZn4NMg64XG9jTO
+							cKdH7BAT0YoVK0zktmnT
+							RnLU0pi37eDILBklM9rF
+							uJN3RTB6rcvuMFGdzTku
+							bQBkxpuSuE1wlwCWAxRo
+							MwzqP9PxKkFnIrcSjMwf
+							ACtJ8eWYmoUy0QBQALBQ
+							369ghsuaX76+ZOQmINWv
+							YmYMWHlJqI8uz4SiuvoI
+							JT+HDdh926BLDplGM/4o
+							kU4d2sebrb0AbI6Y8Rr4
+							9Ggd1KPrLOBbuWqNDO9a
+							09zdXQ+3Y3bOkguA5ByA
+							8aom4ExE5HE6Y6L0MO7/
+							I5CnDy2UNg74/6bUP5TX
+							rr0sWrpcxamCy6bECjY9
+							iSnCIroWgwhmP5g0kqMa
+							HxfPMems3hBEar5+6VrD
+							Nbz/sEotuVupPkiY9zOS
+							gY/rQvC50Qt+dExBMpED
+							AgqWSupDcDUmGnUREw92
+							OsgbrvHVNVrB0x0HzGgA
+							Bu9umLOpjYADoJsoNrX2
+							he1pJiPgccBkSwzNZBzC
+							bjbyCDh9OeSAjTzwYXVV
+							RyCjZ8Gh5/2qNzMTzzJa
+							BIee9zMRcvE2OxGc0QAM
+							Pe9nPgDTJoLxRIWbt8CW
+							LwnGGs/7uV16SLm6zypV
+							bVYt9NWnIIvR+JbRVXbd
+							DmGRWpf8jHB0iRVMy1iF
+							ed4fNWZAjVLx9+e23DCS
+							wHPVRRddVMUxZI2LKiPY
+							KcGxEB5aQwo2AmmbhODj
+							jk8GfPDBBwn98QVpvvO8
+							n6sAw5ER/qbZG26hx9Ya
+							R+f4Dom9nAQgNQ2Agshk
+							nvdZ2MYmcebMmXZkbxfX
+							Z3gfrYvwYOr3V11X/jA9
+							fo/SNg64CcPRIt/QgHuk
+							Sg3leZ/9XzgzvvDwK8jR
+							+fbD4uXGG280H4H47nPf
+							IsF5N98sgQPiPxAf1cny
+							ptrPrTk//CDtxAs9fI8E
+							sYwBQFBqKM/71esvLi42
+							h9zE46Qcr6V33nmnfaIA
+							R4+8XIWzyLFjx5o1DKDE
+							aCFZ3urlN+fztOmAiQYd
+							sYzbWr7lwacT6qKG8rxf
+							vV48lPKQoBuefPLJ9kNU
+							49QSnfHjjz8276V8woE9
+							Yz5IAyXLW1RUVL2KZnve
+							pACIE3QmJoE9r/s8729W
+							HQ+LF/Q/fQc9bqCqR1g8
+							nvexEeStJD6WiEVMbZ73
+							q6MBT/j47MMyesGCBXLb
+							bbfZpxOwjkHMus8mVL8u
+							lbzVr20u500CgOhbAC9V
+							x4ee530FH76lFV+ezR+f
+							feATEHSQo4FS89ksWY91
+							ed73A4BPEjg/zTgQx3qb
+							b3fwLQ2+OuQn/5ZmXXn9
+							1zXXMHwhbcSNxHH4ueee
+							mzL4aHRDed7HChp/zXwP
+							gyUYPt1w4YUX2jhhnsVb
+							cnC/l19+ucrsGM6NPohZ
+							P1RbXssQ/kufQWrK4jbB
+							zeKdEPO8XylelbHZuh/r
+							f5jfoyMialkHZAmGdULP
+							JB92mYBYoefbHpCbCTOZ
+							cN9IGTdunH3Tg+9ywBX9
+							nwQjjKjmswp4068tb4Kq
+							m2WUCqrKVylYvc0wSqfn
+							fbwmJHMWDufzvxdSW94M
+							G/J/rLluK65J6ID17VU6
+							Pe8nAx998YOP89rykt6c
+							KaM5YOh5P3Oh6zhgRgMw
+							c4c/bLkDYFpnweFtCEfA
+							0wFDL/khGNIxAiEHTMeo
+							h3V6I+DpgF5MGAhHoBFH
+							IOSAjTjYYVU1R+B/XyxW
+							7PWm3WkAAAAASUVORK5C
+							YIIBAAAATwAAAAIAAAAU
+							AAAAUGFzdGVkIEdyYXBo
+							aWMgMS5wbmcHAAAAVFhU
+							LnJ0ZhAAAAAQAAAAgWJ5
+							XbYBAAAAAAAAAAAAAL0P
+							gF22AQAAAAAAAAAAAAAB
+							AAAAAAAAgHIRAAD1DQAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYxNjcxXGNvY29h
+							c3VicnRmNjAwCntcZm9u
+							dHRibFxmMFxmc3dpc3Nc
+							ZmNoYXJzZXQwIEhlbHZl
+							dGljYTtcZjFcZnN3aXNz
+							XGZjaGFyc2V0MCBIZWx2
+							ZXRpY2EtQm9sZDtcZjJc
+							Zm5pbFxmY2hhcnNldDAg
+							Q29uc29sYXMtQm9sZDsK
+							fQp7XGNvbG9ydGJsO1xy
+							ZWQyNTVcZ3JlZW4yNTVc
+							Ymx1ZTI1NTtccmVkMFxn
+							cmVlbjBcYmx1ZTA7XHJl
+							ZDI1MVxncmVlbjJcYmx1
+							ZTc7XHJlZDI1MVxncmVl
+							bjJcYmx1ZTI1NTsKXHJl
+							ZDBcZ3JlZW4wXGJsdWUy
+							MzM7fQp7XCpcZXhwYW5k
+							ZWRjb2xvcnRibDs7XGNz
+							c3JnYlxjMFxjMFxjMFxj
+							ODQ3MDZcY25hbWUgY29u
+							dHJvbFRleHRDb2xvcjtc
+							Y3NzcmdiXGMxMDAwMDBc
+							YzE0OTEzXGMwO1xjc3Ny
+							Z2JcYzEwMDAwMFxjMjUy
+							NzlcYzEwMDAwMDsKXGNz
+							c3JnYlxjMFxjMFxjOTMz
+							MzM7fQpccGFyZFx0eDU2
+							MFx0eDExMjBcdHgxNjgw
+							XHR4MjI0MFx0eDI4MDBc
+							dHgzMzYwXHR4MzkyMFx0
+							eDQ0ODBcdHg1MDQwXHR4
+							NTYwMFx0eDYxNjBcdHg2
+							NzIwXHBhcmRpcm5hdHVy
+							YWxccGFydGlnaHRlbmZh
+							Y3RvcjAKClxmMFxmczMw
+							IFxjZjIgTmFtZTogTWFj
+							cm8gUmVwb3NpdG9yeSBV
+							cGRhdGVyXApWZXJzaW9u
+							OiAxLjEuMFwKVXBkYXRl
+							ZDogMjAxOS8wOS8xNiAw
+							Njo0NSBQU1RcCkJ5OiBE
+							YW4gVGhvbWFzXApcClxw
+							YXJkXHR4NTYwXHR4MTEy
+							MFx0eDE2ODBcdHgyMjQw
+							XHR4MjgwMFx0eDMzNjBc
+							dHgzOTIwXHR4NDQ4MFx0
+							eDUwNDBcdHg1NjAwXHR4
+							NjE2MFx0eDY3MjBccGFy
+							ZGlybmF0dXJhbFxwYXJ0
+							aWdodGVuZmFjdG9yMAoK
+							XGYxXGJcZnMzNiBcY2Yy
+							IFBVUlBPU0U6ClxmMFxi
+							MFxmczMwIFwKXApSZXBs
+							YWNlcyBhbGwgdGhlIGZp
+							bGVzIGluIHRoZSBNYWNy
+							byBSZXBvc2l0b3J5IHdp
+							dGggdGhlIHNvdXJjZSBm
+							aWxlcyBmb3IgdGhlIGxh
+							dGVzdCB2ZXJzaW9ucyBv
+							ZiBhbGwgR3JvdXBzIGFu
+							ZCBNYWNyb3MuXApcCgpc
+							ZjFcYlxmczM2IEZJUlNU
+							LVRJTUUgVVNBR0U6Clxm
+							MFxiMFxmczMwIFwKXAoK
+							XGYxXGIgXGNmMyBNQU5E
+							QVRPUlk6ClxmMFxiMCBc
+							Y2YyIFwKXApZb3UgTVVT
+							VCBjaGFuZ2UgdGhlIGZp
+							cnN0IFxjZjQgbWFnZW50
+							YS1jb2xvcmVkXGNmMiAg
+							YWN0aW9uIHRvIHNldCAK
+							XGYyXGIgSW5zdGFuY2Vf
+							cmVwb3NpdG9yeUZvbGRl
+							clBhdGgKXGYwXGIwICB0
+							byB0aGUgbG9jYXRpb24g
+							b2YgeW91ciByZXBvc2l0
+							b3J5LCBhbmQgeW91IE1V
+							U1QgZW5hYmxlIHRoZSBh
+							Y3Rpb24uXApcClxwYXJk
+							XHR4NTYwXHR4MTEyMFx0
+							eDE2ODBcdHgyMjQwXHR4
+							MjgwMFx0eDMzNjBcdHgz
+							OTIwXHR4NDQ4MFx0eDUw
+							NDBcdHg1NjAwXHR4NjE2
+							MFx0eDY3MjBccGFyZGly
+							bmF0dXJhbFxwYXJ0aWdo
+							dGVuZmFjdG9yMAoKXGYx
+							XGIgXGNmMiBPUFRJT05B
+							TDoKXGYwXGIwIFwKXApZ
+							b3UgQ0FOIGVuYWJsZSB0
+							aGUgc2Vjb25kIFxjZjQg
+							bWFnZW50YS1jb2xvcmVk
+							XGNmMiAgYWN0aW9uIHRv
+							IHNldCAKXGYyXGIgSW5z
+							dGFuY2VfYnlwYXNzVHJh
+							c2gKXGYwXGIwICB0byAK
+							XGYxXGIgdHJ1ZQpcZjBc
+							YjAgLCBpZiB5b3Ugd2Fu
+							dCB0byBhdm9pZCB1c2lu
+							ZyB0aGUgdHJhc2ggd2hl
+							biB0aGUgClxmMVxiIERh
+							dGEKXGYwXGIwICBmb2xk
+							ZXIgaXMgZGVsZXRlZC5c
+							ClwKWW91IENBTiBlbmFi
+							bGUgdGhlIHNlY29uZCBc
+							Y2Y0IG1hZ2VudGEtY29s
+							b3JlZFxjZjIgIGFjdGlv
+							biB0byBzZXQgClxmMlxi
+							IEluc3RhbmNlX3NhdmVB
+							c0pzb24KXGYwXGIwICB0
+							byAKXGYxXGIgdHJ1ZQpc
+							ZjBcYjAgLCBpZiB5b3Ug
+							d2FudCB0byBzYXZlIHlv
+							dXIgbWFjcm9zIGFzIEpT
+							T04gaW5zdGVhZCBvZiBY
+							TUwuIEpTT04gaXMgZWFz
+							aWVyIHRvIHJlYWQsIG1v
+							cmUgY29tcGFjdCwgYW5k
+							ICJEaWZmIiBwcm9ncmFt
+							cyB0ZW5kIHRvIHdvcmsg
+							YmV0dGVyIHdpdGggSlNP
+							TiB0aGFuIFhNTCwgZXNw
+							ZWNpYWxseSBLZXlib2Fy
+							ZCBNYWVzdHJvJ3MgWE1M
+							LiBUaGUgcmVhc29uIGl0
+							J3Mgbm90IHRoZSBkZWZh
+							dWx0IGZvcm1hdCBpcyB0
+							aGF0IEkgdGhvdWdodCBk
+							ZWZhdWx0aW5nIHRvIHRo
+							ZSBmb3JtYXQgS2V5Ym9h
+							cmQgTWFlc3RybyBjb25z
+							aWRlcnMgaXRzIHN0YW5k
+							YXJkIGZvcm1hdCB3YXMg
+							d2hhdCBwZW9wbGUgd291
+							bGQgaW5pdGlhbGx5IGV4
+							cGVjdC5cClwKWW91IENB
+							TiBlbmFibGUgdGhlIHRo
+							aXJkIFxjZjQgbWFnZW50
+							YS1jb2xvcmVkXGNmMiAg
+							YWN0aW9uIHRvIHNldCAK
+							XGYyXGIgSW5zdGFuY2Vf
+							c2hvd0xvZwpcZjBcYjAg
+							IHRvIApcZjFcYiB0cnVl
+							ClxmMFxiMCAsIGlmIHlv
+							dSB3YW50IHRvIGRpc3Bs
+							YXkgdGhlIGxvZy4gWW91
+							IG5vcm1hbGx5IHdvbid0
+							IGRvIHRoaXMgdW5sZXNz
+							IEkgYXNrIHlvdSB0bywg
+							Zm9yIGRlYnVnZ2luZyBw
+							dXJwb3Nlcy5cClwKXHBh
+							cmRcdHg1NjBcdHgxMTIw
+							XHR4MTY4MFx0eDIyNDBc
+							dHgyODAwXHR4MzM2MFx0
+							eDM5MjBcdHg0NDgwXHR4
+							NTA0MFx0eDU2MDBcdHg2
+							MTYwXHR4NjcyMFxwYXJk
+							aXJuYXR1cmFsXHBhcnRp
+							Z2h0ZW5mYWN0b3IwCgpc
+							ZjFcYlxmczM2IFxjZjIg
+							UkVTVUxUUzoKXGYwXGIw
+							XGZzMzAgXApcCldoZW4g
+							eW91IHJ1biB0aGlzIG1h
+							Y3JvLCBpdCBjcmVhdGVz
+							IGEgZm9sZGVyIGNhbGxl
+							ZCAKXGYyXGIgRGF0YQpc
+							ZjBcYjAgIGluc2lkZSB0
+							aGUgbG9jYXRpb24gc3Bl
+							Y2lmaWVkIGluIApcZjJc
+							YiBJbnN0YW5jZV9yZXBv
+							c2l0b3J5Rm9sZGVyUGF0
+							aApcZjBcYjAgLCBhbmQg
+							c3RvcmVzIHRoZSBsYXRl
+							c3Qgc291cmNlcyBmb3Ig
+							dGhlIGdyb3VwcyBhbmQg
+							bWFjcm9zLlwKXAoKXGYx
+							XGIgXGNmMyBXQVJOSU5H
+							OgpcZjBcYjAgXGNmMiBc
+							ClwKVGhpcyBtYWNybyBk
+							ZWxldGVzIHRoZSBleGlz
+							dGluZyAKXGYyXGIgRGF0
+							YQpcZjBcYjAgIGZvbGRl
+							ciAoaWYgcHJlc2VudCkg
+							YmVmb3JlIHNhdmluZyB0
+							aGUgbGF0ZXN0IGdyb3Vw
+							cyBhbmQgbWFjcm9zLiAK
+							XGYxXGIgRG9uJ3QgcHV0
+							IGFueXRoaW5nIGluIHRo
+							ZSAiClxmMiBEYXRhClxm
+							MSAiIGZvbGRlciB5b3Ug
+							ZG9uJ3Qgd2FudCB0byBs
+							b3NlLgpcZjBcYjAgXApc
+							CgpcZjFcYlxmczM2IFZF
+							UlNJT04gQ09OVFJPTDoK
+							XGYwXGIwXGZzMzAgXApc
+							CkknbGwgYXNzdW1lIHlv
+							dSdyZSB1c2luZyBzb21l
+							IHZlcnNpb24gb2YgR2l0
+							LiBDcmVhdGUgYSBHaXQg
+							cmVwb3NpdG9yeSBpbnNp
+							ZGUgeW91ciByZXBvc2l0
+							b3J5IGZvbGRlciAoClxm
+							MlxiIEluc3RhbmNlX3Jl
+							cG9zaXRvcnlGb2xkZXJQ
+							YXRoClxmMFxiMCApLCBh
+							bmQgYWRkIHRoZSAKXGYy
+							XGIgRGF0YQpcZjBcYjAg
+							IGZvbGRlciB0byB0aGUg
+							R2l0IHJlcG9zaXRvcnku
+							XApcClxwYXJkXHR4NzIw
+							XHR4MTQ0MFx0eDIxNjBc
+							dHgyODgwXHR4MzYwMFx0
+							eDQzMjBcdHg1MDQwXHR4
+							NTc2MFx0eDY0ODBcdHg3
+							MjAwXHR4NzkyMFx0eDg2
+							NDBccGFyZGlybmF0dXJh
+							bFxwYXJ0aWdodGVuZmFj
+							dG9yMAoKXGZzMjQgXGNm
+							MCB7e1xOZVhUR3JhcGhp
+							YyBQYXN0ZWQgR3JhcGhp
+							YyAxLnBuZyBcd2lkdGgz
+							MjAwIFxoZWlnaHQxMjQw
+							IFxhcHBsZWF0dGFjaG1l
+							bnRwYWRkaW5nMCBcYXBw
+							bGVlbWJlZHR5cGUwIFxh
+							cHBsZWFxYwp9rH1ccGFy
+							ZFx0eDcyMFx0eDE0NDBc
+							dHgyMTYwXHR4Mjg4MFx0
+							eDM2MDBcdHg0MzIwXHR4
+							NTA0MFx0eDU3NjBcdHg2
+							NDgwXHR4NzIwMFx0eDc5
+							MjBcdHg4NjQwXHBhcmRp
+							cm5hdHVyYWxccGFydGln
+							aHRlbmZhY3RvcjAKClxm
+							czMwIFxjZjIgXApccGFy
+							ZFx0eDU2MFx0eDExMjBc
+							dHgxNjgwXHR4MjI0MFx0
+							eDI4MDBcdHgzMzYwXHR4
+							MzkyMFx0eDQ0ODBcdHg1
+							MDQwXHR4NTYwMFx0eDYx
+							NjBcdHg2NzIwXHBhcmRp
+							cm5hdHVyYWxccGFydGln
+							aHRlbmZhY3RvcjAKXGNm
+							MiBcClxwYXJkXHR4NTYw
+							XHR4MTEyMFx0eDE2ODBc
+							dHgyMjQwXHR4MjgwMFx0
+							eDMzNjBcdHgzOTIwXHR4
+							NDQ4MFx0eDUwNDBcdHg1
+							NjAwXHR4NjE2MFx0eDY3
+							MjBccGFyZGlybmF0dXJh
+							bFxwYXJ0aWdodGVuZmFj
+							dG9yMAoKXGYxXGJcZnMz
+							NiBcY2YyIEZVTEwgRE9D
+							VU1FTlRBVElPTjoKXGYw
+							XGIwXGZzMzAgXApcClRo
+							ZSBmdWxsIGRvY3VtZW50
+							YXRpb24gY2FuIGJlIGZv
+							dW5kIGhlcmU6IHtcZmll
+							bGR7XCpcZmxkaW5zdHtI
+							WVBFUkxJTksgImh0dHBz
+							Oi8vZ2l0aHViLmNvbS9k
+							YWd3YXJlL0RhblRob21h
+							cy9ibG9iL21hc3Rlci9N
+							YWNyb1JlcG9zaXRvcnkv
+							TWFjcm9SZXBvc2l0b3J5
+							Lm1kIn19e1xmbGRyc2x0
+							IFxjZjUgXGV4cG5kMFxl
+							eHBuZHR3MFxrZXJuaW5n
+							MApcdWwgXHVsYzUgaHR0
+							cDovL2JpdC5seS8ybFRN
+							WEY3fX1cClwKClxmMVxi
+							XGZzMzYgVkVSU0lPTiBI
+							SVNUT1JZOgpcZjBcYjBc
+							ZnMzMCBcCjEuMS4wIC0g
+							QWRkZWQgc3VwcG9ydCBm
+							b3Igc2F2aW5nIGZpbGVz
+							IGFzIEpTT04gKGFkZWQg
+							dGhlIHZhcmlhYmxlICJJ
+							bnN0YW5jZV9zYXZlQXNK
+							c29uIikuXAoxLjAuMiAt
+							IEZpeGVkIGFuIGlzc3Vl
+							IHdpdGggImJsYW5rIiBH
+							cm91cCBuYW1lcy4gQ2xl
+							YW5lZCB1cCBzb21lIGVy
+							cm9yLWNoZWNraW5nLiBB
+							ZGRlZCB0aGUgdmFyaWFi
+							bGUgIkluc3RhbmNlX3No
+							b3dMb2ciLlwKMS4wLjEg
+							LSBDaGFuZ2VkIHRvIHVz
+							ZSAiSW5zdGFuY2UiIHZh
+							cmlhYmxlcy4gQWRkZWQg
+							dmFyaWFibGUgIkluc3Rh
+							bmNlX2J5cGFzc1RyYXNo
+							Ii5cCjEuMC4wIC0gSW5p
+							dGlhbCB2ZXJzaW9uLn0=
+							</data>
+				<key>Title</key>
+				<string>Macro Repository Updater v1.1.0</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Yellow</string>
+				<key>ActionUID</key>
+				<integer>9385872</integer>
+				<key>MacroActionType</key>
+				<string>Comment</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC4LBAAAKwAAAAEAAAAD
+							BAAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYxNjcxXGNvY29h
+							c3VicnRmNjAwCntcZm9u
+							dHRibFxmMFxmc3dpc3Nc
+							ZmNoYXJzZXQwIEhlbHZl
+							dGljYTt9CntcY29sb3J0
+							Ymw7XHJlZDI1NVxncmVl
+							bjI1NVxibHVlMjU1O30K
+							e1wqXGV4cGFuZGVkY29s
+							b3J0Ymw7O30KXHBhcmRc
+							dHg1NjBcdHgxMTIwXHR4
+							MTY4MFx0eDIyNDBcdHgy
+							ODAwXHR4MzM2MFx0eDM5
+							MjBcdHg0NDgwXHR4NTA0
+							MFx0eDU2MDBcdHg2MTYw
+							XHR4NjcyMFxwYXJkaXJu
+							YXR1cmFsXHBhcnRpZ2h0
+							ZW5mYWN0b3IwCgpcZjBc
+							ZnMyNCBcY2YwIENvcHly
+							aWdodCAoYykgMjAxOSBE
+							YW5pZWwgVGhvbWFzXApc
+							ClBlcm1pc3Npb24gdG8g
+							dXNlLCBjb3B5LCBtb2Rp
+							ZnksIGFuZC9vciBkaXN0
+							cmlidXRlIHRoaXMgc29m
+							dHdhcmUgZm9yIGFueSBw
+							dXJwb3NlIHdpdGggb3Ig
+							d2l0aG91dCBmZWUgaXMg
+							aGVyZWJ5IGdyYW50ZWQs
+							IHByb3ZpZGVkIHRoYXQg
+							dGhlIGFib3ZlIGNvcHly
+							aWdodCBub3RpY2UgYW5k
+							IHRoaXMgcGVybWlzc2lv
+							biBub3RpY2UgYXBwZWFy
+							IGluIGFsbCBjb3BpZXMu
+							XApcClRIRSBTT0ZUV0FS
+							RSBJUyBQUk9WSURFRCAi
+							QVMgSVMiIEFORCBUSEUg
+							QVVUSE9SIERJU0NMQUlN
+							UyBBTEwgV0FSUkFOVElF
+							UyBXSVRIIFJFR0FSRCBU
+							TyBUSElTIFNPRlRXQVJF
+							IElOQ0xVRElORyBBTEwg
+							SU1QTElFRCBXQVJSQU5U
+							SUVTIE9GIE1FUkNIQU5U
+							QUJJTElUWSBBTkQgRklU
+							TkVTUy4gSU4gTk8gRVZF
+							TlQgU0hBTEwgVEhFIEFV
+							VEhPUiBCRSBMSUFCTEUg
+							Rk9SIEFOWSBTUEVDSUFM
+							LCBESVJFQ1QsIElORElS
+							RUNULCBPUiBDT05TRVFV
+							RU5USUFMIERBTUFHRVMg
+							T1IgQU5ZIERBTUFHRVMg
+							V0hBVFNPRVZFUiBSRVNV
+							TFRJTkcgRlJPTSBMT1NT
+							IE9GIFVTRSwgREFUQSBP
+							UiBQUk9GSVRTLCBXSEVU
+							SEVSIElOIEFOIEFDVElP
+							TiBPRiBDT05UUkFDVCwg
+							TkVHTElHRU5DRSBPUiBP
+							VEhFUiBUT1JUSU9VUyBB
+							Q1RJT04sIEFSSVNJTkcg
+							T1VUIE9GIE9SIElOIENP
+							Tk5FQ1RJT04gV0lUSCBU
+							SEUgVVNFIE9SIFBFUkZP
+							Uk1BTkNFIE9GIFRISVMg
+							U09GVFdBUkUufQEAAAAj
+							AAAAAQAAAAcAAABUWFQu
+							cnRmEAAAAOSucl22AQAA
+							AAAAAAAAAAA=
+							</data>
+				<key>Title</key>
+				<string>License Agreement / Disclaimer</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Magenta</string>
+				<key>ActionUID</key>
+				<integer>9385873</integer>
+				<key>MacroActionType</key>
+				<string>SetVariableToText</string>
+				<key>Text</key>
+				<string>~/htdocs/Keyboard Maestro</string>
+				<key>Variable</key>
+				<string>Instance_repositoryFolderPath</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Magenta</string>
+				<key>ActionUID</key>
+				<integer>9385874</integer>
+				<key>IsActive</key>
+				<false/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>SetVariableToText</string>
+				<key>Text</key>
+				<string>true</string>
+				<key>Variable</key>
+				<string>Instance_bypassTrash</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Magenta</string>
+				<key>ActionUID</key>
+				<integer>9385875</integer>
+				<key>IsActive</key>
+				<false/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>SetVariableToText</string>
+				<key>Text</key>
+				<string>true</string>
+				<key>Variable</key>
+				<string>Instance_saveAsJson</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Magenta</string>
+				<key>ActionUID</key>
+				<integer>9385876</integer>
+				<key>IsActive</key>
+				<false/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>SetVariableToText</string>
+				<key>Text</key>
+				<string>true</string>
+				<key>Variable</key>
+				<string>Instance_showLog</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Yellow</string>
+				<key>ActionName</key>
+				<string>Verify that the Repository Folder variable has been set</string>
+				<key>ActionUID</key>
+				<integer>9385877</integer>
+				<key>Conditions</key>
+				<dict>
+					<key>ConditionList</key>
+					<array>
+						<dict>
+							<key>ConditionType</key>
+							<string>Variable</string>
+							<key>Variable</key>
+							<string>Instance_repositoryFolderPath</string>
+							<key>VariableConditionType</key>
+							<string>IsEmpty</string>
+							<key>VariableValue</key>
+							<string>value</string>
+						</dict>
+					</array>
+					<key>ConditionListMatch</key>
+					<string>All</string>
+				</dict>
+				<key>ElseActionListDisclosed</key>
+				<false/>
+				<key>ElseActions</key>
+				<array/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>IfThenElse</string>
+				<key>ThenActions</key>
+				<array>
+					<dict>
+						<key>ActionName</key>
+						<string>Prompt: 'Please change the macro to specify the correct location of your Repository.'</string>
+						<key>ActionUID</key>
+						<integer>9385878</integer>
+						<key>Buttons</key>
+						<array>
+							<dict>
+								<key>Button</key>
+								<string>OK</string>
+								<key>Cancel</key>
+								<true/>
+							</dict>
+						</array>
+						<key>MacroActionType</key>
+						<string>PromptForUserInput</string>
+						<key>Prompt</key>
+						<string>Please change the macro to specify the correct location of your Repository.</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>Title</key>
+						<string>%ExecutingThisMacro%</string>
+						<key>Variables</key>
+						<array/>
+					</dict>
+				</array>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionName</key>
+				<string>Ask the user if it's OK to update the repository</string>
+				<key>ActionUID</key>
+				<integer>9385879</integer>
+				<key>Buttons</key>
+				<array>
+					<dict>
+						<key>Button</key>
+						<string>OK</string>
+					</dict>
+					<dict>
+						<key>Button</key>
+						<string>Cancel</string>
+						<key>Cancel</key>
+						<true/>
+					</dict>
+				</array>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>PromptForUserInput</string>
+				<key>Prompt</key>
+				<string>Click 'OK' to update the Macro Repository folder:
+
+%Variable%Instance_repositoryFolderPath%</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>Title</key>
+				<string>%ExecutingThisMacro%</string>
+				<key>Variables</key>
+				<array/>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Purple</string>
+				<key>ActionName</key>
+				<string>Show the Please Wait dialog</string>
+				<key>ActionUID</key>
+				<integer>9385880</integer>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>9385881</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>&lt;dict&gt;
+		&lt;key&gt;MacroActionType&lt;/key&gt;
+		&lt;string&gt;CustomPrompt&lt;/string&gt;
+		&lt;key&gt;Text&lt;/key&gt;
+		&lt;string&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+	&amp;lt;head&amp;gt;
+		&amp;lt;title&amp;gt;Macro Repository Updater&amp;lt;/title&amp;gt;
+		&amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&amp;gt;
+
+		&amp;lt;!-- ======== Top and Client =============================== --&amp;gt;
+		&amp;lt;style type="text/css"&amp;gt;
+			body {
+				overflow: hidden;
+				font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+				font-size: 14px;
+				text-align: center;
+				margin: 0;
+				background: #ececec;
+			}
+
+			#tblPleaseWait {
+				padding: 20px;
+			}
+			#divPleaseWaitMessage {
+				font-size: 20px;
+				font-weight: bold;
+				padding-bottom: 10px;
+			}
+			#divText {
+				font-size: 14px;
+			}
+
+			#tblCompleted {
+				padding-left: 20px;
+				padding-right: 10px;
+				padding-top: 20px;
+				padding-bottom: 10px;
+				width:100%;
+			}
+			#divCompletedMessage {
+				font-size: 20px;
+				font-weight: bold;
+				padding-bottom: 5px;
+			}
+			#divOkButton a {
+				float: right;
+				width: 50px;
+				margin-top:5px;
+			}
+
+			.hidden {
+				display: none;
+			}
+
+			.okButton {
+				box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+				background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+				background-color:#79bbff;
+				border-radius:6px;
+				border:1px solid #84bbf3;
+				display:inline-block;
+				cursor:pointer;
+				color:#ffffff;
+				font-family:Arial;
+				font-size:15px;
+				font-weight:bold;
+				padding:6px 24px;
+				text-decoration:none;
+				text-shadow:0px 1px 0px #528ecc;
+			}
+			.okButton:hover {
+				background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+				background-color:#378de5;
+			}
+			.okButton:active {
+				position:relative;
+				top:1px;
+			}
+
+		&amp;lt;/style&amp;gt;
+
+		&amp;lt;script type="text/javascript"&amp;gt;
+			Node.prototype.toggleClass = function toggleClass(className, include) {
+				var classNames = this.className.split(" ");
+				var index = classNames.indexOf(className);
+				if (include) {
+					if (index &amp;lt; 0) {
+						classNames.push(className);
+					}
+				} else {
+					if (index &amp;gt;= 0) {
+						classNames.splice(index, 1);
+					}
+				}
+				this.className = classNames.join(" ");
+			};
+
+			var _inDevMode = window.KeyboardMaestro.GetVariable("CustomHtmlPrompt_inDevMode") === "1";
+			var _left;
+			var _top;
+			var _width;
+			var _height;
+			var _availWindowWidth;
+			var _availWindowHeight;
+			var _completed;
+			function KMWindow() {
+				document.onkeydown = function(event) {
+					if (event.which == 13 &amp;amp;&amp;amp; _completed) {
+						window.KeyboardMaestro.Cancel("Cancel");
+					}
+				};
+
+				var ani = document.getElementById("ani") ;
+				ani.setAttribute( "src", "data:image/png;base64," +
+					"R0lGODlhGQE/AOcAAAAAAP///5eruD4+PoCSnZKmso6hrZWptneHkYiapT09" +
+					"PTo6Ov7+/jU1NSEhIc7Z4LHAyf7//8/a4bLAyrLBytDb4tng5N3j59bd4dHY" +
+					"3dPa38/X3DExMSQkJCsrKy4uLigoKC3T9paqty7V9yrQ9jHZ+CrO9SjM9A55" +
+					"rizS9yvR9ifK9C3U9+Hm6SnN9S7W+CPE8iTG8jDY+CjL9A11qS/X+CbI8wxx" +
+					"pSXH8w+AtSLC8SDA8CHB8RCEugttoSXF8RCGvAppnRKJvTDU9B+/8BKQxxWV" +
+					"yQ58sRWb0h277h257hai2Qlgkhqx6AplmBem3RaZzRGNxA9+synO9SC+7xed" +
+					"0ROTyh687yLD8v39/eTp7BWe1hGKwR+98Bmt5RSXzSLD8Rik2ZWotROOwhmq" +
+					"4Bii1DDW9h646RSRxImcpw+CuBqt4Rag1fr7+/f4+SzO8hy27C/S9DHY9xyx" +
+					"5CbI9Bip4Rqm1x+25hy37CXI8y7U9Rmp3fj5+hKNwY2jso+ir5OntCjH7yC9" +
+					"7RSSxxy47ivM8fX295Oms4yequru8O7x8oiaphqv5By16Bin3RCDtyK/7iG9" +
+					"6iC66SjK9Bu17By05izQ9Rqo2hOX0B667Kq7xinJ7y3Q9IaYo3iHkt/k6ISV" +
+					"oRwcHOfs7heg0i7R8whZio2grCXH8iTB6yO/6x6x4ibF7inO9hyv4vL09fz8" +
+					"/Ruz6gdPfijK8CbC6/v8/Buq2pCjr4KUn5GksXqKlaS4xdvi5i3R9fDz9BOW" +
+					"zh+04x2u3pKlshus3izU95ywvZ60wiPC7hidzSXD7xOZ0fT19qO2wx6v3/3+" +
+					"/qGzv3+Qm9fe4rzK09Pb36+/ya2+yBgYGJmvvI+mtJSrusDN1rbFztXc4Byr" +
+					"3C3W9x645yrO9iC557TDzVpaWszX332NmLrH0cnW3MTR2cfT28TP15emsKi2" +
+					"v9HZ3rLCzMrV25Got9LZ3goQEZuqtCe53NXe5dXV1eXl5YiZpJepsxuFn9ra" +
+					"2hAeJA1AXxYkKy3F5QAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQFMgD/ACwA" +
+					"AAAAGQE/AAAI/gD/CRxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPH" +
+					"jyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bNmzhz6tzJs6fPn0CDCh1KtKjR" +
+					"nAKSKl3KtKnTp1CjSp1KtarVq1izat3KNevHpSLCihED6NChAmjTql3Ltq3b" +
+					"t3Djyp1Lt67du3jz6sV7CBAgMQfCLvWoVMQBQLj+IEKUZpHjBJAjS55MubLl" +
+					"y5gza97MubPnz6BDi+bsOE0aRKZsFRAjOCnHwmIKGEgD6lmuXJ48IdjNu7fv" +
+					"38CDCx9OvLjx48iTK1/OvHny3LnIEeiEyBag1q8FGA5mqpM6CeDD/osfT768" +
+					"+fPo06tfz769+/fw48ufTx4dgTR/WLvemFQEIAOdpPMAPYYEYOCBCCao4IIM" +
+					"NujggxBGKOGEFFZo4YUYZmhgBIk88ABjuBywn0b94ZKGOub0ouGKLLbo4osw" +
+					"xigjguOYc4sp+mUnxh+goCNBBEAGKeSQRBZp5JFIJqnkkkw26eSTUEYp5ZRG" +
+					"NoOOLWkUIIIAOiLyTDqGMCAmAzOWaeaZaKY545gMnKNNJ7hsmR0gaeSSDZsd" +
+					"hBKKAw504OefgAYq6KCEFmrooYgmquiijDbq6KOQJsqnntXoM2Y22YDyh5z8" +
+					"CXBIndGMGYCefYIAggeopqrqqqy26uqr/rDGKuustNZq66245qqrrCD46cCe" +
+					"Y0YTzS2bctnpIYt4oo2oe3aA6gccRCvttNRWa+212Gar7bbcduvtt+CGK+64" +
+					"2n7wgQe9OlDNmNpoQ4ABnJIoQAHJtpPFvQH06QG0DfTr778AByzwwAQXbPDB" +
+					"CCes8MIMN+zwwwhzcC4Iv96bRTvtvCtidvQiQI3F+Z7KQb8LlGzyySinrPLK" +
+					"LLfs8sswxyzzzDTXbPPNLvt7bp4WU0ONxsbKW0ACCGgCsgP7kryAAkw37fTT" +
+					"UEct9dRUV2311VhnrfXWXHft9dQmN8CBBx048Mq9mmgCNMdEL3PvKwE4O3LJ" +
+					"X9dt99145633/t55LyD2BxTTcvYyy6zd6dAIOPPKK7TE7cHcTA8g+eSUV275" +
+					"5ZhnrvnmnHfu+eeghy766KRrroDfDQDuQBuCO+OM4UITTQwttLThOOQKlK77" +
+					"7rz37vvvwPN+er+qt8E6McTAnlFSiAtQu+1yN7B07sFXb/312Gdf/fCpU8wH" +
+					"60kpjxHzRB9gPB+3Sx+59uy37/772XOv+vdtHHCA+BeRjwAgbfDhRvrTg58A" +
+					"B0jAApoOdapzw/f8gj+L6O8a/fsfACZIwQpa8IIYzKAGN8jBDnrwgyAMoQhH" +
+					"SMISmpCCblDgNa7RwIrozw988F8ATkjDGtrwhjjMoQ53aAgF+sEP/i2kyAv9" +
+					"V6AdGvGISEyiEpdIwR7y4YdBnMgLU1hEJlrxiljMohWVkUIoGmBjhyOaH6g4" +
+					"Qy2a8YxoTKMHXdFDL4Ixdgh4hyEM4YoyqvGOeMyjFXuhDEO84x1RlIj+sOGK" +
+					"QtpRj4hMpCJN2ItCYgMbgYwI8xaBAGL04pKHXKQmN8nJCiriksiLJEQm6Yli" +
+					"KOKUmeykKleJx1MqohjFeFe8luepNHhiGYnIZSpZycteXjGXiSCcLINGy0/l" +
+					"QhfA5IMvl8lMJYoDmLrQBbFmOT4BAAIR5NCFFkTBTXtUo5ngDCcNxaEMbopC" +
+					"E8sAhS2omT8BiMEUBNCEO7RAz3pq4RMX/rCABTAgDQ2wIwMZ2IBAB0rQghr0" +
+					"oAhNqEIXytCGOvShEI2oRCcKUYDCQxrbgIYFdvGJFtiznprARwKCwU4HCuAA" +
+					"tuiEJqjRgpa61KWf2IU+MbCNbfRTAzjNqU53ytOe+vSnQA2qUIdK1KIa9ahI" +
+					"TWpRMYoBje7iAh19qUvdQY1nIOIQJXWhdgqACAJMYxpRlSpMLyBTfZr1rGhN" +
+					"q1rXyta2uvWtcI2rXOdK17ra1a67eGpYxdqCdEzDGZ3Iz4hoKQIxYOkWEEis" +
+					"YhfL2MY69rGQjaxkJ0vZylr2spjNrGY3y9nHygMUptDSYKupHUD8IQ23QMQ6" +
+					"KMDa1rr2tbCN6K1sZ0vb2tr2trjNrW53y9ve+va3rZXHMzphimDoh5ikFQsu" +
+					"TJGGToDiFgSIrnSnS93qWve62M2udrfL3e5697vgDa94xzveW4AiAYj4wyGO" +
+					"i9zkGiY2ifmDAeZL3/ra9774za9+98vf/vr3vwAOsIAHTOACF/gPtgjGelsz" +
+					"WloWJiwQtp+EJ0zhClv4whjOsIY3zOEOe/jDIA6xiEccYghDuCkh6YqKV8zi" +
+					"Frv4xTCO8VSOQuMa2/jGOM6xjnfM4x77+MdADrKQh0zkIhv5yEhOspKXzOQm" +
+					"O/nJUI6ylKdM5Spb+cpPDggAIfkEBTIA/wAsDgAMABkAIgAACP4A//0LJrCg" +
+					"wYMIEypcyLChw4cMK0BceG4iRBD8SjFxEsTHDRRSeqh5yI9Jx49H1ACJ4gvT" +
+					"Q5M+aIDswaWIry1LHjq5ITOkkCJftjyp8zCIzBw0gQr14uWhjyM5gHAZFPSJ" +
+					"F0pNHtKI2mcQFDaOrhJq9BCFkDFGkLDZwwiOkiRnHuZAi6SMo7Zvu2R6KMRI" +
+					"lTB75uC50oXIDkEPx/wNrKQLFSI8dEB6aMSOsEpJDPPAAiMGmIfHgP0StCMy" +
+					"jB8xcPx4aOcOlc2nY9igs8LGQ2CQOqemPeOEixkP73TGYWPFJN8mTLh4GAnH" +
+					"ihW9XXwjQUKFiYepJkU3QV1FihC8Hk3OOjGl+3cWI0aEeLiqvPcQw0Z0e1Fj" +
+					"xMNAJM6jpy9DxguEiyBw0Dy87MdfCQjK4ZAh+7wRhx4jmCGhHAiaoZAmBn1i" +
+					"0YYcdujhhwgFBAAh+QQFMgD/ACwiABIA1QAXAAAI/gBjlWLCxEkQHzdQSOmh" +
+					"5p/DhxAjSpxIsaLFixgzatzIsaPHjxdLGUSI4ogaIFF8YQLJsqXLlzBjyszI" +
+					"5CANhT24FPG1ZcnMn0CDCh3q0cmNmwt1ftnypA7Rp1CjSmUZ5GaOnEWWPvHi" +
+					"ZarXr2Cn+jiSA0ifQV/YbKXUJKzbt3Bd0ih7FgobR14oEWoUt6/fvxNRCBlj" +
+					"xO4eRnCUJDkDuLHjtzkIIylzGI/iLpkea94MVYiRKmH2zMFzpQuRHYI4q14t" +
+					"c0wVO6KVdKFChAcYSKxz6/ZoxI6wSklO88ACIwaY3ciTVzwG7I6gHTx0YPkR" +
+					"A8cP5diz27lDRTqMHzhskNBZYSO7eeTMIBWvPn7GCRczzstnfad4+BWT3psw" +
+					"4WK+/82R4LDCCu658A0JJKhgwn8MNpbKJAWaQIIlKqQQAi8NZtjXLCdMgWCF" +
+					"IbAwwgghaGiiW6t4COIwI3TzQg0jnCijV4GQYCELIr4ogwwvzOgjVJukkKOO" +
+					"JRQpx49IChUIJyHoMYIZUMpRpBlJVjlTQAAh+QQFMgD/ACwvABIAyQAXAAAI" +
+					"/gBjlWLCxEkQHzdQSOmh5p/DhxAjSpxIsaLFixgzatzIsaNHj6UMIkRxRA2Q" +
+					"KL4wfVzJsqXLlzBjVmRykIbCHlyK+NqyRKbPn0CDCsXo5IbNhTm/bHlSZ6jT" +
+					"p1CjagxiMwfOIkqfePEitavXr0F9HMkBpM+gL2y0UmoCtq3btxtpkDULhY0j" +
+					"L5QINYLLt29fFELGGKm7hxEcJUnO+F3MuGsOwUjKFMaDuEumxpgzAxVipEqY" +
+					"PXPwXOlCZIcgzahTsxxTxQ5oJV2oEOEBBpLq27gxGrEjrFKS0jywwIgBJrfx" +
+					"4w+PAbsjaAcPHVh+xMDxA7l13HbuUIEO4wcOG3RWjti4Th41M0jDp4efccLF" +
+					"jPLwG98Z/n3FpPYmTLiIz79vJBwrrMCeC9+QQIIKJvSnoFupTDKgCSRYokIK" +
+					"IfCy4IVezXLCFAZOGAILI4wQAoYkQrUKhx4OM0I3L9QwQokwChUICRSyAGKL" +
+					"MsjwQow8+rRJCjfiWMKQcvRo5EuBcBKCHiOY4aQcQ5px5JQrBQQAIfkEBTIA" +
+					"/wAsPAASALwAFwAACP4AY5ViwsRJEB83UEjpoeafw4cQI0qcSLGixYsYM2rc" +
+					"yLGjx4ilDCJEcUQNkCi+MH1cybKly5cwWzI5SENhDy5FfG1ZErOnz59Ag0Z0" +
+					"cqPmQpxftjypI7Sp06dQJQapmeNmkaRPvHiJyrWr15Y+juQA0mfQFzZZKTX5" +
+					"yratW4k0xpaFwsaRF0qEGr3dy5crCiFjjNDdwwiOkiRn+ipe/DNHYCRlCOM5" +
+					"3CUT48uYVwoxUiXMnjl4rnQhskNQ5tOoL46pYuezki5UiPAAAym17dsOjdgR" +
+					"VikJaR5YYMQAg7v46WPA7gjawUMHlh8xcPwwTp2xnTtUnMP4gcMGnRU2qouL" +
+					"58sMkvDo32eccDFjvPu2d4R3XzFpvQkTLt7r7xoJx4oV6rnwDQkkqGDCfgg+" +
+					"lcokAZpAgiUqpBACLwlWGNQsJ0xBYIQhsDDCCCFYKGJPq2jI4TAjdPNCDSOM" +
+					"6KJLgZAgIQseriiDDC+8qONHm6RQo40lBCnHjkRuFAgnIegxghlMyhGkGUVG" +
+					"eVFAACH5BAUyAP8ALEkAEgCuABcAAAj+AGOVYsLESRAfN1BI6aHmn8OHECNK" +
+					"nEixosWLGDNq3MixY8VSBhGiOKIGSBRfmDyqXMmypcuXG5kcpKGwB5civrYs" +
+					"gcmzp8+fPZ3coLnw5pctT+oAXcq0qVOHQWjmsFnk6BMvXp5q3cqVo48jOYD0" +
+					"GfSFzVVKTbqqXcuWRtixUNg48kKJUCO2ePM2RSFkjJG4exjBUZLkjN7DiF/m" +
+					"8IukTGA8hLtkSky58kYhRqqE2TMHz5UuRHYIsky6tMQxVexwVtKFChEeYCCZ" +
+					"nl3aiB1hlZKE5oEFRgwwtINTPgbsjqAdPHRg+REDxw/h0PXauUNFOYwfOGzQ" +
+					"WWEjuve1zCCG+W6+fcYJFzO+q996x3f2FZPOmzDhYr39ppFwrFhh3sU3EiSo" +
+					"YMJ9BP6UyiT9mUCCJSqkEAIvBUYI0ywnTAFggyGwMMIIIUjoIUurWIjhMCN0" +
+					"80INI3yoYkeBkOAgCxqeKIMML6xoY0abpBCjjCX0KMeNQFYUCCch6DGCGUjK" +
+					"0aMZQTYZUUAAIfkEBTIA/wAsVgASAKIAFwAACP4AY5ViwsRJEB83UEjpoeaf" +
+					"w4cQI0qcSLGixYsYM2rcyFFjKYMIURxRAySKL0wdU6pcybKlS4tMDtJQ2INL" +
+					"EV9blrzcybOnz5VObsxcaPPLlid1fipdytRnkJk5ahYx+sSLl6ZYs2rF6ONI" +
+					"DiB9Bn1hU5VSk61o02ql8TUsFDaOvFAi1Eit3bs9UQgZY+TtHkZwlCQ5g7ew" +
+					"4ZQ5+CIp8xeP4C6ZDkueXFGIkSph9szBc6ULkR2CKIsePaaKHc1KulAhwgMM" +
+					"pNGwJRuxI6xSks88sMCIASa2b7zHgN0RtIOHDiw/YuD48bt5Wjt3qByH8QOH" +
+					"DTorbDjfnpUZpN3KsYHPOOFiBvfzS+/str5iEnkTJlygn98zEo4VK8a7+EaC" +
+					"hAoT9AXoUiqT6GcCCZaokEIIvAjooEqznDBFfwqGwMIII4Tw4IYbrTJhhcOM" +
+					"0M0LNYzA4YkXBULCgixcSKIMMryA4owTbZKCiy+WoKMcNPb4UCCchKDHCGYU" +
+					"KYeOZvjoY0AAIfkEBTIA/wAsYwASAJUAFwAACP4AY5ViwsRJEB83UEjpoeaf" +
+					"w4cQI0qcSLGixYsYM2rcyPFfKYMIURxRAySKL0wdU6pcybLlSiYHaSjswaWI" +
+					"ry1LXOrcybMnRic3ZC6s+WXLkzo+kypdqjKIzBw0ixR94sUL06tYsz70cSQH" +
+					"kD6DvrChSqmJ1rNoedLwChYKG0deKBFqlLau3Y4ohIwx4nYPIzhKkpy5S7gw" +
+					"xRx7kZTxiydwl0yGI0cWYqRKmD1z8FzpQmSHIMmg746pYgezki5UiPAAAym0" +
+					"a7RG7AirlKQzDywwYoB5zRvrMWB3BO3goQPLjxg4fvRertTOHSrFYfzAYYPO" +
+					"ChvMs/NkBik3cuszTny4mKG9fMs7uamvmCTehAkX5uOnjIRjxYrwLr6RIKHC" +
+					"hPz/GqUyCX4mkGCJCimEwAuADFo0ywlT7IdgCCyMMEIIDWYo0SoRTjjMCN28" +
+					"UMMIGpboUCAkJMhChSLKIMMLJpa4SQostljCjXLEqGEgnISgxwhmBCnHjWbo" +
+					"mGFAACH5BAUyAP8ALHAAEgCHABcAAAj+AGOVYsLESRAfN1BI6aHmn8OHECNK" +
+					"nEixosWLGDNq3PiwlEGEKI6oARLFFyaOKFOqXMkSI5ODNBT24FLE15YlLXPq" +
+					"3MnzoZMbMRfS/LLlSZ2eSJMqrRgkZo6ZRYg+8eJlqdWrPX0cyQGkz6AvbKZS" +
+					"aoK1rNmUNLh6hcLGkRdKhBqdnUu3IgohY4yw3cMIjpIkZ+oKHpwjL5IyfPH8" +
+					"7ZJpsOO5QoxUCbNnDp4rXYjsEPS4M9YxVexUVtKFChEeYCB5Xq3UiB1hlZJo" +
+					"5oEFRgwwrHPzPAbsjqAdPHRg+REDxw/dyFvauUNFOIwfOGzQWWEjufWUzCDZ" +
+					"Lj59xgkXM652i9d4x3b0FZO+mzDhYrx7i5FwrFjh3cU3EiRUmHjPX2KqSfWZ" +
+					"QIIlKqQQAi/9JejQLCdMgV+BIbAwwgghKJjgKg5COMwI3bxQwwgW9hcICQay" +
+					"IKGHMsjwQoj8bZLCiSiWIKMcLL4XCCch6DGCGTzKIaMZNboXEAAh+QQFMgD/" +
+					"ACx9ABIAewAXAAAI/gBjlWLCxEkQHzdQSOmh5p/DhxAjSpxIsaLFixgzapRY" +
+					"yiBCFEfUAIniC9PGkyhTqlwpkclBGgp7cCnia8sSljhz6mTp5AbMhTO/bHlS" +
+					"Z6fRo0gjBoGZQ2YRoU+8eElKtSpLH0dyAOkz6AubqJSaWB1LFiMNrVyhsHHk" +
+					"hRKhRmXjyn2IQsgYI2r3MIKjJMmZuYDJ5riLpIxePH27ZArMmKoQI1XC7JmD" +
+					"50oXIjsENd5sdEwVO5OVdKFChAcYSJxT4zRiR1ilJJh5YIERA4zq2ymPAbsj" +
+					"aAcPHVh+xMDxA7dxjXbuUAEO4wcOG3RW2DhO3SIzSLSHR59xwsWM6uAlcd6h" +
+					"/XzFpO4mTLgIz95hJBwrVnB38Y0ECRUm2rNPNWm+CRKWqJBCCLzoF94sJ0xh" +
+					"n4AhsDDCCCEYCN4qCjI4zAjdvFDDCBJWFwgJA7LgoIYyyPBCh9RtksKIJJbg" +
+					"ohwoHhcIJyHoMYIZOMrhohkxGhcQACH5BAUyAP8ALIoAEgBuABcAAAj+AGOV" +
+					"YsLESRAfN1BI6aHmn8OHECNKnEixosWLGDNOLGUQIYojaoBE8YVJo8mTKFOm" +
+					"ZHKQhsIeXIr42rJEpc2bOE86ueFyYcwvW57UyUm0qNEgLnPALAL0iRcvRqNK" +
+					"RenjSA4gfQZ9YeOUUpOpYMNSpHE1KxQ2jrxQItRIrFu3KISMMXJ2DyM4SpKc" +
+					"ect3ao65SMrYxZO3S6a+iIsKMVIlzJ45eK50IbJDUOLLN8dUsfNYSRcqRHiA" +
+					"gYS5NEojdoRVSkKZBxYYMcCYnp3xGLA7gnbw0IHlRwwcP2gLr2jnDhXeMH7g" +
+					"sEFnhY3h0CMygwT7d/MZJ1zMiM793x3Yy1drTMpuwoSL7tEj4VixAruLbyRI" +
+					"qDCBHnqqSe5NkLCkIkUIXvUNN8sJU8TXXwgsjDBCCAEKt0qBBw4zQjcv1DBC" +
+					"g7QFQoJ/LCRYoQwyvIDhbJuk4OGHJaQox4imBcJJCHqMYMaMcqRoBoulBQQA" +
+					"IfkEBTIA/wAslwASAGAAFwAACP4AY5ViwsRJEB83UEjpoeafw4cQI0qcSLGi" +
+					"xYsYJZYyiBDFETVAovjClLGkyZMoKzI5SENhDy5FfG1ZkrKmzZsSndxouRDm" +
+					"ly1P6uAcStRkkJY5Xhb5+cSLl6JQo0r0cSQHkD6DvrBpSqmJ1K9RaVjFCoWN" +
+					"Iy+UCDUCy3YoCiFjjJTdwwiOkiRn2uqtmSMukjJ08dztkmmvYZNCjFQJs2cO" +
+					"nitdiOwQdLjyxTFV7DRW0oUKER5gIFkePdGIHWGVkkjmgQVGDDCkYz88BuyO" +
+					"oB08dGD5EQPHD9my7dyhohvGDxw26KywATw2M0iueyufccLFjOak77hGvmJS" +
+					"dRMmXGVgHx0Jx4oV1F18I0FChYnxllNNSm+ChCUVKULwgl951okp7OEXAgsj" +
+					"jBACf4etAqCAw4zQzQs1jICgYYGQkB8LBEIogwwvTLjXJilkqGEJJMrhoV6B" +
+					"cBKCHiOY4aIcJJpxYlsBAQAh+QQFMgD/ACykABIAVAAXAAAI/gBjlWLCxEkQ" +
+					"HzdQSOmh5p/DhxAjSpxIsaLFixJLGUSI4ogaIFF8YcJIsqTJkw6ZHKShsAeX" +
+					"Ir62LEFJsyZNJzdYLnz5ZcuTOjaDCq0YhGUOl0V6PvHiZajTpz6O5ADSZ9AX" +
+					"NkspNXnKNSiNqVWhsHHkhRKhRl3TokQhZIwRsXsYwVGS5IzauyRzuEVSJi4e" +
+					"ul0y4R1cUYiRKmH2zMFzpQuRHYIIS444poodxUq6UCHCAwykyaD/GbEjrFKS" +
+					"xzywwIgBJvTkY8DuCNrBQweWHzFw/HAt2c4dKrZh/MBhg84KG7wJM4O0Orfx" +
+					"GSdczEg++M5q4ismRTdhwgV1vJFwYKxYAd3FNxIkVJj4fjfVpPImSFhSkSIE" +
+					"L/ZqZ52Ygp5+CBYjjBACfmmtwp9/w4zQzQs1jEBgV4GQUB8LADIogwwvPMjV" +
+					"JilUaGEJIMqh4VOBcBKCHiOYoaIcIJoxolMBAQAh+QQFMgD/ACyxABIARwAX" +
+					"AAAI/gBjlWLCxEkQHzdQSOmh5p/DhxAjSpxIsaJFiKUMIkRxRA2QKL4wXRxJ" +
+					"smRFJgdpKOzBpYivLUtMypx50ckNlQtbftnypA7Nn0AdBlGZg2WRnU+8eAnK" +
+					"VKaPIzmA9Bn0hU1SSk2aah1JI+pUKGwceaFEqNHWsxRRCBljBOweRnCUJDmD" +
+					"ti7EHGyRlHmLR26XTHYDCzFSJcyeOXiudCGyQ1Bgu2Oq2DmspAsVIjzAQHpc" +
+					"14gdYZWSMOaBBUYMMJzRHgN2R9AOHjqw/IiB40fqs3buUIkN4wcOG3RW2Li9" +
+					"lRkk07SDzzjhYgZxrXdM/14xibkJEy6eN42EY8WK5S6+WZEgocKEdqapJoE3" +
+					"QcKSihQheJ0POuvElPHvQ7AYMSLEfKCr3JffMCN080INI/z3UyAkwMfCfgfK" +
+					"IMMLCtK0SQoQRljChnJUOFMgnISgxwhmlCjHhmZ4KFNAACH5BAUyAP8ALL4A" +
+					"EgA5ABcAAAj+AGOVYsLESRAfN1BI6aHmn8OHECNKnEixYimDCFEcUQMkii9M" +
+					"FUOKHPmQyUEaCntwKeJryxKSMGM+dHID5cKVX7Y8qSOz58ggKHOoLJLziRcv" +
+					"PpNS9HEkB5A+g76wMUqpidKrEGk4hQqFjSMvlAg1wkoWhZAxRrruYQRHSZIz" +
+					"ZLHmQIukzFo8brtkintViJEqYfbMwXOlC5EdgvgqHVPFjmAlXagQ4QEGkuKk" +
+					"RuwIq5TkMA8sMGKAuezzGLA7gnbw0IHlRwwcP0j3tHOHCmsYP3DYoLPChmyZ" +
+					"zCCFfs17xgkXM37HvBNa94pJx02YcKEcZiQcK1YYd/GNBAkVJqpTk0w1absJ" +
+					"EpZUpAjBS/zIWSemeFcfgsWIESHci1wln/6wEd28UMMI+oUUCAnrsWCfgDLI" +
+					"8EKBFW2SwoIMlmChHBBSFAgnIegxghkgymGhGRlOFBAAIfkEBTIA/wAsywAS" +
+					"AC0AFwAACP4AY5ViwsRJEB83UEjpoeafw4cQI0qcGLGUQYQojqgBEsUXJoog" +
+					"Q0pkcpCGwh5civjaskSky5BObphcmPLLlid1XuqUGMRkDpRFbD7x4mWnUYc+" +
+					"juQA0mfQFzZDKTU5apTG0qZQ2DjyQolQI6o7UQgZYyTrHkZwlCQ5A1ZnDrJI" +
+					"ypzFo7ZLprYvhRipEmbPHDxXuhDZIQivyzFV7PhV0oUKER5gIBkWacSOsEpJ" +
+					"BvPAAiMGmMkhjwG7I2gHDx1YfsTA8QM0SDt3qKCG8QOHDTorbLimyAxS59W4" +
+					"Z5xwMWP3xDudba+YNNyECRfGJUbCsWKFcBffSJBQYSJ6xFSTrkybIGFJRYoQ" +
+					"vLxDnHViinbzIViMGBFC/cNV7uEPG9HtRY0R9jkUCAnnsSCffzLI8EKA/2yS" +
+					"woEIliChHAwGwkkIeoxgxoZySGgGgwEBACH5BAUyAP8ALNgAEgAgABcAAAj+" +
+					"AGOVYsLESRAfN1BI6aHmn8OHECNGLGUQIYojaoBE8YVJokePTA7SUNiDSxFf" +
+					"W5Z8XPnQyY2RC01+2fKkDkuWQUbmKFlk5hMvXm6u9HEkB5A+g76w+UmpidCP" +
+					"NIwihcLGkRdKhBo99YhCyBgjVPcwgqMkyZmtEnN8RVJGLJ6yXTKhjSjESJUw" +
+					"e+bgudKFyA5BcyGOqWInr5IuVIjwAAMp8EMjdoRVSuKXBxYYMcA4dngM2B1B" +
+					"O3jowPIjBo4fm//ZuUNlNIwfOGzQWWEjNTNImE3PnnHCxYzUdzDHXjGptwkT" +
+					"LlJHwrFiBW8X30iQUGEidapJz02QsKQiRQheqWc6nZgivXsIFiNGhEi9irz5" +
+					"YSO6vagxInUgEt5ZoJ8vQ8aL1JuksB9/JRQoh32chKDHCGY0KEeBZqQWEAAh" +
+					"+QQFMgD/ACzlABIAEgAXAAAI/gBjlWLCxEkQHzdQSOmh5p/Dh6UMIkRxRA2Q" +
+					"KL4wPXzI5CANhT24FPG1ZclGh05ufFwo8suWJ3VO/gvyMUfIIi6fePEi08eR" +
+					"HED6DPrCRielJjJpABUKhY0jL5QINZKJQsgYI033MIKjJMkZmTmuIimjFU/X" +
+					"LplkCjFSJcyeOXiudCGyQ5DMMVXsvFXShQoRHmAgyTRiR1ilJHR5YIERA4zM" +
+					"Y8DuCNrBQweWHzFw/JBp5w4VyzB+4LBBZ4UNmcwgMc5cesYJFzNk3mE8esWk" +
+					"1yZMuJAZCceKFa5dfCNBQoUJmakmBTdBwpKKFCF4yZx1Ygrx5yFYjBgRQuYq" +
+					"69iHKY3o9qLGCJmBSEBnob28DBkvZG5K0d59ifty0HMKoWeEmf9y3GeGTAEB" +
+					"ACH5BAUyAP8ALPIAEgANABgAAAj+AGOVYsLESRAfN1BIodHvXymDCFEcUQMk" +
+					"ipVB/5gEuUFDYQ8uRTBtYfPPCUcUOT4W+bLlSZ1/QTqmBMnyiRcv/3wcyQGk" +
+					"zyAobBx5odTkHw2ePoEKpUSo0T8UQsYYgVJmDyM4SpKc+ZdDapWqjPAoudIl" +
+					"0z8hRqqEITMHD1kiOwT9G1PFjrA5SrpQ2cEDDKR/RuxWSgKXBxYYMcD8Owbs" +
+					"jiC+OmD8iIHjxz87d6joOPwDhw06K2z8YwYJMWXQM064mPHvDmLPKyapNmHC" +
+					"xb9IOFasSO3iGwkSKkz8SzWJtwkSllSkCMHr36wTU34rD8FixIgQ/1ZFnz5s" +
+					"RLcXNUYq/AtEYnn1EeBlyHjxb1OK6uBryChBX854TiH0jDDDX45/f/8EKOCA" +
+					"AwYEACH5BAUyAP8ALAAAAAABAAEAAAgEAP8FBAAh+QQFMgD/ACzyABIADQAY" +
+					"AAAIhAA7CBzYwYGDUKGq/fPAsKEHEAIP/uNAseKHDw8L/mvAsWMDDhhBOPi3" +
+					"oKTJjhg7/FPAkuVJDh5Utpy54OMHEP8G6NypoGaDmzl36uzJEajQoT6NHiX6" +
+					"E+fRAUyBAphKterUf1azAsCqtSrXrlfBUv0KlmxXs1rRZlVrla3Xf3Djyo0b" +
+					"EAAh+QQFMgD/ACzlABIAEgAXAAAIUwA7CBxIsOBADwgTKlyYkIPDhxAjPmxA" +
+					"saLFixUXaNzIseNGBSBDihxJsqTJAShTqlzJsqXLlzBjypQJoKbNmzhz6tzJ" +
+					"s6fPn0CDCh1KtKjRnQEBACH5BAUyAP8ALNgAEgAgABcAAAhxADsIHEiwoMGD" +
+					"BD0oXMiwocOHDDlInEixosWLFBto3Mixo8ePHBeIHEmypMmTJBWoXMmypcuX" +
+					"KxfAnEmz5YCbOHPq3Mmzp8+fQIMKHUq0qFGeAJIqXcq0qdOnUKNKnUq1qtWr" +
+					"WLNq3cq1q9evYMMCCAgAIfkEBTIA/wAsywASAC0AFwAACIEAOwgcSLCgwYMI" +
+					"E3pYyLChw4cQI0rkQLGixYsYM2rc2KCjx48gQ4ocSXKByZMoU6pcybKlgpcw" +
+					"Y8qcSbNmzQU2c+rcCXOAz59AgwodSrSo0aNIkypdyrSp06dQlwKYSrWq1atY" +
+					"s2rdyrWr169gw4odS7as2bNo06pdy7at27dvAwIAIfkEBTIA/wAsvgASADkA" +
+					"FwAACJUAOwgcSFDgv4MIEypcyLChQw8QI0qE6LCixYsIOWjcyFEjxo8gETYY" +
+					"SbLkyJAoLy5YybLlypQwGyqYSbPmzJg4E9rcqSCnzwFAgwoF6jPn0KMDiuJE" +
+					"OlRpTKZCncKEGlRqSgBYs2rFahXl1q8AuoYEu1UsSLJazX5Em1UtRrZc3VqE" +
+					"G1ZuRbp278LN6xAvX4Z+/yoMCAAh+QQFMgD/ACyxABIARwAXAAAImwA7CBxI" +
+					"UOC/gwgTKlzIsKHDhwk9SJxIUSLEixgzOuTAsaNHjhpDioTYoKTJkyVHqlx5" +
+					"cIHLlzBdspwZUoHNmzht0tx5MadPBTyDNhxAtKhRokKTJjzKdIDSp02PPlUa" +
+					"1ejUpFWLXhUKoKvXr123BgVLFoBYnmXBnt2Z9utamm29vp0ZN+zclXXN3lWZ" +
+					"dy/fun5H9g0ccjDhjAEBACH5BAUyAP8ALKQAEgBUABcAAAigADsIHEhQ4L+D" +
+					"CBMqXMiwocOHEBd6mEix4sSIGDNq3HiQg8ePID1yHElyZIOTKFOeLMmypcMF" +
+					"MGPKhOmypk0FOHPqxGmzJ8udQBX4HMpxgNGjSI0SXYoxqdMBTKM6fJpUqlWF" +
+					"VJFe3fov61GuVwGIHUtWLFirZdMCOCtVbVm2Ud2ShctU7li6S+2axTtU71q+" +
+					"Pv0CDqx3cE/BhmsiTtwyIAAh+QQFMgD/ACyXABIAYAAXAAAIpQA7CBxIUOC/" +
+					"gwgTKlzIsKHDhxAjLvRAsaJFihIzatzI0SGHjyBDfuxIsqTJhQ1SqlyZ8qTL" +
+					"lxoXyJxJUybMmzgXKtjJs+fOnEBx+hyqIKhRlwOSKl2a9KhTkkyjDnhKVaNU" +
+					"plWzQry6VKtXhlyVfh2LEIDZs2jNkiWbti2AtWPdpoX7VS5aul7tnsWrVa9a" +
+					"vlX9vgVMVTDhwn4PPzWs+CjjxkEDAgAh+QQFMgD/ACyKABIAbgAXAAAIqgA7" +
+					"CBxIUOC/gwgTKlzIsKHDhxAjSmTooaLFixUnatzIsWNHDiBDigTpsaTJkxsb" +
+					"qFzJUiXKlzBjLphJs+bMmDhzclTAs6dPnjqDCm34s6iCoUiRDljKtOnSpFB1" +
+					"Op06IKpVmFSdXt1qMmtTrmA5emUatqxEAGjTqkVrtq3DtXABuJ2rMO5aunj/" +
+					"2VWbl+7etH3n/mUbuO1guYXNHk6seDDjsosfg40seWtAACH5BAUyAP8ALH0A" +
+					"EgB7ABcAAAiwADsIHEhQ4L+DCBMqXMiwocOHECNKnLjQg8WLGC1S3Mixo8eP" +
+					"CzmIHElSJMiTKFOCbMCypUuWKmPKnKlwgc2bOG3S3MkTpIKfQIP+7Em0aESh" +
+					"SBUYXcoU4YCnUKM+bUq1qNSrA6pq3YlV6tavMbtGBUv2pFioZdN2BMC2rVu2" +
+					"auNOfEsXgNy7D+u+xct3oV63fQMf/NtWcGDCcA3zRWxXMV7Gjh8jjnwXMuW4" +
+					"li+nDQgAIfkEBTIA/wAscAASAIcAFwAACLQAOwgcSFDgv4MIEypcyLChw4cQ" +
+					"I0qcSBGhh4sYM16syLGjx48gI3IYSbLkyJAoU6pcibCBy5cwXbKcSbOmwwU4" +
+					"c+rEabOnT5YKggodGvSn0aMdiSpVgLSpU4cDokqdGvWp1atUsw64yrWpVqpd" +
+					"w/78OlWs2ZpkpZ5duxKA27dw3bKdGzKuXQB083a8G1ev34l84f4d/DDwW8KI" +
+					"FxqWm7jxv8V4HSeGLHny4sqIKWMerHmz34AAIfkEBTIA/wAsYwASAJUAFwAA" +
+					"CLoAOwgcSFDgv4MIEypcyLChw4cQI0qcSLHiPw8YM2rEaLGjx48gQ37kQLKk" +
+					"SZIiU6pcyTJig5cwY75sSbOmTY8LcurcmfOmz59AESoYSrTo0KBIk640ylSB" +
+					"0qdQLQ6YSrXq1KhYsza0ynWA1q9fu1oFSzaq2Kpl0yY9S1Wt258A4sqdG/et" +
+					"3Zp08wK4y3elXrp9A4f8O1ew4Y6E5R5ePDFxXcaQHTreG7mywsmWMx/ErNky" +
+					"586RP4NmHBAAIfkEBTIA/wAsVgASAKIAFwAACL8AOwgcSFDgv4MIEypcyLCh" +
+					"w4cQI0qcSLHiRA8YM2rEaLGjx48gQ4p8yKGkyZMlR6pcybLlxwYwY8qE6bKm" +
+					"zZstF+jcyVMnzp9Ag0ZUQLSoUaJCkyoNerSpgqVQo7IcQLWqVapSs2rteLXr" +
+					"gK1gwzr0elWs2bNkrZ5dCzZtVbZwpQKYS7fu3Lh4ldrdCyCvX6B87f4dbDNw" +
+					"XcKIWRqmm7ixyMV3HUvuCLnv5MsTK2PeDFEz588LPYMe/U806c8BAQAh+QQF" +
+					"MgD/ACxJABIArgAXAAAIwwA7CBxIUOC/gwgTKlzIsKHDhxAjSpxIsaJFhx4y" +
+					"atyY8aLHjyBDihxJkYPJkyhNklzJsqVLlg1iypwZ86XNmzhzHlzAs6dPnjqD" +
+					"Ch1aUYHRo0iNEl3KtGnSpwqaSp2Kc4DVq1itUt3KdWTWrwO6ih1LEWxWsmjT" +
+					"LjSLVa3btGyvvp0rFoDdu3jt0t1LNa9fAHwDM/2bV7BhoYTxHl6MM/FdxpBd" +
+					"OtYbufLIyYAta/6IebNni50/i44YerRphqVPqz4YEAAh+QQFMgD/ACw8ABIA" +
+					"vAAXAAAIyAA7CBxIUOC/gwgTKlzIsKHDhxAjSpxIsaLFiwo9aNzIUSPGjyBD" +
+					"ihxJMiSHkyhTnizJsqXLlzAVNphJs+bMmDhz6ty5cIHPn0B98hxKtGhIBUiT" +
+					"KkVqtKnTpwuXSlUAtarVoQOyat2a9arXry65ih0AtqzZj2O5nl3LFmLarW3j" +
+					"yj34Vuvcu2sB6N3LVy/ev2D7CgYAuLDVwX0NK3aKmO/ix0Qb74VMWadkv5Uz" +
+					"v7xMWLPnkpw/ixYZerTpi6VPq5aYerXrhgEBACH5BAUyAP8ALC8AEgDJABcA" +
+					"AAjKADsIHEhQ4L+DCBMqXMiwocOHECNKnEixosWLFz1o3MhRI8aPIEOKHEmy" +
+					"pEMOKFOqRGmypcuXMGNGbECzpk2aMnPq3Mlz4oKfQIP+7Em0qFGYCpIqXZr0" +
+					"qNOnUCkynaogqtWrVwdo3cpVK9avYIl2HTsgrNmzL8l2Rcu2LUi1XN3KnRsR" +
+					"7la6ePMiBMC3r1++egPP/UsYgODDbAv/Rcw4rGK/jSNffdxXsuWnlAFf3kw0" +
+					"s2HOoHV6Dk065ujSqE2eTs065OrWsC0GBAAh+QQFMgD/ACwiABIA1QAXAAAI" +
+					"zAA7CBxIUOC/gwgTKlzIsKHDhxAjSpxIsaLFixghetjIsePGjCBDihxJsqRJ" +
+					"iRxSqlyZ8qTLlzBjyrzYoKbNmzVn6tzJsyfIBUCDCgXqs6jRoz4VKF3KVCnS" +
+					"p1CjimxKVYHUq1izMhzAtatXrlrDioX6teyAsWjT7jT7Va3btybZeoVLt+5F" +
+					"uV3t6t3rEIDfv4D98h1MOLBhAIQT6z0cWLFjuIwBP56cNvJfypjDWhacubPU" +
+					"zYg9i0YKerTpoqVPq9aZerXrl61fyyYZEAAh+QQBMgD/ACwOAAwAGQAiAAAI" +
+					"qwD//SsgsKDBgwgTKlzIsKHDhwwlQFyYbiLEDqFCOXDQoaPHDg8zcgQBwoPJ" +
+					"kyE5mvzAoaXLhypZNphJswHMkhxmLtjJE6aHDzoXKBg69GEHDzl3EiVqFGkD" +
+					"oQoGSJXaNOnQqVQdHrUaFWvVp1e9anUKFeuAhwDSql2bFi3bt27fro0rt63D" +
+					"unPv4rXbcC9fhn4B0K2LMI2ng4Ed8kmcUJdBexYjS55MuTLCgAA7");
+
+				var tbl = document.getElementById("tblPleaseWait");
+				_width = 550;
+				_height = 146;
+				document.body.style.width = _width + "px";
+				document.body.style.height = _height + 'px';
+
+				// center on the screen
+				_left = ((window.screen.availWidth - _width) / 2) + window.screen.availLeft;
+				_top = ((window.screen.availHeight - _height) / 2) + window.screen.availTop;
+
+				if (_inDevMode) {
+					setTimeout(function() {
+						showCompleted();
+					}, 4000);
+				}
+
+				return _left + ", " + _top + ", " + _width + ", " + _height;
+			}
+
+			function showCompleted() {
+				document.getElementById("tblPleaseWait").toggleClass("hidden", true);
+				document.getElementById("tblCompleted").toggleClass("hidden", false);
+				var widthAdj = 60;
+				var width = _width - (widthAdj * 2);
+				document.body.style.width = width + "px";
+				window.KeyboardMaestro.ResizeWindow((_left + widthAdj) + ", " + _top + ", " + width + ", " + (_height - 40));
+				_completed = true;
+			}
+		&amp;lt;/script&amp;gt;
+	&amp;lt;/head&amp;gt;
+
+	&amp;lt;body data-kmwindowid="MacroRepositoryPleaseWaitScreen"&amp;gt;
+		&amp;lt;table id="tblPleaseWait"&amp;gt;
+			&amp;lt;tr&amp;gt;
+				&amp;lt;td&amp;gt;
+					&amp;lt;div id="divPleaseWaitMessage" &amp;gt;
+						Please Wait while the Macro Repository is updated...
+					&amp;lt;/div&amp;gt;
+				&amp;lt;/td&amp;gt;
+			&amp;lt;/tr&amp;gt;
+			&amp;lt;tr&amp;gt;
+				&amp;lt;td&amp;gt;
+					&amp;lt;div id="divAni" &amp;gt;
+						&amp;lt;img id="ani" src="data:image/gif;" /&amp;gt;
+					&amp;lt;/div&amp;gt;
+				&amp;lt;/td&amp;gt;
+			&amp;lt;/tr&amp;gt;
+		&amp;lt;/table&amp;gt;
+		&amp;lt;table id="tblCompleted" class="hidden"&amp;gt;
+			&amp;lt;tr&amp;gt;
+				&amp;lt;td&amp;gt;
+					&amp;lt;div id="divCompletedMessage" &amp;gt;
+						Finished!
+					&amp;lt;/div&amp;gt;
+				&amp;lt;/td&amp;gt;
+			&amp;lt;/tr&amp;gt;
+			&amp;lt;tr&amp;gt;
+				&amp;lt;td&amp;gt;
+					&amp;lt;div id="divOkButton" &amp;gt;
+						&amp;lt;a id="btnOK" class="okButton" onclick="window.KeyboardMaestro.Cancel('Cancel')"&amp;gt;OK&amp;lt;/a&amp;gt;
+					&amp;lt;/div&amp;gt;
+				&amp;lt;/td&amp;gt;
+			&amp;lt;/tr&amp;gt;
+		&amp;lt;/table&amp;gt;
+	&amp;lt;/body&amp;gt;
+
+&amp;lt;/html&amp;gt;&lt;/string&gt;
+		&lt;key&gt;TimeOutAbortsMacro&lt;/key&gt;
+		&lt;true/&gt;
+		&lt;key&gt;UseText&lt;/key&gt;
+		&lt;true/&gt;
+&lt;/dict&gt;
+</string>
+						<key>Variable</key>
+						<string>macrep_PleaseWaitDialog</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Show the Custom HTML Prompt asynchronously</string>
+						<key>ActionUID</key>
+						<integer>9385882</integer>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>tell application "Keyboard Maestro Engine"	set _script to getvariable "macrep_PleaseWaitDialog"	ignoring application responses		do script _script	end ignoringend tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>9385883</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%Delete%</string>
+						<key>Variable</key>
+						<string>macrep_PleaseWaitDialog</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>9385884</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>.5</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+				</array>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>Group</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionName</key>
+				<string>JXA script to update the repository</string>
+				<key>ActionUID</key>
+				<integer>9385885</integer>
+				<key>DisplayKind</key>
+				<string>Variable</string>
+				<key>HonourFailureSettings</key>
+				<true/>
+				<key>IncludeStdErr</key>
+				<false/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>ExecuteJavaScriptForAutomation</string>
+				<key>NotifyOnFailure</key>
+				<false/>
+				<key>Path</key>
+				<string></string>
+				<key>StopOnFailure</key>
+				<false/>
+				<key>Text</key>
+				<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+
+	/* **********************************************************
+	NOTES:
+
+	I can't figure out how to get plist XML "data" nodes to load
+	properly into plist objects. So when I want to load a plist
+	XML string into a plist object, I convert the XML "data"
+	nodes into strings, surrounded with a special set of unique
+	tokens.
+
+	This isn't a problem, because I'm not actually using the
+	"data" nodes for anything, in the plist objects.
+
+	Before saving out any XML strings, I convert the tokenized
+	"data" strings back into true data nodes.
+
+	This all happens behind the scenes, in the PlistUtils class,
+	and it should be completely seamless, but I thought it was
+	worth mentioning.
+	* ***********************************************************/
+
+	// #region ======== Utility Objects =========================
+	var Logger = (function() {
+		var _log = [];
+		return {
+			getLog: function() {
+				return _log.join("\n");
+			},
+
+			hasContent: function() {
+				return _log.length &gt; 0;
+			},
+
+			log: function(text) {
+				if (inDesignMode &amp;&amp; designModeParams &amp;&amp; designModeParams.designModeLogging_Enabled === "false")
+					return;
+
+				if (inDesignMode &amp;&amp; designModeParams &amp;&amp; designModeParams.designModeLogging_ConsoleLogging === "true")
+					console.log(text);
+				if (!inDesignMode || !designModeParams || designModeParams.designModeLogging_ArrayLogging !== "false")
+					_log.push(text);
+			}
+		}
+	})();
+
+	class UserError extends Error {
+		constructor(message) {
+		  super(message);
+		  this.name = 'UserError';
+		}
+	}
+
+	var PathNameUtils = (function() {
+		return {
+			addTrailingSlash: function(path) {
+				return path.endsWith("/") ? path : path + "/";
+			},
+
+			expandLeadingPathTilde: function(path) {
+				return path.startsWith("~") ?
+					ObjC.unwrap($(path).stringByExpandingTildeInPath) :
+					path;
+			}
+		};
+	})();
+
+	var FileUtils = (function() {
+		function _getErrorMessage(nsError, message) {
+			try {
+				return message + ". Error: " + ObjC.unwrap(nsError.localizedDescription);
+			} catch (e) {
+				return message;
+			}
+		}
+		return {
+			createFolder: function(path, createIntermediateDirectories) {
+				var error = $();
+				if (!ObjC.unwrap($.NSFileManager.defaultManager
+					.createDirectoryAtPathWithIntermediateDirectoriesAttributesError(
+						$(path).stringByStandardizingPath,
+						createIntermediateDirectories,
+						$(), error)))
+					throw Error(_getErrorMessage(error, "Could not create folder '" + path + "'"));
+			},
+
+			createFolderIfNeeded: function(path, createIntermediateDirectories) {
+				if (!this.folderExists(path))
+					this.createFolder(path, createIntermediateDirectories);
+			},
+
+			deleteFolder: function(path, throwIfFail) {
+				return this.removeFileOrFolder(false, path, false, throwIfFail);
+			},
+
+			folderExists: function(path) {
+				var result = this.getFileOrFolderExists(path);
+				return result.exists &amp;&amp; !result.isFile;
+			},
+
+			getDirectoryContents: function(strPath, includeSubfolders, includeDotFiles) {
+				var method = includeSubfolders ?
+					"subpathsOfDirectoryAtPathError" :
+					"contentsOfDirectoryAtPathError";
+				var error = $();
+				var contents =
+					ObjC.deepUnwrap(
+						$.NSFileManager.defaultManager[method](
+							$(strPath)
+							.stringByStandardizingPath, error
+						)
+					);
+				if (contents == null)
+					throw Error(_getErrorMessage(error, "Could not get contents of '" + strPath + "'"));
+				if (!includeDotFiles)
+					contents = contents.filter(f =&gt; !f.startsWith(".") &amp;&amp; !f.includes("/."));
+				return contents;
+			},
+
+			getFileOrFolderExists: function(path) {
+				var isDirectory = Ref();
+				var exists = $.NSFileManager.defaultManager.fileExistsAtPathIsDirectory(path, isDirectory);
+				return {
+					exists: exists,
+					isFile: !isDirectory[0]
+				};
+			},
+
+			removeFileOrFolder: function(moveToTrash, path, isFile, throwIfFail) {
+				var trashOrDeleteText = moveToTrash ? "trash" : "delete";
+				var trashedOrDeletedText = moveToTrash ? "trashed" : "deleted";
+				var fileOrFolderText = isFile ? "file" : "folder";
+				if (!path)
+					throw Error("Path is required in removeFileOrFolder");
+				if (isFile === undefined)
+					throw Error("isFile is required in removeFileOrFolder");
+
+				if (!isFile &amp;&amp; path.endsWith("/"))
+					path = path.substring(0, path.length - 1);
+
+				var exists = this.getFileOrFolderExists(path);
+				if (!exists.exists)
+					return false;
+				if (exists.isFile !== isFile) {
+					if (throwIfFail)
+						throw Error("Path to be " +trashedOrDeletedText + " '" + path + "' is not a " + fileOrFolderText);
+					return false;
+				}
+
+				var fileURL = $.NSURL.fileURLWithPathIsDirectory($(path), !isFile);
+				var error = $();
+				var result;
+				if (moveToTrash)
+					result = ObjC.unwrap($.NSFileManager.defaultManager.trashItemAtURLResultingItemURLError(fileURL, null, error));
+				else
+					result = ObjC.unwrap($.NSFileManager.defaultManager.removeItemAtURLError(fileURL,error));
+				if (!result)
+					throw Error(_getErrorMessage(error, "Could not " + trashOrDeleteText + " " + fileOrFolderText + "'" + path + "'"));
+				return true;
+			},
+
+			trashFolder: function(path, throwIfFail) {
+				return this.removeFileOrFolder(true, path, false, throwIfFail);
+			},
+
+			writeTextFile: function(text, path) {
+				var nsError = $();
+				var str = $.NSString.alloc.initWithUTF8String(text);
+				var result = str.writeToFileAtomicallyEncodingError(
+					$(path).stringByStandardizingPath,
+					true,
+					$.NSUTF8StringEncoding,
+					nsError);
+				if (!result)
+					throw Error(_getErrorMessage(nsError, "Could not write file '" + path + "'"));
+			}
+		};
+	})();
+
+	var PlistUtils = (function() {
+		var _currentApp;
+		var _dataNodeToken = "41E4D515-C065-4C24-9859-EA2479C52CC9";
+
+		function _cleanupXmlAfterDeserialization(xml) {
+			var result = xml.replace(/&lt;real&gt;(-?\d+)(\.0)?&lt;\/real&gt;/g, "&lt;integer&gt;$1&lt;/integer&gt;");
+			var result = result.replace(/(&lt;key&gt;CreationDate&lt;\/key&gt;[\W]*&lt;)(integer&gt;)(\d+)(&lt;\/integer&gt;)/g, "$1real&gt;$3.0&lt;/real&gt;");
+			var result = result.replace(/(&lt;key&gt;TimeOutPeriod&lt;\/key&gt;[\W]*&lt;)(integer)(&gt;\d+&lt;\/)(integer)(&gt;)/g, "$1real$3real$5");
+			var result = result.replace(/(&lt;key&gt;NSSuperScript&lt;\/key&gt;[\W]*&lt;)(real)(&gt;-?\d+&lt;\/)(real)(&gt;)/g, "$1integer$3integer$5");
+			return result;
+		}
+
+		function _deserializeFromXmlString(xml) {
+			var nsError = $();
+			var result = ObjC.deepUnwrap(
+				$.NSPropertyListSerialization.propertyListWithDataOptionsFormatError(
+					$(xml).dataUsingEncoding($.NSUTF8StringEncoding), 0, 0, nsError));
+			if (!result)
+				throw Error(_getErrorMessage(nsError, "Could not convert string to plist"));
+			return result;
+		}
+
+		function _deTokenizeXmlDataNodes(xml) {
+			var regex = new RegExp("(&lt;string&gt;[\\W]*" + _dataNodeToken + ")", "g");
+			var result = xml.replace(regex, "&lt;data&gt;");
+
+			regex = new RegExp(_dataNodeToken + "[\\W]*&lt;\\/string&gt;", "g");
+			return result.replace(regex, "&lt;/data&gt;");
+		}
+
+		function _getAppSupportFolderName() {
+			if (!_currentApp) {
+				_currentApp = Application.currentApplication();
+				_currentApp.includeStandardAdditions = true;
+			}
+			return _currentApp.pathTo('application support', { from: 'user domain' });
+		}
+
+		function _getErrorMessage(nsError, message) {
+			try {
+				return message + ". Error: " + ObjC.unwrap(nsError.localizedDescription);
+			} catch (e) {
+				return message;
+			}
+		}
+
+		function _reOrderJsonProperties(json) {
+
+			function moveActionPropertyToTop(jsonArray, propertyName) {
+
+				function findProperty(startingIndex) {
+					for (var i = startingIndex; i &lt; jsonArray.length; i++) {
+						var line = jsonArray[i];
+						var regex = new RegExp('^([\\t]+)"' + propertyName + '":');
+						var match = line.match(regex);
+						if (match) {
+							return {
+								index: i,
+								leadingTabs: match[1]
+							};
+						}
+					}
+					return null;
+				}
+
+				function findActionStartIndex(startingIndex, leadingTabs) {
+					var startingLineRegex = new RegExp("^(" + leadingTabs.substring(0, leadingTabs.length - 1) + "[^\\t])");
+					for (var i = startingIndex - 1; i &gt;= 0; i--) {
+						var line = jsonArray[i];
+						var match = line.match(startingLineRegex);
+						if (match) {
+							if (!match[1].endsWith("{"))
+								return -1;
+							return i + 1;
+						}
+					}
+					return -1;
+				}
+
+				function moveProperty(fromIndex, toIndex) {
+					var endsWithComma = jsonArray[fromIndex].endsWith(",");
+					if (!endsWithComma)
+						jsonArray[fromIndex] = jsonArray[fromIndex] + ",";
+					jsonArray.splice(toIndex, 0, jsonArray.splice(fromIndex, 1)[0]);
+
+					// If we moved the last property of the action, then the new last
+					// property line probably needs to have its trailing comma removed.
+					if (!endsWithComma) {
+						var line = jsonArray[fromIndex];
+						if (line.endsWith(","))
+							jsonArray[fromIndex] = line.substring(0, line.length - 1);
+					}
+				}
+
+				// moveActionPropertyToTop()
+				var i = 0;
+				while (i &lt; jsonArray.length) {
+					var propertyLineInfo = findProperty(i);
+					if (!propertyLineInfo)
+						return;
+					var actionStartIndex = findActionStartIndex(propertyLineInfo.index, propertyLineInfo.leadingTabs);
+					if (actionStartIndex &gt;= 0 &amp;&amp; actionStartIndex &lt; propertyLineInfo.index)
+						moveProperty(propertyLineInfo.index, actionStartIndex);
+
+					i = propertyLineInfo.index + 1;
+				}
+			} // moveActionPropertyToTop()
+
+			// _reOrderJsonProperties()
+			if (json.indexOf("\t") &lt; 0)
+				throw Error("ReOrderJsonProperties expects the JSON parameter to be stringified with tabs");
+			var jsonArray = json.split("\n");
+
+			// NOTE: These are backwards - the one we want top-most is last in the array.
+			["ActionName", "Title", "MacroActionType"].forEach(function(propertyName) {
+				moveActionPropertyToTop(jsonArray, propertyName);
+			});
+			return jsonArray.join("\n");
+		} // _reOrderJsonProperties()
+
+		function _serializeToXmlString(plist) {
+			var data = $.NSPropertyListSerialization.dataWithPropertyListFormatOptionsError(
+				$(plist), $.NSPropertyListXMLFormat_v1_0, 0, null);
+			var nsstring = $.NSString.alloc.initWithDataEncoding(data, $.NSUTF8StringEncoding);
+			var result = $(nsstring).js;
+			return result;
+		}
+
+		function _tokenizeXmlDataNodes(xml) {
+			return xml.replace(/(&lt;data&gt;)([\W]*)([^&lt;]*)(&lt;\/data&gt;)/g,
+				"&lt;string&gt;$2" + _dataNodeToken + "$2$3" + _dataNodeToken + "$2&lt;/string&gt;");
+		}
+
+		return {
+			convertJsonStringToXmlString: function(json) {
+				var plist = JSON.parse(json);
+				return this.serializeToXmlString(plist);
+			},
+
+			convertXmlStringToJsonString: function(xml) {
+				var plist = this.deserializeFromXmlString(xml);
+				return JSON.stringify(plist, null, "\t");
+			},
+
+			deserializeFromXmlString: function(xml) {
+				var result = _tokenizeXmlDataNodes(xml);
+				return _deserializeFromXmlString(result);
+			},
+
+			deserializeKMAllMacrosSourceFile: function() {
+				var xml = this.readKMAllMacrosSourceFileAsXml();
+				return this.deserializeFromXmlString(xml);
+			},
+
+			readKMAllMacrosSourceFileAsXml: function() {
+				var path = _getAppSupportFolderName() + "/Keyboard Maestro/Keyboard Maestro Macros.plist";
+
+				var nsError = $();
+				var fileData = $.NSData.dataWithContentsOfFileOptionsError(
+					$(path).stringByStandardizingPath, 0, nsError);
+				if (!fileData)
+					throw Error(_getErrorMessage(nsError, "Could not read file '" + path + "'"));
+
+				nsError = $();
+				var plistData = $.NSPropertyListSerialization.propertyListWithDataOptionsFormatError(
+					fileData, $.NSPropertyListImmutable, 0, nsError);
+				if (!plistData)
+					throw Error(_getErrorMessage(nsError, "Could not deserialize file '" + path + "'"));
+
+				nsError = $();
+				var xmlData = $.NSPropertyListSerialization.dataWithPropertyListFormatOptionsError(
+					plistData, $.NSPropertyListXMLFormat_v1_0, 0, nsError);
+				if (!xmlData)
+					throw Error(_getErrorMessage(nsError, "Could not serialize file '" + path + "' to XML"));
+
+				return $($.NSString.alloc.initWithDataEncoding(xmlData, $.NSUTF8StringEncoding)).js;
+			},
+
+			reOrderJsonProperties: function(json) {
+				return _reOrderJsonProperties(json);
+			},
+
+			serializeToXmlString: function(obj) {
+				var str = _serializeToXmlString(obj);
+				str = _cleanupXmlAfterDeserialization(str);
+				return _deTokenizeXmlDataNodes(str);
+			}
+		};
+	})();
+
+	var KMEngine = (function() {
+		var _currentApp;
+		var _engineAppName = "Keyboard Maestro Engine";
+		var _engineApp;
+
+		function _getCurrentApp() {
+			if (!_currentApp) {
+				_currentApp = Application.currentApplication();
+				_currentApp.includeStandardAdditions = true;
+			}
+			return _currentApp;
+		}
+
+		function _getEngineApp() {
+			if (!_engineApp)
+				_engineApp = Application(_engineAppName);
+			return _engineApp;
+		}
+
+		function _getInstanceAttribute() {
+			return _getCurrentApp().systemAttribute("KMINSTANCE");
+		}
+
+		function _isInstanceVariableName(name) {
+			return name.match(/^Instance|^Local/) != null
+		}
+
+		return {
+			doScript: function(uuidOrUniqueNameOrScript, parameter, timeout) {
+				if (parameter) {
+					if (timeout) {
+						_getEngineApp().doScript(uuidOrUniqueNameOrScript, { withParameter: parameter }, { timeout: timeout });
+					} else {
+						_getEngineApp().doScript(uuidOrUniqueNameOrScript, { withParameter: parameter });
+					}
+				} else {
+					if (timeout) {
+						_getEngineApp().doScript(uuidOrUniqueNameOrScript, { timeout: timeout });
+					} else {
+						_getEngineApp().doScript(uuidOrUniqueNameOrScript);
+					}
+				}
+			},
+
+			getEngineApp: function() {
+				return _getEngineApp();
+			},
+
+			getMacroNameForUUID: function(uuid) {
+				return this.processTokens("%MacroNameForUUID%" + uuid + "%");
+			},
+
+			getVariable: function(name, required) {
+				var result = undefined;
+				if (inDesignMode &amp;&amp; designModeParams)
+					result = designModeParams[name];
+				if (result === undefined) {
+					if (_isInstanceVariableName(name))
+						result = _getEngineApp().getvariable(name, {instance: _getInstanceAttribute()});
+					else
+						result = _getEngineApp().getvariable(name);
+				}
+				if (!result &amp;&amp; required)
+					throw Error("Variable '" + name + "' is empty");
+				return result;
+			},
+
+			processTokens: function(str) {
+				return _getEngineApp().processTokens(str);
+			},
+
+			setVariable: function(name, value) {
+				if (_isInstanceVariableName(name))
+					_getEngineApp().setvariable(name, {to: value, instance: _getInstanceAttribute()});
+				else
+					_getEngineApp().setvariable(name, { to: value });
+			},
+		};
+	})();
+	// #endregion
+
+	// #region ======== Helper Functions ========================
+	var _options;
+
+	function compareForSort(a, b) {
+		return a &lt; b ? -1 : a &gt; b ? 1 : 0;
+	}
+
+	// Does a normal JSON.stringify, then manipulates the JSON string to put
+	// certain Action properties at the top, to make it easier to read.
+	function jsonStringifyMacro(macro) {
+		return PlistUtils.reOrderJsonProperties(JSON.stringify(macro, null, "\t"));
+	}
+
+	function serializeMacroToSource(macro) {
+		if (_options.useJson)
+			return jsonStringifyMacro(macro);
+		return PlistUtils.serializeToXmlString([macro]);
+	}
+
+	 function serializeGroupToSource(group) {
+		if (_options.useJson)
+			return JSON.stringify(group, null, "\t");
+		return PlistUtils.serializeToXmlString([group]);
+	}
+
+	function sourceFileExtension() {
+		return _options.useJson ? ".json" : ".xml";
+	}
+
+	// Make a file name from the macro's name. Invalid characters are replaced
+	// with underscores, and the macro's UID is appended to the end like a file
+	// extension. Also, if the name starts with a period, we add a leading "_",
+	// so we don't conflict with hidden files/folders like Git's hidden .git folder.
+	function makeRepositoryFileName(name, uid) {
+		var result = name.replace(/[\/:|"]/g, "_").trim() || "_";
+		if (result.startsWith("."))
+			result = "_" + result;
+		return result + "." + uid;
+	}
+
+	// An object with various path names, based on the specified groupFileName.
+	class GroupPathNames {
+		constructor(groupFileName, repositoryFolderPath)
+		{
+			this.groupFileName = groupFileName;
+			this.groupFolderPath = repositoryFolderPath + groupFileName + "/";
+			this.groupSourceFilePath = this.groupFolderPath + groupFileName + sourceFileExtension();
+			this.macrosFolderPath = this.groupFolderPath + "macros/";
+		}
+
+		makeMacroSourceFilePath(macroFileName) {
+			return this.macrosFolderPath + macroFileName + sourceFileExtension();
+		}
+	}
+
+	// #endregion
+
+	// #region ======== Main Logic ==============================
+
+	var _useJson;
+
+	function getKMMacrosInfo() {
+		Logger.log("Getting all macros");
+		var plist = PlistUtils.deserializeKMAllMacrosSourceFile();
+		Logger.log("Parsing");
+		var kmMacrosInfo = {};
+		kmMacrosInfo.groupInfoList = plist.MacroGroups.map(function(group) {
+			if (!group.Name)
+				group.Name = "Untitled Macro Group";
+			var groupInfo = {
+				groupFileName: makeRepositoryFileName(group.Name, group.UID),
+				groupName: group.Name
+			};
+			if (group.Macros) {
+				groupInfo.macroInfoList = group.Macros.map(function(macro) {
+					if (!macro.Name)
+						macro.Name = KMEngine.getMacroNameForUUID(macro.UID);
+					return {
+						macroFileName: makeRepositoryFileName(macro.Name, macro.UID),
+						macroName: macro.Name,
+						source: serializeMacroToSource(macro)
+					};
+				}).sort(function(a, b) {
+					return compareForSort(a.macroName, b.macroName);
+				});
+
+				group.Macros = []; // don't store the actual groups in the Source File
+			}
+	
+			groupInfo.source = serializeGroupToSource(group);
+
+			return groupInfo;
+		}).sort(function(a, b) {
+			return compareForSort(a.groupName, b.groupName);
+		});
+
+		return kmMacrosInfo;
+	}
+
+	function emptyTheRepositoryFolder(repositoryFolderPath) {
+		if (FileUtils.folderExists(repositoryFolderPath)) {
+			var deleted = false;
+			if (_options.bypassTrash) {
+				Logger.log("Trying to permanently delete '" + repositoryFolderPath + "'");
+				var error = null;
+				try {
+					FileUtils.deleteFolder(repositoryFolderPath, true);
+				} catch (e) {
+					error = e;
+				}
+
+				if (!error) {
+					deleted = true;
+					Logger.log("Succeeded");
+				} else {
+					// Sometimes when we try to delete the folder (above), it'll generate an error.
+					// But all the sub-folders and normal files are gone - the only thing left is
+					// a .DS_Store file, which we don't care about. So if that happened, we just
+					// ignore the error.
+					Logger.log("Encountered an error trying to delete the Data folder, checking to see if folder is basically empty except .DS_Store file. Error: " + error.message);
+					try {
+						// get contents of directory without "." files
+						var contents = FileUtils.getDirectoryContents(repositoryFolderPath, true, false);
+						Logger.log("Directory contents: " + JSON.stringify(contents));
+						var isEmpty = contents.length === 0;
+						Logger.log("isEmpty: " + isEmpty);
+						deleted = isEmpty;
+					} catch (e) {
+						Logger.log("Error trying to get the directory contents: " + e.message);
+					}
+				}
+			}
+
+			// if we didn't try to delete the folder, or we failed, then just trash it.
+			if (!deleted) {
+				Logger.log("Trying to trash '" + repositoryFolderPath + "'");
+				FileUtils.trashFolder(repositoryFolderPath, true);
+				Logger.log("Succeeded");
+			}
+		}
+
+		if (!FileUtils.folderExists(repositoryFolderPath))
+			FileUtils.createFolder(repositoryFolderPath);
+	}
+
+	function rewriteRepository(kmMacrosInfo, repositoryFolderPath) {
+		emptyTheRepositoryFolder(repositoryFolderPath);
+
+		kmMacrosInfo.groupInfoList.forEach(function(groupInfo) {
+			Logger.log("Group: '" + groupInfo.groupName + "'");
+			var paths = new GroupPathNames(groupInfo.groupFileName, repositoryFolderPath);
+			FileUtils.createFolderIfNeeded(paths.groupFolderPath);
+			FileUtils.writeTextFile(groupInfo.source, paths.groupSourceFilePath);
+			
+			if (groupInfo.macroInfoList) {
+				FileUtils.createFolderIfNeeded(paths.macrosFolderPath);
+				groupInfo.macroInfoList.forEach(function(macroInfo) {
+					Logger.log("    Macro: '" + macroInfo.macroName + "'");
+					FileUtils.writeTextFile(macroInfo.source, paths.makeMacroSourceFilePath(macroInfo.macroFileName));
+				});
+			}
+		});
+	} 
+
+	function execute() {
+		var repositoryFolderPath = PathNameUtils.addTrailingSlash(
+			PathNameUtils.expandLeadingPathTilde(
+				KMEngine.getVariable("Instance_repositoryFolderPath", true)));
+		if (!FileUtils.folderExists(repositoryFolderPath))
+			throw new UserError("You must create the Repository Folder before running the Updater")
+		repositoryFolderPath += "Data/";
+
+		_options = {
+			bypassTrash: KMEngine.getVariable("Instance_bypassTrash") === "true",
+			useJson: KMEngine.getVariable("Instance_saveAsJson") === "true"
+		};
+
+		var kmMacrosInfo = getKMMacrosInfo();
+		rewriteRepository(kmMacrosInfo, repositoryFolderPath);
+
+		return { result: "ok" };
+	}
+	// #endregion
+
+	// #region ======== Runner Code =============================
+	function getErrorResult(e) {
+		var error = {};
+		error.isUserError = e.name === "UserError";
+		error.message = e.message;
+		error.debugErrorMessage = (error.isUserError ? "UserError: " :  "Error on line: " + e.line + ": ") + e.message;
+		var result = {
+			result: "error",
+			error: error
+		};
+		return result;
+	}
+
+	function doExecute() {
+		var result;
+		try {
+			result = execute();
+		} catch (e) {
+			result = getErrorResult(e);
+		}
+		if (Logger.hasContent())
+			result.log = Logger.getLog();
+		return result;
+	}
+
+	return JSON.stringify(doExecute(), null, "\t");
+	
+	// #endregion
+
+})(false);</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>TrimResults</key>
+				<true/>
+				<key>TrimResultsNew</key>
+				<true/>
+				<key>UseText</key>
+				<true/>
+				<key>Variable</key>
+				<string>Local_Result</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Yellow</string>
+				<key>ActionUID</key>
+				<integer>9385886</integer>
+				<key>CaseEntries</key>
+				<array>
+					<dict>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Purple</string>
+								<key>ActionName</key>
+								<string>Close the "Please Wait" dialog</string>
+								<key>ActionUID</key>
+								<integer>9385887</integer>
+								<key>DisplayKind</key>
+								<string>None</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteJavaScriptForCustomPrompt</string>
+								<key>Path</key>
+								<string></string>
+								<key>Text</key>
+								<string>window.close();</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>WindowID</key>
+								<string>MacroRepositoryPleaseWaitScreen</string>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Red</string>
+								<key>ActionName</key>
+								<string>Show error, abort.</string>
+								<key>ActionUID</key>
+								<integer>9385888</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Text</string>
+											<key>Text</key>
+											<string>%JSONValue%Local_Result.error.isUserError%</string>
+											<key>TextConditionType</key>
+											<string>Is</string>
+											<key>TextValue</key>
+											<string>true</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>DisplayWindow</string>
+										<key>ActionUID</key>
+										<integer>9385890</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>InsertText</string>
+										<key>StyledText</key>
+										<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6lAQAA
+								KwAAAAEAAACd
+								AQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNjAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBIZWx2ZXRp
+								Y2FOZXVlO30K
+								e1xjb2xvcnRi
+								bDtccmVkMjU1
+								XGdyZWVuMjU1
+								XGJsdWUyNTU7
+								XHJlZDBcZ3Jl
+								ZW4wXGJsdWUw
+								O30Ke1wqXGV4
+								cGFuZGVkY29s
+								b3J0Ymw7O1xj
+								c3NyZ2JcYzBc
+								YzBcYzBcYzg0
+								NzA2XGNuYW1l
+								IGNvbnRyb2xU
+								ZXh0Q29sb3I7
+								fQpccGFyZFx0
+								eDU2MFx0eDEx
+								MjBcdHgxNjgw
+								XHR4MjI0MFx0
+								eDI4MDBcdHgz
+								MzYwXHR4Mzky
+								MFx0eDQ0ODBc
+								dHg1MDQwXHR4
+								NTYwMFx0eDYx
+								NjBcdHg2NzIw
+								XHBhcmRpcm5h
+								dHVyYWxccGFy
+								dGlnaHRlbmZh
+								Y3RvcjAKClxm
+								MFxmczI2IFxj
+								ZjIgTUFDUk8g
+								UkVQT1NJVE9S
+								WSBMT0dcClwK
+								JUpTT05WYWx1
+								ZSVMb2NhbF9S
+								ZXN1bHQubG9n
+								JX0BAAAAIwAA
+								AAEAAAAHAAAA
+								VFhULnJ0ZhAA
+								AAB0pX5dtgEA
+								AAAAAAAAAAAA
+													</data>
+										<key>Text</key>
+										<string>MACRO REPOSITORY LOG
+
+%JSONValue%Local_Result.log%</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>Prompt error with cancel 'The script returned an error: %JSONValue%Local_Result.error.message%'</string>
+										<key>ActionUID</key>
+										<integer>9385891</integer>
+										<key>Buttons</key>
+										<array>
+											<dict>
+												<key>Button</key>
+												<string>OK</string>
+												<key>Cancel</key>
+												<true/>
+											</dict>
+										</array>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>PromptForUserInput</string>
+										<key>Prompt</key>
+										<string>%JSONValue%Local_Result.error.message%</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+										<key>Title</key>
+										<string>%ExecutingThisMacro%</string>
+										<key>Variables</key>
+										<array/>
+									</dict>
+								</array>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionName</key>
+										<string>Prompt error with cancel '%JSONValue%Local_Result.error.message%'</string>
+										<key>ActionUID</key>
+										<integer>9385889</integer>
+										<key>Buttons</key>
+										<array>
+											<dict>
+												<key>Button</key>
+												<string>OK</string>
+												<key>Cancel</key>
+												<true/>
+											</dict>
+										</array>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>PromptForUserInput</string>
+										<key>Prompt</key>
+										<string>%JSONValue%Local_Result.error.message%</string>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+										<key>Title</key>
+										<string>%ExecutingThisMacro%</string>
+										<key>Variables</key>
+										<array/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>ConditionType</key>
+						<string>Is</string>
+						<key>TestValue</key>
+						<string>error</string>
+					</dict>
+					<dict>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Purple</string>
+								<key>ActionName</key>
+								<string>Close the "Please Wait" dialog</string>
+								<key>ActionUID</key>
+								<integer>9385892</integer>
+								<key>DisplayKind</key>
+								<string>None</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteJavaScriptForCustomPrompt</string>
+								<key>Path</key>
+								<string></string>
+								<key>Text</key>
+								<string>window.close();</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>WindowID</key>
+								<string>MacroRepositoryPleaseWaitScreen</string>
+							</dict>
+							<dict>
+								<key>Action</key>
+								<string>DisplayWindow</string>
+								<key>ActionUID</key>
+								<integer>9385893</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>InsertText</string>
+								<key>StyledText</key>
+								<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC61AQAA
+								KwAAAAEAAACt
+								AQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNjAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBIZWx2ZXRp
+								Y2FOZXVlO30K
+								e1xjb2xvcnRi
+								bDtccmVkMjU1
+								XGdyZWVuMjU1
+								XGJsdWUyNTU7
+								XHJlZDBcZ3Jl
+								ZW4wXGJsdWUw
+								O30Ke1wqXGV4
+								cGFuZGVkY29s
+								b3J0Ymw7O1xj
+								c3NyZ2JcYzBc
+								YzBcYzBcYzg0
+								NzA2XGNuYW1l
+								IGNvbnRyb2xU
+								ZXh0Q29sb3I7
+								fQpccGFyZFx0
+								eDU2MFx0eDEx
+								MjBcdHgxNjgw
+								XHR4MjI0MFx0
+								eDI4MDBcdHgz
+								MzYwXHR4Mzky
+								MFx0eDQ0ODBc
+								dHg1MDQwXHR4
+								NTYwMFx0eDYx
+								NjBcdHg2NzIw
+								XHBhcmRpcm5h
+								dHVyYWxccGFy
+								dGlnaHRlbmZh
+								Y3RvcjAKClxm
+								MFxmczI2IFxj
+								ZjIgVW5rbm93
+								biBvciB1bmV4
+								cGVjdGVkIHJl
+								c3BvbnNlIGZy
+								b20gc2NyaXB0
+								OlwKJVZhcmlh
+								YmxlJUxvY2Fs
+								X1Jlc3VsdCV9
+								AQAAACMAAAAB
+								AAAABwAAAFRY
+								VC5ydGYQAAAA
+								0/p4XbYBAAAA
+								AAAAAAAAAA==
+											</data>
+								<key>Text</key>
+								<string>Unknown or unexpected response from script:
+%Variable%Local_Result%</string>
+							</dict>
+							<dict>
+								<key>Action</key>
+								<string>CancelThisMacro</string>
+								<key>ActionColor</key>
+								<string>Red</string>
+								<key>ActionUID</key>
+								<integer>9385894</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>Cancel</string>
+							</dict>
+						</array>
+						<key>ConditionType</key>
+						<string>IsNot</string>
+						<key>TestValue</key>
+						<string>ok</string>
+					</dict>
+					<dict>
+						<key>ActionListDisclosed</key>
+						<false/>
+						<key>Actions</key>
+						<array/>
+						<key>ConditionType</key>
+						<string>Otherwise</string>
+						<key>TestValue</key>
+						<string></string>
+					</dict>
+				</array>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>Switch</string>
+				<key>Source</key>
+				<string>Text</string>
+				<key>Text</key>
+				<string>%JSONValue%Local_Result.result%</string>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Purple</string>
+				<key>ActionName</key>
+				<string>Have the "Please Wait" dialog indicate we're done</string>
+				<key>ActionUID</key>
+				<integer>9385895</integer>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>9385896</integer>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForCustomPrompt</string>
+						<key>Path</key>
+						<string></string>
+						<key>Text</key>
+						<string>showCompleted()</string>
+						<key>TimeOutAbortsMacro</key>
+						<false/>
+						<key>TimeOutPeriod</key>
+						<real>1</real>
+						<key>UseText</key>
+						<true/>
+						<key>WindowID</key>
+						<string>MacroRepositoryPleaseWaitScreen</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Focus the dialog (Thanks, Tom!)</string>
+						<key>ActionUID</key>
+						<integer>9385897</integer>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>tell application "System Events"
+	tell application process "Keyboard Maestro Engine"
+		tell window "Macro Repository Updater"
+			perform action "AXRaise"
+		end tell
+	end tell
+end tell</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+				</array>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>Group</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9385898</integer>
+				<key>Conditions</key>
+				<dict>
+					<key>ConditionList</key>
+					<array>
+						<dict>
+							<key>ConditionType</key>
+							<string>Variable</string>
+							<key>Variable</key>
+							<string>Instance_showLog</string>
+							<key>VariableConditionType</key>
+							<string>Is</string>
+							<key>VariableValue</key>
+							<string>true</string>
+						</dict>
+					</array>
+					<key>ConditionListMatch</key>
+					<string>All</string>
+				</dict>
+				<key>ElseActionListDisclosed</key>
+				<false/>
+				<key>ElseActions</key>
+				<array/>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>IfThenElse</string>
+				<key>ThenActions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>DisplayWindow</string>
+						<key>ActionUID</key>
+						<integer>9385899</integer>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>StyledText</key>
+						<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6lAQAA
+								KwAAAAEAAACd
+								AQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NjcxXGNvY29h
+								c3VicnRmNjAw
+								CntcZm9udHRi
+								bFxmMFxmbmls
+								XGZjaGFyc2V0
+								MCBIZWx2ZXRp
+								Y2FOZXVlO30K
+								e1xjb2xvcnRi
+								bDtccmVkMjU1
+								XGdyZWVuMjU1
+								XGJsdWUyNTU7
+								XHJlZDBcZ3Jl
+								ZW4wXGJsdWUw
+								O30Ke1wqXGV4
+								cGFuZGVkY29s
+								b3J0Ymw7O1xj
+								c3NyZ2JcYzBc
+								YzBcYzBcYzg0
+								NzA2XGNuYW1l
+								IGNvbnRyb2xU
+								ZXh0Q29sb3I7
+								fQpccGFyZFx0
+								eDU2MFx0eDEx
+								MjBcdHgxNjgw
+								XHR4MjI0MFx0
+								eDI4MDBcdHgz
+								MzYwXHR4Mzky
+								MFx0eDQ0ODBc
+								dHg1MDQwXHR4
+								NTYwMFx0eDYx
+								NjBcdHg2NzIw
+								XHBhcmRpcm5h
+								dHVyYWxccGFy
+								dGlnaHRlbmZh
+								Y3RvcjAKClxm
+								MFxmczI2IFxj
+								ZjIgTUFDUk8g
+								UkVQT1NJVE9S
+								WSBMT0dcClwK
+								JUpTT05WYWx1
+								ZSVMb2NhbF9S
+								ZXN1bHQubG9n
+								JX0BAAAAIwAA
+								AAEAAAAHAAAA
+								VFhULnJ0ZhAA
+								AAB0pX5dtgEA
+								AAAAAAAAAAAA
+									</data>
+						<key>Text</key>
+						<string>MACRO REPOSITORY LOG
+
+%JSONValue%Local_Result.log%</string>
+					</dict>
+				</array>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>505944330.85614002</real>
+		<key>CustomIconData</key>
+		<data>
+					TU0AKgAAE/SAACBQOCQWDQeEQmFQuGQ2HQ+I
+					RGJROKRWLReMRmNRuOR2PR+QSGRSOSSWTSeU
+					SmVSuWS2XS+YTGZTOaTWbTecTmdTuMgMVEQp
+					FUfmQ8HUJBwQh9/gIBAGCAKBv+F06BVKqwOq
+					QWswSrAB7vJ3vNpLVTqhfJdBIB/Px9vieW+X
+					isjFQtlhHKpRgG9Xqowes12EV2t36Bv6sQyq
+					MtVJlPrFAGgzwN93DKSc1KpltANCsaC+CX+H
+					3yrgDAYeHaWBYODKc4lUutRdKxTYXK7WPnpi
+					up2goIBUJADQVq+6nacTjaSqAGrYKD6iGvZ3
+					Ol2JcsDgeO9yuBtcPbd2KnljO13AsHhII1nD
+					QKoQbmaPgdyn1R/cuB+uC+kAfaCfiCO9wm2b
+					xWj4MQzHGaJjmIf6pOc7zKQUf5/Qi4rSD08J
+					3AU8oIog4L3vdDiENUAD8RDDj2tIgZ+Hwe58
+					QUfx+w2g8RovEzEQmp7uOdDkQwY00TvVCJ/n
+					gdByHMYJNEKRBoFoUpRD3CwEwyz6Fx4g0PtD
+					GMeyk90QKpBSFK6+znH+qkwypK0ruA+jjypD
+					sRSywktqnCZVjsLYxQq8TyPNNkdO5Er6ubHs
+					aKi5M1IbM9DvhODjS9Nsc0C9ke0QjETT69yu
+					nSa5nmpJzxH7KAInWep+K8fb+OMv9HtG0TAR
+					Mq1WIZPk/Vm4Sq1c00dq4hS/0RXNUKjV9FIn
+					SyCAQAinAqBICgAAZ8ned43F8dJ3HUAAGw0r
+					EuzZYTgODQbU21L9JXDQ9yRggUZOOCQC1IEA
+					FHyAANAIfQAAq5VSgIABcHmBoAHefynVZbdw
+					VtD05TjXdzR6Cp/nmd4sFmcx3ACBYIWxSM10
+					hNqE0Kg10oyrdvS1H1KoGDIDVIFgF3gD+VgA
+					DAFHsAACgPeh9xeAFTIEtgBgAfp9Xybl+AAW
+					Z4AdjdaR9R1F1vjOCYM0lX3If56Hgd4plicp
+					3AMBwIvPCcy6fXTjvw/VuQ/M+BadRz2qyD4D
+					qkFIEsmEoE3oDwFLcCGazcw0xqlF8XsmqR83
+					ufD5gBFiBH1nB7HwA4AEycYNxFMelUREyoKk
+					DYDqcc16Z9YOEaXXbuH0eR26vrOt67r9xVpE
+					Ox1ry+NWI5z7XcpwV36AASgWqQOARUgHAJnE
+					XKr41SNJ5U3Z3EQBKkw0X4AqV6MMe97nvCAA
+					HyfqpFecQOgAbZ7AShNvoKI4GHkAArBZDRra
+					0ABSHIAwAHSf/zdlEEpoGfQ8VntYa0AcBx5n
+					ZvoVUo12L/HXlNIECB/QLAHFQBGAwpwHwHFO
+					AYssqrfntvNajB15BAh+vGMmz55Q/3mPTACi
+					9MZhmAIvVIYZeBUh7QtAAM4dxvxYjnAq+dqT
+					TwJD/XoHgFKpAGAKWWNkbY3X7j4Z6KcfQJSI
+					qwSqQMfA8R3DvCoLJiUBGvMDiuxh0i3WCkFA
+					GVQEgCSoAnd4CSDIAAPQWABBtWMISHOIOA36
+					PSEjSQuLYzuE4/oTs+RQchvwAoZABMMvQqQ6
+					x9s9EYN0EMhozqIC0BAdwAAigph+OIcg5QAD
+					mHOOh8YAnKC+H1D9tUZYGEFHyPKLYVYvOsa9
+					K1SaaHegKKgCsCBAgRR0A6AspwC4OEQQejOP
+					BCXjnzKs8dnzOB+OgH7IOE4AXlSMOQ9ORTOU
+					3CYHCB8AA2R7uQleCEAI9QABvBc/YqBhhsja
+					G2AAew/1linHzFR7TZpcNJOdLGWYsmtAIAin
+					tU5BTBH2oOQgKYGioBGA2VCBZp1GkVQWtuGF
+					C2SILj0P15U04SGTha6AACpHokCAHDNNwxR4
+					G/FQOw36JgBvQAAGcCcmwYgjh+N8cA4QADsH
+					ZJsZoAJxDNH5L89BB6FKCTeQKgA7wrMRHdGB
+					i5pD1gCPSiOpbtCDCEBYz1ZNEzm0VIpRchlG
+					TA0IVawVFsJD0yBZ86CkBpJrs4m6OwfqyxBD
+					jA8iI9JWR6DTGIAADo2hfgABgDEEwAARAjBI
+					4kA0v58AiTcao9cH2RkQdPFsK4tGJAGQymEh
+					76CCCBBUz0C7+jA1kIjMmPNfq0qNQiYYdY6x
+					0gAH1bkAAFwLgYZmAVZdFZoISLXSKubPyq11
+					NIANF4kRzAgAAOAfSyx+j2HoAAdAlA6gAHkO
+					gcD4xtjSAAF8MIZQAAUCmHR8Y/wGVcaVZl2r
+					potMPs81sCEBnRXvUA6NpAAA0AfKgC8CZTrX
+					WtmWQu2b/bWV+VILEWQswADWGuNdZgA18gQA
+					eA8AAWQsBXWsA29qQK2TQH5R9eAAR9ugH/Nc
+					wwwR6ATAALEeUvx0i5FKiIZIuAADUGqMvCq+
+					QbhcDuAABYSguqMTNfGMhWR8jzi2FkWw55bO
+					uTawA47JKmptCQBQpwTAO1iV1gshGCT+rPAA
+					Nwbo3LfrLBOCWxYCAEgIjwODOgABVitFZTUM
+					t5gE59AAKUU2NwSWOAADnQ2B6OTPZxNUgQ+1
+					4UlxUZMdI/HICHGwU4dImA9gAHUOe744xx5q
+					BYC8HwAARh2EoQKApDUwNJysmltdTwtC2YkA
+					iAoEWPuWVWoQ1MQYQApmIAANgJVc5iPvbAhI
+					6h1W3E8KAUIAAMgZAsAAeY8rrgG2xeMLwXs1
+					zjG0dsXe4b/BnDRgwAAqRVZ5A8B18QOwdg6a
+					iaWtrla/Hp0ZbjE4/V4D7xTOsSgrQADwG0NM
+					AA0xpDJw/L8G4aBCAAAMDoJRWmOnIf7xQ0cD
+					t6JtqeFsW+UmuNeZHGKMpWQClUEQCwpwBWzJ
+					Yj9GSM4uhdi62oPMeYAApBRClbgfRbhIiS1S
+					FIKAUKiAgnEOccw5gACfFEKIAAMgYAwAAOMc
+					g5Lcb9C8FwLkdQGL93mVGPRhY/D/mk4PnYAB
+					mDMqGJUT4sAADhHENnTg6ukAxB2E2ogcBFmk
+					AQAqMtonRy5bW6dZ4WxcZSAQA0CaGlfOzf3U
+					0PAJSpAZtU32jW8q1kEF4L0XgAByjl6QFMKQ
+					U2c79FcLAV9JWb7xAAOsdg696gA6JX0GXswA
+					Ah6Jb9+xXOvvROXaxBWizDD2HmPEAAgRCCOA
+					BKCUw0xqcIt5X0GwcRGgAAICzeCO+JwHqZGb
+					jLISBRZdSFzjo7gEAP8T41NevpXldC2BsqQM
+					9cKB2N5ZXQ8R4vsFKKfG48v7s+QkAIAIWWKy
+					CUCSCQAAA5AQAAGUGW4QHqHqLcCWCVAMKusw
+					ROj0wKVsK6g8cAH6MMF0Fy5kFcFcF2nGGyGe
+					AAHoHofYBqCO6yAwDOD+OAAGmO7+/WaghARI
+					IGlidSC88K/I/MAiVUhAUa4wv0cuKoCBCCAA
+					CaA0hcQY/oL6rIVOH4hKp+9YAAz6fMHsHuZk
+					E8E+FAAADaDWDWAAAVDMzOG2nmFxBAAACiCi
+					6EHRDiOAPWBEBCBGyIAW75Ck9U5aROHaHaHY
+					AAD+D+7y2WlMGwGyGcqIA+BS6aDuEqWYBABU
+					lcWyOGtIdqV8HwdQHeC7B8/K/Ol0/Qv6AAc4
+					KkDgBGZwRO/mwOVPD6rNCi0UVIEkErEgByBw
+					BuPyACKgG8G+G+AAG6G8G8WYKZFIA4A0cSHw
+					XgHzGWw2Csw8AWiS2RAoS8QiReFKFKFSAAGI
+					GHEUx44QhKMMB2CgvMAiC6vUL0c0Sysuo0yu
+					aTFEKyK/B4Fy8MAc8S8A5GW4II5UIED+BMMm
+					AMK3FeXRGkv0rIouKkxKVIGtIWAAnknnF5F8
+					wSA4A3GPDqsoGrIYBfI0AABi6e3MFEFGxvI0
+					BaAABaBZJImSramSzoHEAAEUETEgHQHSHGAB
+					GCGsAABQBOBoAACUCoCiAAHOB8DEcqn4W41b
+					BvHeaTHiHeC+F2ykgJHsUW1eXvFGVkIEDUA6
+					MmA6ATA1II8tK+rUMMF+GCGCwiGpJu9mBiAA
+					HqHsZk6k6o6uC29UGPLouiHFJaCgCcCc50Mm
+					FS3QAAB0B2BwAABMBKioK4S8tyXpFoE2AAGw
+					GvF8GgGiGMAAAQ72AACMCK7sB4B66gHIBS7t
+					JoAW+1HaS2PSKXNKjHCNB2HeDBKcHcATHrCU
+					IclarTNSCiAoVIBoAgeZLBMQ8tCnCoAA59Eg
+					CeCcCY9gA+nFDitu/yFOAADWDS3KALACnoHu
+					nUFUFWzyH034pLOEAqAoxgCaCZOQAGpmr9IO
+					AAGhMkAAE6E5Gy7cO26Ou+BgBeB4AACQCSB6
+					sRPqAAHiAuBYAAF+H2xhCNHuds+2ITE0dSDD
+					Hm/IAhFBBqv4r+5WOcBmAYReCkAwkc99Q6VO
+					QgK6cAcQE0E1MaBWBVEaBi9pMkGgABIxJuDC
+					C+C+rUXQLW8488WYAIZ6AwAu2m7CuFLWHqHu
+					AAEWEUEm84HMlMGiQOAAa82mCQCOCW0KB0Bd
+					MIBMsWH4AQN+FIHufEoWV6Y0RrBvQWHeDEF5
+					KfNkRCbKamUlHcIGAoAKKkDcA7SHAwaiPwo4
+					XRQ6NKG+HDF8FkwfPQ26CeCbSkAwAxGPGnA2
+					PucQwKg9RqMMF6F6GAAAFqFpUpERRaWe9cBs
+					BqCGAACICLFxI1QCArVNBkKgFcHzDuHUH8Xz
+					Eo1ZTbQSIO/BTLNeARQgQ0SofQ8WQ7KoIIDo
+					A6nUAWAHTwNIqzT3FgP3WOcWpA2q5qAcAcX6
+					KYZ7JVGo6/AzTvWU9UHdW6AAEQEREgqAWqGo
+					+bFIA1DvPzAMBqBqBWsYsaAAAOAOfsUbBPGO
+					GWH2qQqUIHFSzBHcZEqdE3TNTRKibIyzKPCM
+					oQv2AADAAuZkA8AOhnWTGnWWmTFc9VMRUWxF
+					N/W1GnFexEQiVIzwFiAAGSGSGoAAGkGmGQe4
+					RUAAB2B4COAACACBLUBXZuAAAkgMOImSHWAC
+					aOFkH4r7MQafEvNoW5TIDFVvCBYQgQyybKW4
+					CKAcLcBwAehqorIETdYsP5PS67WzY3FU97UX
+					YpUFJSe3Lu6oEmEkE+fuHUlE2+Gi1MBHJICQ
+					CRU+BiBjXdOUr6uAXywSmSHsAMQ0FWH0nEzH
+					YXWXNSV4OGRDKWDJTOqnTSWAyzYOUE4mK6BW
+					AQMmCgAouvJURGejWw9Va9D5UbQ9YxbDdDFe
+					66erO4AAE8E8FJDQ6oGcGeGGx+AAB+B9ANZh
+					JIBSBSBQw+aONFPMXzBmWWG6H8xgF6HyxgWJ
+					KSNMUbCEK6dOdTcfYIyoMAOCqSPVHyUWmIRe
+					DWA0HgPzWvayovWMtldNK7elaxdLfQjwwLA4
+					MNXKGqAAFOFMFo7aP+7a7eABRQBsAACOCO1K
+					BoBq6gA4A6A4PywshQVIe8QWAEWWFsH2nEHW
+					H+nMaSUm8Aq2ILTIDHcg1tQjHwv44q+5KoK6
+					DUAqHajqqxFhbG7BPTIHfbhlAtdNUXekj0Xu
+					xEHyt1ERGEG1EQAAEuEvSOAYPIABPJJ+CECH
+					FwAoAq2nCohlNQHmAKw0HfisuiAEN/fIchYR
+					ahBvRDcoIfg/VudbV8PgPagUL8NUoqNUCmAc
+					5qBEARTqtYxFUddG97jFjue3bNhrdCKuMMKc
+					KgHmHwMmBaBXeC53SGFeFhZIFgFa5kB8CM1K
+					AqBPLUHwAa2mHWAHiuAG74VIc0TIOWOTcm+5
+					dFFyPYVUQ+NRE0WeDEFy1qYteybG11ICUWYO
+					jwB4ZiAABuAW5rY5dZjzRrjFWta6tYL2PzGI
+					mce5GYHiHmuuA2A4nEA8A4AvJqG8u+HO2Uwi
+					HuaOGwAase+osuVwgTlrlwvgcu18wXltlagA
+					HeDCFwgHjPcrNSjvNUR8BAAMXoCmAiHfY7dS
+					jxj5fYS8mTF1kGACZ7A6Rfh6XpC4LdGSXgcO
+					MMHgAEl+Ag5KAACCBmBOu4Hk5qG0zQtwACfs
+					FoH+ioH0AFVeyUvdadnsKiPWm1YSrFNQTaHw
+					atKYFuHE/JTTlJcYYVaLCFVk+om0DUApECZ6
+					pNWvWzIHDnDmKcRdoZGYcdogHvSGHyPSHgAC
+					w0HcAGaOHTk6AAYmzkd+XoDSBCVIAuAkX6ib
+					F8PFn+GsAIkrZQl+vdHcW+VTqDaOKqS7YXRC
+					18PsHsHjB4FqHDcilvlMQ7CJr6YMlzryOMCY
+					AcuuBQASnUjwL5HBmaLdC2LdqsLcHyH4MMHk
+					AGX6HYAEw0HUACvaHZk+m8YCUWCUASk2COBb
+					GPEBECG1GAK9tIaIH8ugRftfhKdLuEYwitVg
+					yWbWK7lcHeC2FiG9p48Sb+MPKolbukokvddA
+					YO5UKkCsAhfIwGuvC4ZkHpkMp+H8fM9cvaHO
+					jqABhYzkVJWqR2KkNFHaA4AGMmC2A+MMAwAg
+					74GyG4zVAcnUGEH/DuHBvOK0UNvpsSRPmTuQ
+					PQalvmaRr+TXlKIdVqC4FiG7sO8U17EtwsbZ
+					r5TdFGIRpWA8AIXge0IEHWrypK+oRtViOPse
+					10gsMMB4AEWqAgeKPyH4nUHdiyFyHwAyNppd
+					hJYVe7T0XBg7jCbaO5g6RCliWeC4FgG5w5e4
+					TbQPhMlfaI+4MEXIn6UvcQrGbEUAReAuHklE
+					AWHqtuHQAvSqHmAEchX8yXqBRplTYS5DVnly
+					n+LAHeCyFYGzx+AYYs4w8vNJsUKxaM/XwVzr
+					wWImNQ10R9uM790PpbnQI0MFp8RpsYY3yajO
+					yagCFSGxciYtHaQWTSYDr7p90QOYMGUH1ONB
+					te3kPewIMJsW94PUL4RyPkPSKapPpewIS9wd
+					lrlvefy8kuS1oKTIL7TAVbvnlKKduWCiE6GK
+					G+AcA2BEBBHvyPF1EsR7jAyQbXnSjLyL23r8
+					T9KPjXw/ntzr0l05lZaLnqPyMLe2aSHgHJmy
+					A0BsCKDCBcDCD8ECAKAYwz0sbX3NuHyPuPrs
+					JdTBuRuII5V6IuKoH0+GHiGoFAEFBiQb4345
+					47494/5B5D5F5H5J5L5N5P5R5T5V5X5Z5b5d
+					5eJUICAAEQEAAAMAAAABAEAAAAEBAAMAAAAB
+					AEAAAAECAAMAAAAEAAAUxgEDAAMAAAABAAUA
+					AAEGAAMAAAABAAIAAAEKAAMAAAABAAEAAAER
+					AAQAAAABAAAACAESAAMAAAABAAEAAAEVAAMA
+					AAABAAQAAAEWAAMAAAABAEAAAAEXAAQAAAAB
+					AAAT7AEcAAMAAAABAAEAAAEoAAMAAAABAAIA
+					AAE9AAMAAAABAAIAAAFSAAMAAAABAAEAAAFT
+					AAMAAAAEAAAUzodzAAcAAAfYAAAU1gAAJCoA
+					CAAIAAgACAABAAEAAQABAAAH2GFwcGwCIAAA
+					bW50clJHQiBYWVogB9kAAgAZAAsAGgALYWNz
+					cEFQUEwAAAAAYXBwbAAAAAAAAAAAAAAAAAAA
+					AAAAAPbWAAEAAAAA0y1hcHBsAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAALZGVzYwAAAQgAAABvZHNj
+					bQAAAXgAAAWcY3BydAAABxQAAAA4d3RwdAAA
+					B0wAAAAUclhZWgAAB2AAAAAUZ1hZWgAAB3QA
+					AAAUYlhZWgAAB4gAAAAUclRSQwAAB5wAAAAO
+					Y2hhZAAAB6wAAAAsYlRSQwAAB5wAAAAOZ1RS
+					QwAAB5wAAAAOZGVzYwAAAAAAAAAUR2VuZXJp
+					YyBSR0IgUHJvZmlsZQAAAAAAAAAAAAAAFEdl
+					bmVyaWMgUkdCIFByb2ZpbGUAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAG1sdWMAAAAAAAAAHwAA
+					AAxza1NLAAAAKAAAAYRkYURLAAAALgAAAaxj
+					YUVTAAAAJAAAAdp2aVZOAAAAJAAAAf5wdEJS
+					AAAAJgAAAiJ1a1VBAAAAKgAAAkhmckZVAAAA
+					KAAAAnJodUhVAAAAKAAAApp6aFRXAAAAFgAA
+					AsJuYk5PAAAAJgAAAthjc0NaAAAAIgAAAv5o
+					ZUlMAAAAHgAAAyBpdElUAAAAKAAAAz5yb1JP
+					AAAAJAAAA2ZkZURFAAAALAAAA4prb0tSAAAA
+					FgAAA7ZzdlNFAAAAJgAAAth6aENOAAAAFgAA
+					A8xqYUpQAAAAGgAAA+JlbEdSAAAAIgAAA/xw
+					dFBPAAAAJgAABB5ubE5MAAAAKAAABERlc0VT
+					AAAAJgAABB50aFRIAAAAJAAABGx0clRSAAAA
+					IgAABJBmaUZJAAAAKAAABLJockhSAAAAKAAA
+					BNpwbFBMAAAALAAABQJydVJVAAAAIgAABS5h
+					ckVHAAAAJgAABVBlblVTAAAAJgAABXYAVgFh
+					AGUAbwBiAGUAYwBuAP0AIABSAEcAQgAgAHAA
+					cgBvAGYAaQBsAEcAZQBuAGUAcgBlAGwAIABS
+					AEcAQgAtAGIAZQBzAGsAcgBpAHYAZQBsAHMA
+					ZQBQAGUAcgBmAGkAbAAgAFIARwBCACAAZwBl
+					AG4A6AByAGkAYwBDHqUAdQAgAGgA7ABuAGgA
+					IABSAEcAQgAgAEMAaAB1AG4AZwBQAGUAcgBm
+					AGkAbAAgAFIARwBCACAARwBlAG4A6QByAGkA
+					YwBvBBcEMAQzBDAEOwRMBD0EOAQ5ACAEPwRA
+					BD4ERAQwBDkEOwAgAFIARwBCAFAAcgBvAGYA
+					aQBsACAAZwDpAG4A6QByAGkAcQB1AGUAIABS
+					AFYAQgDBAGwAdABhAGwA4QBuAG8AcwAgAFIA
+					RwBCACAAcAByAG8AZgBpAGyQGnUoACAAUgBH
+					AEIAIIJyX2ljz4/wAEcAZQBuAGUAcgBpAHMA
+					awAgAFIARwBCAC0AcAByAG8AZgBpAGwATwBi
+					AGUAYwBuAP0AIABSAEcAQgAgAHAAcgBvAGYA
+					aQBsBeQF6AXVBeQF2QXcACAAUgBHAEIAIAXb
+					BdwF3AXZAFAAcgBvAGYAaQBsAG8AIABSAEcA
+					QgAgAGcAZQBuAGUAcgBpAGMAbwBQAHIAbwBm
+					AGkAbAAgAFIARwBCACAAZwBlAG4AZQByAGkA
+					YwBBAGwAbABnAGUAbQBlAGkAbgBlAHMAIABS
+					AEcAQgAtAFAAcgBvAGYAaQBsx3y8GAAgAFIA
+					RwBCACDVBLhc0wzHfGZukBoAIABSAEcAQgAg
+					Y8+P8GWHTvZOAIIsACAAUgBHAEIAIDDXMO0w
+					1TChMKQw6wOTA7UDvQO5A7oDzAAgA8ADwQO/
+					A8YDrwO7ACAAUgBHAEIAUABlAHIAZgBpAGwA
+					IABSAEcAQgAgAGcAZQBuAOkAcgBpAGMAbwBB
+					AGwAZwBlAG0AZQBlAG4AIABSAEcAQgAtAHAA
+					cgBvAGYAaQBlAGwOQg4bDiMORA4fDiUOTAAg
+					AFIARwBCACAOFw4xDkgOJw5EDhsARwBlAG4A
+					ZQBsACAAUgBHAEIAIABQAHIAbwBmAGkAbABp
+					AFkAbABlAGkAbgBlAG4AIABSAEcAQgAtAHAA
+					cgBvAGYAaQBpAGwAaQBHAGUAbgBlAHIAaQEN
+					AGsAaQAgAFIARwBCACAAcAByAG8AZgBpAGwA
+					VQBuAGkAdwBlAHIAcwBhAGwAbgB5ACAAcABy
+					AG8AZgBpAGwAIABSAEcAQgQeBDEESQQ4BDkA
+					IAQ/BEAEPgREBDgEOwRMACAAUgBHAEIGRQZE
+					BkEAIAYqBjkGMQZKBkEAIABSAEcAQgAgBicG
+					RAY5BicGRQBHAGUAbgBlAHIAaQBjACAAUgBH
+					AEIAIABQAHIAbwBmAGkAbABldGV4dAAAAABD
+					b3B5cmlnaHQgMjAwNyBBcHBsZSBJbmMuLCBh
+					bGwgcmlnaHRzIHJlc2VydmVkLgBYWVogAAAA
+					AAAA81IAAQAAAAEWz1hZWiAAAAAAAAB0TQAA
+					Pe4AAAPQWFlaIAAAAAAAAFp1AACscwAAFzRY
+					WVogAAAAAAAAKBoAABWfAAC4NmN1cnYAAAAA
+					AAAAAQHNAABzZjMyAAAAAAABDEIAAAXe///z
+					JgAAB5IAAP2R///7ov///aMAAAPcAADAbIAA
+					IFA4JBYNB4RCYVC4ZDYdD4hEYlE4pFYtF4xG
+					Y1G4MCgiFAsKiGUCgCwkFgo/39K4gAQCAgE9
+					Xg63a1Fwq1U+Hm8HfHJ9FyAZz4gBwWzSZgSD
+					wqFAA/6dLZcAXw8nY7V8l0MiWUqUulH8/X6/
+					J/Y4edF44XGEQ2Hg5KoEAYO/4PcIFcoEAwJA
+					nY4W43lwizweXQ2Wi0ABLrth7JGrg/Hy93w8
+					XQ5HGfmW83mBwUDAZDMTdIbL4E5200Wk6W21
+					GpoIpn4XoH9c4HiYIAqi+nruWlN1aemQ8Xk/
+					QKCwa/KfZAEA4HoLtiX8/7hLreAbkBuoAAQA
+					di+X8AgA+ehioVrtfb+e/nSz2GxTOvna8nwB
+					OI/efPuddtB0uwArkDQG2IIgKfoAAiAx9gAB
+					YCn0AAGO0ABynsBAAGcegFoa2yBOe5iEgGmA
+					AASfh6HoKxbHUeQBASBoGrg2imoQu0BregcM
+					P2uAGgKgQJAMgQKAIuQKwEAEewXIB8QYAp7g
+					AvEDrFAZxHqA4AFKcwMgAeh+OUxAASiuQbAi
+					2JvnnA5xn5CTvIMuUWHszAqlqdJ5AMBQHAbF
+					sZLqgYEOUAAHLyAAJAOuAJx2AALOyAAK0AAA
+					JgOuQIgI2IGAFAYDH/A4An6fKm0wAEB0zTMD
+					npTgAFEcYNAAakKgA7y4BoCCxCeCZ5AAXByQ
+					GYh8qZPTxTs3B5HmK8Snk4c5rlFr6wJPogAs
+					5QMAVHICrgCMowYAa5ALPVdH65q3IIf6wAAf
+					x8yMAB+STcFzAHTJeHeB4AFSdQLAAAx9VCLY
+					KHiAANgPA5VHaCAAG6f92xY2R+HtXwsFuddh
+					AZOamti8R+YgFFIgAN4TO9PLprlY7aPC86Cv
+					pAZ1nUddOLDIQJ1yfyxH+fR7SUfx6gAch9OU
+					SJ0g6AB1mOXIABKdRlAADwiisABmgQE4AH0/
+					EXIM7x+HrXwtFzhYCzkBs7oI4yBBFCwADnjE
+					tz1jqnqiAB4bSAB2ncdtFAkCVVOSABpGmaVy
+					W+E4ShNPwJAjcB80zpdQpXA5KmwsRakgQimn
+					tfAaDyS4AHuB8qu1AcNxkuB94OeYuF3q2sRe
+					uwFT0OoTLgDAELlbViuOgZmmcZrvnzBbQAcB
+					92mt3chAoCYABQE+lbh36wrFTkDn9NYAEYUR
+					ZAAWBTlCAATCsNoAAwJgwLrOqF85XwvdBOAF
+					ghOluLo69wIGMoQLkF4HrliUWqcuRnmgZ9OH
+					5AZvnAcIAAgA+B4AD/BwAABICMEbQwPM6M4h
+					YlZcjbFwGk/YAAhBBiHAAPMBRTAXhzEgqoCC
+					8VwOYLiQQ0Q+yZDzC+Lwdj4wHtZacQdiRAgl
+					AXNiEsCyAx9MQfobODJmAADqZK3RuzKXfjtb
+					YvkDiVUOnKA8B4D4AAFAKASAA3LMxKiTE0AA
+					WwtRZgABiGcQAAAIBCCqU0fiByWmKHy44eYY
+					RfQtTjC9rRBx9l2BgnQAAXgOILJYU0t0PSnG
+					xGuNgbLOx1smHvItvrf1fDzAAPuSQAAXAtBY
+					29uIwxhDGAAIgRIjXsAVb+DwOYjGaATBQhl4
+					63TlkILgy8eI8wxi/jkAqF6xVdkERiAAC4BS
+					5BnA4pkBQAjYutkAbGSRYhhDDGGvIAyOAFxT
+					Z+CUEoABwTXXASwD8AYfszEcI4SYABkzjAAG
+					ELwWgAArCSFMAAuh/ghXA2YiMr43BklpC6PS
+					dTyHWIEGQDTMAMpBYkbE45YEBjhoQ5MfDMCl
+					rxAgBBdo9h7MzbOAUAhyhai1F2AASwlxMs/B
+					NNUo72wJgdBA9AfUUR3j/R2wQhiqzvj1liGU
+					YEtY6QxIVCQKgE2YAvAUkaHaGSWSDmzDofSB
+					wCUXZPQRbhA5rjiAAI8R4lZrDfG8AAMgZXtg
+					/B8DlJQBEdi1H7PAcY/lnHKTTCVzTS43U0pt
+					DB7pBltFwByAxJIRwIKhH0tqbNTDYkrqY6w+
+					kgEBkqdYSwYIwZOCTElOEGwNgagACuFsLAAA
+					GkgAAPEAKzhjD+VMPAf5eUzkPnpTMX7CwDgL
+					WJD61h+pVgkQUAAKgER4F1QHA+vtuaiQjbwg
+					N/Rdi8AAHQOUc4ABRisi+CIHQRAAAcBSCqKw
+					AUJDxRQAAdg/1nG0NZawgpdFeyyF6m9OLDqc
+					EJrSA8ARYgtgRJ6AsASCywTFW/QYAA+GuD2Y
+					gPJLF9TwgtAshZSqmRXjdZgOcBYGymgGQkcY
+					7x0Do3lIlPRXwYBcDlnxLghpdrRhGAcrIEoB
+					lQjzHygMeDxx5D7O8PAfyOMVF5HiP9KIHwEQ
+					3AyXIaQ5rai8H4qYelLDFLbTs5lVRA2IR1Py
+					5seksQvC1HCsJ0WEJWx1yKBcAiAwPAESSmI2
+					I8B+l5HqP85SC0cD7NEgM7wKgDoLBaAMdgAB
+					nj3iqNwf7fy4GxNhlE2Sd87p2MUd6WA8wtCw
+					G8PMAxxDO1xIdkUvLHMfy5h9kJKKAwGD9xCA
+					MzqC0smLzzCgeY9AiiKFcMcCQJwZgzkBpoi5
+					5NUEKbOOwa4zRmgYBkD8JoEARAsBblDVeuyx
+					l0HgN0ag09ebD2JsXY2x9kbJ2UQYgIAAABEB
+					AAADAAAAAQAgAAABAQADAAAAAQAgAAABAgAD
+					AAAABAAAJPwBAwADAAAAAQAFAAABBgADAAAA
+					AQACAAABCgADAAAAAQABAAABEQAEAAAAAQAA
+					HK4BEgADAAAAAQABAAABFQADAAAAAQAEAAAB
+					FgADAAAAAQAgAAABFwAEAAAAAQAAB3sBHAAD
+					AAAAAQABAAABKAADAAAAAQACAAABPQADAAAA
+					AQACAAABUgADAAAAAQABAAABUwADAAAABAAA
+					JQSHcwAHAAAH2AAAJQwAAC+sAAgACAAIAAgA
+					AQABAAEAAQAAB9hhcHBsAiAAAG1udHJSR0Ig
+					WFlaIAfZAAIAGQALABoAC2Fjc3BBUFBMAAAA
+					AGFwcGwAAAAAAAAAAAAAAAAAAAAAAAD21gAB
+					AAAAANMtYXBwbAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAC2Rlc2MAAAEIAAAAb2RzY20AAAF4AAAF
+					nGNwcnQAAAcUAAAAOHd0cHQAAAdMAAAAFHJY
+					WVoAAAdgAAAAFGdYWVoAAAd0AAAAFGJYWVoA
+					AAeIAAAAFHJUUkMAAAecAAAADmNoYWQAAAes
+					AAAALGJUUkMAAAecAAAADmdUUkMAAAecAAAA
+					DmRlc2MAAAAAAAAAFEdlbmVyaWMgUkdCIFBy
+					b2ZpbGUAAAAAAAAAAAAAABRHZW5lcmljIFJH
+					QiBQcm9maWxlAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAABtbHVjAAAAAAAAAB8AAAAMc2tTSwAA
+					ACgAAAGEZGFESwAAAC4AAAGsY2FFUwAAACQA
+					AAHadmlWTgAAACQAAAH+cHRCUgAAACYAAAIi
+					dWtVQQAAACoAAAJIZnJGVQAAACgAAAJyaHVI
+					VQAAACgAAAKaemhUVwAAABYAAALCbmJOTwAA
+					ACYAAALYY3NDWgAAACIAAAL+aGVJTAAAAB4A
+					AAMgaXRJVAAAACgAAAM+cm9STwAAACQAAANm
+					ZGVERQAAACwAAAOKa29LUgAAABYAAAO2c3ZT
+					RQAAACYAAALYemhDTgAAABYAAAPMamFKUAAA
+					ABoAAAPiZWxHUgAAACIAAAP8cHRQTwAAACYA
+					AAQebmxOTAAAACgAAAREZXNFUwAAACYAAAQe
+					dGhUSAAAACQAAARsdHJUUgAAACIAAASQZmlG
+					SQAAACgAAASyaHJIUgAAACgAAATacGxQTAAA
+					ACwAAAUCcnVSVQAAACIAAAUuYXJFRwAAACYA
+					AAVQZW5VUwAAACYAAAV2AFYBYQBlAG8AYgBl
+					AGMAbgD9ACAAUgBHAEIAIABwAHIAbwBmAGkA
+					bABHAGUAbgBlAHIAZQBsACAAUgBHAEIALQBi
+					AGUAcwBrAHIAaQB2AGUAbABzAGUAUABlAHIA
+					ZgBpAGwAIABSAEcAQgAgAGcAZQBuAOgAcgBp
+					AGMAQx6lAHUAIABoAOwAbgBoACAAUgBHAEIA
+					IABDAGgAdQBuAGcAUABlAHIAZgBpAGwAIABS
+					AEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQXBDAE
+					MwQwBDsETAQ9BDgEOQAgBD8EQAQ+BEQEMAQ5
+					BDsAIABSAEcAQgBQAHIAbwBmAGkAbAAgAGcA
+					6QBuAOkAcgBpAHEAdQBlACAAUgBWAEIAwQBs
+					AHQAYQBsAOEAbgBvAHMAIABSAEcAQgAgAHAA
+					cgBvAGYAaQBskBp1KAAgAFIARwBCACCCcl9p
+					Y8+P8ABHAGUAbgBlAHIAaQBzAGsAIABSAEcA
+					QgAtAHAAcgBvAGYAaQBsAE8AYgBlAGMAbgD9
+					ACAAUgBHAEIAIABwAHIAbwBmAGkAbAXkBegF
+					1QXkBdkF3AAgAFIARwBCACAF2wXcBdwF2QBQ
+					AHIAbwBmAGkAbABvACAAUgBHAEIAIABnAGUA
+					bgBlAHIAaQBjAG8AUAByAG8AZgBpAGwAIABS
+					AEcAQgAgAGcAZQBuAGUAcgBpAGMAQQBsAGwA
+					ZwBlAG0AZQBpAG4AZQBzACAAUgBHAEIALQBQ
+					AHIAbwBmAGkAbMd8vBgAIABSAEcAQgAg1QS4
+					XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Blh072
+					TgCCLAAgAFIARwBCACAw1zDtMNUwoTCkMOsD
+					kwO1A70DuQO6A8wAIAPAA8EDvwPGA68DuwAg
+					AFIARwBCAFAAZQByAGYAaQBsACAAUgBHAEIA
+					IABnAGUAbgDpAHIAaQBjAG8AQQBsAGcAZQBt
+					AGUAZQBuACAAUgBHAEIALQBwAHIAbwBmAGkA
+					ZQBsDkIOGw4jDkQOHw4lDkwAIABSAEcAQgAg
+					DhcOMQ5IDicORA4bAEcAZQBuAGUAbAAgAFIA
+					RwBCACAAUAByAG8AZgBpAGwAaQBZAGwAZQBp
+					AG4AZQBuACAAUgBHAEIALQBwAHIAbwBmAGkA
+					aQBsAGkARwBlAG4AZQByAGkBDQBrAGkAIABS
+					AEcAQgAgAHAAcgBvAGYAaQBsAFUAbgBpAHcA
+					ZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYAaQBs
+					ACAAUgBHAEIEHgQxBEkEOAQ5ACAEPwRABD4E
+					RAQ4BDsETAAgAFIARwBCBkUGRAZBACAGKgY5
+					BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYnBkUA
+					RwBlAG4AZQByAGkAYwAgAFIARwBCACAAUABy
+					AG8AZgBpAGwAZXRleHQAAAAAQ29weXJpZ2h0
+					IDIwMDcgQXBwbGUgSW5jLiwgYWxsIHJpZ2h0
+					cyByZXNlcnZlZC4AWFlaIAAAAAAAAPNSAAEA
+					AAABFs9YWVogAAAAAAAAdE0AAD3uAAAD0FhZ
+					WiAAAAAAAABadQAArHMAABc0WFlaIAAAAAAA
+					ACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEBzQAA
+					c2YzMgAAAAAAAQxCAAAF3v//8yYAAAeSAAD9
+					kf//+6L///2jAAAD3AAAwGyAACBQOCQWDQeE
+					QmFQkGhUMhoJB0RiIAAGLQR/v5+v10NlpNJ9
+					PZ6PSFyWTD4yHg9kE0ns8gEAAKYAEBAJ+Pl5
+					vRTnEtFpxtJkMeTUOCvx9Pl8ntlPN6gUEgsF
+					P5/wYBASBOputxuNlgrNZRmNgWZAEBgGpvp/
+					TCpVOCRaZ2Z/udqM5oGlgPB7PunAl/32KwOZ
+					QIDgSrA0DzAGgSphMCPwABADPgANV5gkAOd9
+					AXHgR/AB6P2BVIBAB9u1zuwrLd2PUBgkGAqz
+					Z0MgmYBjDgANAqBB7YAAMAR848APMAAQAvIA
+					LJ1g0ALd0A8AEUIchkvXmcQDAB/Ph7PgtLl2
+					6wFVADTAAHAS6MQgyYPt8vcAPWRgB7fWBeYM
+					BHmOZ6ZI/lMYAABCEQQgAdIQByACNtAfiRHs
+					LpeHcpoFNeAC/DaEaBBUBypnWdx4gAbRtm04
+					b5goCQJAAFAThLEJrGuAA+EsU4AAuK44gABI
+					Mg/Cx/M6fcHDCX0JAKBQGgUfapAAKIMM6IgJ
+					sceJ7PgZZmGYAB+H4fYAAdLoAInApPk0TwAG
+					4f4IAABopjfCx+sc+7SHseZ7DIYEiAXI59n6
+					qYaAa0ArAs+B8yzMqtAAA9EIqi5xnGcoAFOU
+					ZRgAJQxjUABngyHgAH0fjOpqmCQzmMxgyJCg
+					FT2qYKAGzoxAqd4AAGf7HPcfUewYvxQFCVAA
+					AQh0VCEJIAGOfYLwUtr2wcMhenWprXAUqapu
+					MqYtAidzHn8ewAHYfSpnSfLRg6BgB0ucB1gA
+					bADg5WAFuge5/3Gti/1Ae56HsL5cnMe4CgMB
+					QEWhCyBhCAzggMf8tnefdxpIzQUAO+BzH4zR
+					zn6yzR3ig6Ln47h8CAQJSmACwXB0HJ/o2zqB
+					3i8yC3i0aBYuoiyAGAR1GkYxjgcDwTBaAwGA
+					hNELZeguVZevq36CkyLH0eh4HgomnafpyAgA
+					ABEBAAADAAAAAQAQAAABAQADAAAAAQAQAAAB
+					AgADAAAABAAAMH4BAwADAAAAAQAFAAABBgAD
+					AAAAAQACAAABCgADAAAAAQABAAABEQAEAAAA
+					AQAALOQBEgADAAAAAQABAAABFQADAAAAAQAE
+					AAABFgADAAAAAQAQAAABFwAEAAAAAQAAAscB
+					HAADAAAAAQABAAABKAADAAAAAQACAAABPQAD
+					AAAAAQACAAABUgADAAAAAQABAAABUwADAAAA
+					BAAAMIaHcwAHAAAH2AAAMI4AAAAAAAgACAAI
+					AAgAAQABAAEAAQAAB9hhcHBsAiAAAG1udHJS
+					R0IgWFlaIAfZAAIAGQALABoAC2Fjc3BBUFBM
+					AAAAAGFwcGwAAAAAAAAAAAAAAAAAAAAAAAD2
+					1gABAAAAANMtYXBwbAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAC2Rlc2MAAAEIAAAAb2RzY20AAAF4
+					AAAFnGNwcnQAAAcUAAAAOHd0cHQAAAdMAAAA
+					FHJYWVoAAAdgAAAAFGdYWVoAAAd0AAAAFGJY
+					WVoAAAeIAAAAFHJUUkMAAAecAAAADmNoYWQA
+					AAesAAAALGJUUkMAAAecAAAADmdUUkMAAAec
+					AAAADmRlc2MAAAAAAAAAFEdlbmVyaWMgUkdC
+					IFByb2ZpbGUAAAAAAAAAAAAAABRHZW5lcmlj
+					IFJHQiBQcm9maWxlAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAABtbHVjAAAAAAAAAB8AAAAMc2tT
+					SwAAACgAAAGEZGFESwAAAC4AAAGsY2FFUwAA
+					ACQAAAHadmlWTgAAACQAAAH+cHRCUgAAACYA
+					AAIidWtVQQAAACoAAAJIZnJGVQAAACgAAAJy
+					aHVIVQAAACgAAAKaemhUVwAAABYAAALCbmJO
+					TwAAACYAAALYY3NDWgAAACIAAAL+aGVJTAAA
+					AB4AAAMgaXRJVAAAACgAAAM+cm9STwAAACQA
+					AANmZGVERQAAACwAAAOKa29LUgAAABYAAAO2
+					c3ZTRQAAACYAAALYemhDTgAAABYAAAPMamFK
+					UAAAABoAAAPiZWxHUgAAACIAAAP8cHRQTwAA
+					ACYAAAQebmxOTAAAACgAAAREZXNFUwAAACYA
+					AAQedGhUSAAAACQAAARsdHJUUgAAACIAAASQ
+					ZmlGSQAAACgAAASyaHJIUgAAACgAAATacGxQ
+					TAAAACwAAAUCcnVSVQAAACIAAAUuYXJFRwAA
+					ACYAAAVQZW5VUwAAACYAAAV2AFYBYQBlAG8A
+					YgBlAGMAbgD9ACAAUgBHAEIAIABwAHIAbwBm
+					AGkAbABHAGUAbgBlAHIAZQBsACAAUgBHAEIA
+					LQBiAGUAcwBrAHIAaQB2AGUAbABzAGUAUABl
+					AHIAZgBpAGwAIABSAEcAQgAgAGcAZQBuAOgA
+					cgBpAGMAQx6lAHUAIABoAOwAbgBoACAAUgBH
+					AEIAIABDAGgAdQBuAGcAUABlAHIAZgBpAGwA
+					IABSAEcAQgAgAEcAZQBuAOkAcgBpAGMAbwQX
+					BDAEMwQwBDsETAQ9BDgEOQAgBD8EQAQ+BEQE
+					MAQ5BDsAIABSAEcAQgBQAHIAbwBmAGkAbAAg
+					AGcA6QBuAOkAcgBpAHEAdQBlACAAUgBWAEIA
+					wQBsAHQAYQBsAOEAbgBvAHMAIABSAEcAQgAg
+					AHAAcgBvAGYAaQBskBp1KAAgAFIARwBCACCC
+					cl9pY8+P8ABHAGUAbgBlAHIAaQBzAGsAIABS
+					AEcAQgAtAHAAcgBvAGYAaQBsAE8AYgBlAGMA
+					bgD9ACAAUgBHAEIAIABwAHIAbwBmAGkAbAXk
+					BegF1QXkBdkF3AAgAFIARwBCACAF2wXcBdwF
+					2QBQAHIAbwBmAGkAbABvACAAUgBHAEIAIABn
+					AGUAbgBlAHIAaQBjAG8AUAByAG8AZgBpAGwA
+					IABSAEcAQgAgAGcAZQBuAGUAcgBpAGMAQQBs
+					AGwAZwBlAG0AZQBpAG4AZQBzACAAUgBHAEIA
+					LQBQAHIAbwBmAGkAbMd8vBgAIABSAEcAQgAg
+					1QS4XNMMx3xmbpAaACAAUgBHAEIAIGPPj/Bl
+					h072TgCCLAAgAFIARwBCACAw1zDtMNUwoTCk
+					MOsDkwO1A70DuQO6A8wAIAPAA8EDvwPGA68D
+					uwAgAFIARwBCAFAAZQByAGYAaQBsACAAUgBH
+					AEIAIABnAGUAbgDpAHIAaQBjAG8AQQBsAGcA
+					ZQBtAGUAZQBuACAAUgBHAEIALQBwAHIAbwBm
+					AGkAZQBsDkIOGw4jDkQOHw4lDkwAIABSAEcA
+					QgAgDhcOMQ5IDicORA4bAEcAZQBuAGUAbAAg
+					AFIARwBCACAAUAByAG8AZgBpAGwAaQBZAGwA
+					ZQBpAG4AZQBuACAAUgBHAEIALQBwAHIAbwBm
+					AGkAaQBsAGkARwBlAG4AZQByAGkBDQBrAGkA
+					IABSAEcAQgAgAHAAcgBvAGYAaQBsAFUAbgBp
+					AHcAZQByAHMAYQBsAG4AeQAgAHAAcgBvAGYA
+					aQBsACAAUgBHAEIEHgQxBEkEOAQ5ACAEPwRA
+					BD4ERAQ4BDsETAAgAFIARwBCBkUGRAZBACAG
+					KgY5BjEGSgZBACAAUgBHAEIAIAYnBkQGOQYn
+					BkUARwBlAG4AZQByAGkAYwAgAFIARwBCACAA
+					UAByAG8AZgBpAGwAZXRleHQAAAAAQ29weXJp
+					Z2h0IDIwMDcgQXBwbGUgSW5jLiwgYWxsIHJp
+					Z2h0cyByZXNlcnZlZC4AWFlaIAAAAAAAAPNS
+					AAEAAAABFs9YWVogAAAAAAAAdE0AAD3uAAAD
+					0FhZWiAAAAAAAABadQAArHMAABc0WFlaIAAA
+					AAAAACgaAAAVnwAAuDZjdXJ2AAAAAAAAAAEB
+					zQAAc2YzMgAAAAAAAQxCAAAF3v//8yYAAAeS
+					AAD9kf//+6L///2jAAAD3AAAwGw=
+					</data>
+		<key>ModificationDate</key>
+		<real>695091209.08500695</real>
+		<key>Name</key>
+		<string>Macro Repository Updater</string>
+		<key>Triggers</key>
+		<array/>
+		<key>UID</key>
+		<string>9B8BAD3B-D93C-4EC7-8847-BB456A28FC12</string>
+	</dict>
+</array>
+</plist>

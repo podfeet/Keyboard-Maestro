@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>212</integer>
+				<key>DisplayKind</key>
+				<string>None</string>
+				<key>HonourFailureSettings</key>
+				<true/>
+				<key>IncludeStdErr</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>ExecuteAppleScript</string>
+				<key>Path</key>
+				<string></string>
+				<key>Text</key>
+				<string>tell application "Finder"
+	set sidebar width of every window to 220
+end tell</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>TrimResults</key>
+				<true/>
+				<key>TrimResultsNew</key>
+				<true/>
+				<key>UseText</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>637437880.368366</real>
+		<key>IsActive</key>
+		<false/>
+		<key>ModificationDate</key>
+		<real>637438558.30496299</real>
+		<key>Name</key>
+		<string>Resize Finder Sidebar</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>Application</key>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.apple.finder</string>
+					<key>Name</key>
+					<string>Finder</string>
+					<key>NewFile</key>
+					<string>/System/Library/CoreServices/Finder.app</string>
+				</dict>
+				<key>FireType2</key>
+				<string>WhileActive</string>
+				<key>MacroTriggerType</key>
+				<string>Application</string>
+				<key>RepeatTime</key>
+				<integer>1</integer>
+				<key>Target</key>
+				<string>Specific</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>BD3EF890-D0FF-40FB-BBFD-BC72124EE0A1</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>217</integer>
+				<key>Default</key>
+				<string></string>
+				<key>IsDisclosed</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>Search</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>Title</key>
+				<string>Search the web with Google</string>
+				<key>URL</key>
+				<string>http://www.google.com/search?q=%Search%</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>559784101.60999298</real>
+		<key>ModificationDate</key>
+		<real>559784101.60999298</real>
+		<key>Name</key>
+		<string>Search the Web</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>KeyCode</key>
+				<integer>5</integer>
+				<key>MacroTriggerType</key>
+				<string>HotKey</string>
+				<key>Modifiers</key>
+				<integer>4608</integer>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>6A1EAAC3-E62B-4C82-89E5-4BB22BD80E16</string>
+	</dict>
+</array>
+</plist>
