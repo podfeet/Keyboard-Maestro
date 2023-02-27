@@ -132,24 +132,6 @@
 						<key>Target</key>
 						<string>Specific</string>
 					</dict>
-					<dict>
-						<key>ActionName</key>
-						<string>Toggle Stage Manager - keystroke in System Settings/Keyboard/Keyboard Shortcuts/Mission Control</string>
-						<key>ActionUID</key>
-						<integer>9385869</integer>
-						<key>KeyCode</key>
-						<integer>40</integer>
-						<key>MacroActionType</key>
-						<string>SimulateKeystroke</string>
-						<key>Modifiers</key>
-						<integer>6912</integer>
-						<key>ReleaseAll</key>
-						<false/>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>TargetingType</key>
-						<string>Front</string>
-					</dict>
 				</array>
 				<key>MacroActionType</key>
 				<string>Group</string>
@@ -370,29 +352,6 @@ networksetup -setairportpower $device $v</string>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>57</integer>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.boinx.mimoLive</string>
-							<key>Name</key>
-							<string>mimoLive</string>
-							<key>NewFile</key>
-							<string>/Applications/mimoLive 6.1.2.app</string>
-						</dict>
-						<key>IsActive</key>
-						<false/>
-						<key>IsDefaultApplication</key>
-						<false/>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>Open1File</string>
-						<key>Path</key>
-						<string>~/Documents/podfeet/NosillaCast/mimoLive Settings &amp; Documentation/mimoLive Allison to Steve Apollo 1080p 30fps.tvshow</string>
-					</dict>
-					<dict>
-						<key>ActionUID</key>
 						<integer>58</integer>
 						<key>AllWindows</key>
 						<true/>
@@ -463,8 +422,6 @@ networksetup -setairportpower $device $v</string>
 								<string>Front</string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -625,43 +582,6 @@ networksetup -setairportpower $device $v</string>
 						<string>34</string>
 						<key>WidthExpression</key>
 						<string>1572</string>
-						<key>WindowIndexExpression</key>
-						<string>2</string>
-						<key>WindowName</key>
-						<string></string>
-					</dict>
-					<dict>
-						<key>Action</key>
-						<string>MoveAndResize</string>
-						<key>ActionName</key>
-						<string>mimoLive Window Move &amp; Resize</string>
-						<key>ActionUID</key>
-						<integer>68</integer>
-						<key>HeightExpression</key>
-						<string>SCREEN(2,Height)-220</string>
-						<key>HorizontalExpression</key>
-						<string>SCREEN(2,Left)+5</string>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>ManipulateWindow</string>
-						<key>TargetApplication</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.boinx.mimoLive</string>
-							<key>Name</key>
-							<string>mimoLive</string>
-							<key>NewFile</key>
-							<string>/Applications/mimoLive 6.1.2.app</string>
-						</dict>
-						<key>Targeting</key>
-						<string>FrontWindow</string>
-						<key>TargetingType</key>
-						<string>Specific</string>
-						<key>VerticalExpression</key>
-						<string>SCREEN(2,Top)+30</string>
-						<key>WidthExpression</key>
-						<string>SCREEN(2,Width)-300</string>
 						<key>WindowIndexExpression</key>
 						<string>2</string>
 						<key>WindowName</key>
@@ -1324,7 +1244,7 @@ networksetup -setairportpower $device $v</string>
 					JgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 					</data>
 		<key>ModificationDate</key>
-		<real>693331421.56319296</real>
+		<real>698629170.74877203</real>
 		<key>Name</key>
 		<string>Live Show's On</string>
 		<key>Triggers</key>
