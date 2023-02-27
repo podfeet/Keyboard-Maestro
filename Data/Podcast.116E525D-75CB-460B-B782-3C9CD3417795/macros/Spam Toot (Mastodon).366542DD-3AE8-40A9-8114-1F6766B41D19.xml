@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionColor</key>
+				<string>Green</string>
+				<key>ActionUID</key>
+				<integer>1</integer>
+				<key>MacroActionType</key>
+				<string>Comment</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC7DAQAAKwAAAAEAAAC7
+							AQAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYyNTEzClxjb2Nv
+							YXRleHRzY2FsaW5nMFxj
+							b2NvYXBsYXRmb3JtMHtc
+							Zm9udHRibFxmMFxmc3dp
+							c3NcZmNoYXJzZXQwIEhl
+							bHZldGljYTt9CntcY29s
+							b3J0Ymw7XHJlZDI1NVxn
+							cmVlbjI1NVxibHVlMjU1
+							O1xyZWQwXGdyZWVuMFxi
+							bHVlMDt9CntcKlxleHBh
+							bmRlZGNvbG9ydGJsOztc
+							Y3NzcmdiXGMwXGMwXGMw
+							XGM4NDcwNlxjbmFtZSBj
+							b250cm9sVGV4dENvbG9y
+							O30KXHBhcmRcdHg1NjBc
+							dHgxMTIwXHR4MTY4MFx0
+							eDIyNDBcdHgyODAwXHR4
+							MzM2MFx0eDM5MjBcdHg0
+							NDgwXHR4NTA0MFx0eDU2
+							MDBcdHg2MTYwXHR4Njcy
+							MFxwYXJkaXJuYXR1cmFs
+							XHBhcnRpZ2h0ZW5mYWN0
+							b3IwCgpcZjBcZnMyNiBc
+							Y2YyIFRoaXMga2V5c3Ry
+							b2tlIHRyaWdnZXJzIGFu
+							IEF1dG9tYXRvciBhY3Rp
+							b24gY2FsbGVkIGNvcHlC
+							bG9nVHdpdHRlcn0BAAAA
+							IwAAAAEAAAAHAAAAVFhU
+							LnJ0ZhAAAAB4cpdftgEA
+							AAAAAAAAAAAA
+							</data>
+				<key>Title</key>
+				<string>Copy title and URL</string>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>2</integer>
+				<key>DisplayKind</key>
+				<string>None</string>
+				<key>HonourFailureSettings</key>
+				<true/>
+				<key>IncludeStdErr</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>ExecuteAppleScript</string>
+				<key>Path</key>
+				<string></string>
+				<key>Text</key>
+				<string>-- In Safari, this copies the Title and URL of the current tab to the clipboard.  -- Save the script in ~/Library/Scripts/Applications/Safari-- Using QuickSilver, I assign a trigger to this script using the hotkey ⌥-C (option c), with the scope of the trigger limited to Safari.-- Inspired by CopyURL + (http://copyurlplus.mozdev.org/)-- Christopher R. Murphy tell application "Safari"	set theURL to URL of front document	set theTitle to name of front document	set theText to theTitle	log theTextend tell-- https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/ManipulateText.html on trimText(theText, theCharactersToTrim, theTrimDirection)	set theTrimLength to length of theCharactersToTrim	if theTrimDirection is in {"beginning", "both"} then		repeat while theText begins with theCharactersToTrim			try				set theText to characters (theTrimLength + 1) thru -1 of theText as string			on error				-- text contains nothing but trim characters				return ""			end try		end repeat	end if	if theTrimDirection is in {"end", "both"} then		repeat while theText ends with theCharactersToTrim			try				set theText to characters 1 thru -(theTrimLength + 1) of theText as string			on error				-- text contains nothing but trim characters				return ""			end try		end repeat	end if	return theTextend trimTextset theTitle to trimText(theText, " - Podfeet Podcasts", "end")set the clipboard to theTitle &amp; " " &amp; theURLlog (the clipboard)</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>TrimResults</key>
+				<true/>
+				<key>TrimResultsNew</key>
+				<true/>
+				<key>UseText</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionName</key>
+				<string>Generate Toot</string>
+				<key>ActionUID</key>
+				<integer>3</integer>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>4</integer>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.thomasricouard.IceCubesApp</string>
+							<key>Name</key>
+							<string>Ice Cubes</string>
+							<key>NewFile</key>
+							<string>/private/var/folders/x9/fwt9pzws335g39zwt1cz99q00000gn/X/667EA195-962B-5018-8EB2-08B9CA868049/d/Wrapper/IceCubesApp.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>ActionUID</key>
+						<integer>5</integer>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6cAQAA
+								KwAAAAEAAACU
+								AQAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYy
+								NTEzClxjb2Nv
+								YXRleHRzY2Fs
+								aW5nMFxjb2Nv
+								YXBsYXRmb3Jt
+								MHtcZm9udHRi
+								bFxmMFxmc3dp
+								c3NcZmNoYXJz
+								ZXQwIEhlbHZl
+								dGljYTt9Cntc
+								Y29sb3J0Ymw7
+								XHJlZDI1NVxn
+								cmVlbjI1NVxi
+								bHVlMjU1O1xy
+								ZWQwXGdyZWVu
+								MFxibHVlMDt9
+								CntcKlxleHBh
+								bmRlZGNvbG9y
+								dGJsOztcY3Nz
+								cmdiXGMwXGMw
+								XGMwXGM4NDcw
+								NlxjbmFtZSBj
+								b250cm9sVGV4
+								dENvbG9yO30K
+								XHBhcmRcdHg1
+								NjBcdHgxMTIw
+								XHR4MTY4MFx0
+								eDIyNDBcdHgy
+								ODAwXHR4MzM2
+								MFx0eDM5MjBc
+								dHg0NDgwXHR4
+								NTA0MFx0eDU2
+								MDBcdHg2MTYw
+								XHR4NjcyMFxw
+								YXJkaXJuYXR1
+								cmFsXHBhcnRp
+								Z2h0ZW5mYWN0
+								b3IwCgpcZjBc
+								ZnMyNiBcY2Yy
+								IEluIHdoYXRl
+								dmVyIGFjY291
+								bnQgaXMgb3Bl
+								bn0BAAAAIwAA
+								AAEAAAAHAAAA
+								VFhULnJ0ZhAA
+								AACNcpdftgEA
+								AAAAAAAAAAAA
+									</data>
+						<key>Title</key>
+						<string>Create a new toot</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>6</integer>
+						<key>KeyCode</key>
+						<integer>45</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>256</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>ActionUID</key>
+						<integer>7</integer>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6GAAAA
+								KwAAAAEAAAB+
+								AAAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NTA0XGNvY29h
+								c3VicnRmODMw
+								CntcZm9udHRi
+								bH0Ke1xjb2xv
+								cnRibDtccmVk
+								MjU1XGdyZWVu
+								MjU1XGJsdWUy
+								NTU7fQp7XCpc
+								ZXhwYW5kZWRj
+								b2xvcnRibDs7
+								fQp9AQAAACMA
+								AAABAAAABwAA
+								AFRYVC5ydGYQ
+								AAAAlmygWbYB
+								AAAAAAAAAAAA
+								AA==
+									</data>
+						<key>Title</key>
+						<string>Paste in Blog post title and URL</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>8</integer>
+						<key>KeyCode</key>
+						<integer>9</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>256</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+				</array>
+				<key>MacroActionType</key>
+				<string>Group</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>625452996.50571001</real>
+		<key>ModificationDate</key>
+		<real>699218735.35522294</real>
+		<key>Name</key>
+		<string>Spam Toot (Mastodon)</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>MacroTriggerType</key>
+				<string>TypedString</string>
+				<key>SimulateDeletes</key>
+				<true/>
+				<key>TypedString</key>
+				<string>spamt;</string>
+			</dict>
+			<dict>
+				<key>ElementCookie</key>
+				<integer>2</integer>
+				<key>ElementDeviceUsage</key>
+				<integer>0</integer>
+				<key>ElementDeviceUsagePage</key>
+				<integer>0</integer>
+				<key>ElementName</key>
+				<string>Stream Deck R1C2</string>
+				<key>ElementProductID</key>
+				<integer>0</integer>
+				<key>ElementShortName</key>
+				<string>R1C2</string>
+				<key>ElementStreamDeck</key>
+				<true/>
+				<key>ElementUsage</key>
+				<integer>1</integer>
+				<key>ElementUsagePage</key>
+				<integer>0</integer>
+				<key>ElementValue</key>
+				<integer>1</integer>
+				<key>ElementVendorID</key>
+				<integer>0</integer>
+				<key>FireType</key>
+				<string>Pressed</string>
+				<key>MacroTriggerType</key>
+				<string>HID</string>
+				<key>Modifiers</key>
+				<integer>0</integer>
+				<key>UseModifiers</key>
+				<true/>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>366542DD-3AE8-40A9-8114-1F6766B41D19</string>
+	</dict>
+</array>
+</plist>

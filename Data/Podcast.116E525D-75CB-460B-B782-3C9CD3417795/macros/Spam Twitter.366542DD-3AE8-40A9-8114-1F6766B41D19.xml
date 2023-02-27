@@ -98,8 +98,6 @@
 							<string>com.tapbots.Tweetbot3Mac</string>
 							<key>Name</key>
 							<string>Tweetbot</string>
-							<key>NewFile</key>
-							<string>/Applications/Tweetbot.app</string>
 						</dict>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
@@ -362,8 +360,6 @@
 							<string>com.tapbots.Tweetbot3Mac</string>
 							<key>Name</key>
 							<string>Tweetbot</string>
-							<key>NewFile</key>
-							<string>/Applications/Tweetbot.app</string>
 						</dict>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
@@ -442,8 +438,6 @@
 							<string>com.tapbots.Tweetbot3Mac</string>
 							<key>Name</key>
 							<string>Tweetbot</string>
-							<key>NewFile</key>
-							<string>/Applications/Tweetbot.app</string>
 						</dict>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
@@ -735,8 +729,6 @@
 							<string>com.tapbots.Tweetbot3Mac</string>
 							<key>Name</key>
 							<string>Tweetbot</string>
-							<key>NewFile</key>
-							<string>/Applications/Tweetbot.app</string>
 						</dict>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
