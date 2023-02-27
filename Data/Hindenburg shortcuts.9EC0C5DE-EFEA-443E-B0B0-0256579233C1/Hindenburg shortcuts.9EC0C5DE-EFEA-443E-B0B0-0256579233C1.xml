@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>CreationDate</key>
+		<real>570406375.61612201</real>
+		<key>CustomIconData</key>
+		<string>KMEP-ToolbarApplicationsFolder</string>
+		<key>IsActive</key>
+		<false/>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array/>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Hindenburg shortcuts</string>
+		<key>PaletteUnderMouse</key>
+		<false/>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.hindenburg.Hindenburg-Journalist</string>
+					<key>Name</key>
+					<string>Hindenburg</string>
+					<key>NewFile</key>
+					<string>/Applications/Hindenburg.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>DE5B41A5-FA1F-4BCF-AEC2-F09A3FE34A0A</string>
+		<key>UID</key>
+		<string>9EC0C5DE-EFEA-443E-B0B0-0256579233C1</string>
+	</dict>
+</array>
+</plist>
