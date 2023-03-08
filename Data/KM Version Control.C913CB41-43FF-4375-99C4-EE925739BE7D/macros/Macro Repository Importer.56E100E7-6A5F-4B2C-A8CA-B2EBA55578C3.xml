@@ -709,8 +709,6 @@
 								<string></string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Switch</string>
 						<key>Source</key>
@@ -2067,7 +2065,7 @@ NOTE: If you want to select a different group, go ahead and do that now, then cl
 					AAD9kf//+6L///2jAAAD3AAAwGw=
 					</data>
 		<key>ModificationDate</key>
-		<real>590337001.37710297</real>
+		<real>699686819.81628299</real>
 		<key>Name</key>
 		<string>Macro Repository Importer</string>
 		<key>Triggers</key>

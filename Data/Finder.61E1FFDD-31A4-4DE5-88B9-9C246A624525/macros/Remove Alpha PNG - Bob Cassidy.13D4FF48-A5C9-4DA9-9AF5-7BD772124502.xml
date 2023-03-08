@@ -68,6 +68,56 @@
 			</dict>
 			<dict>
 				<key>ActionUID</key>
+				<integer>9386383</integer>
+				<key>KeyCode</key>
+				<integer>124</integer>
+				<key>MacroActionType</key>
+				<string>SimulateKeystroke</string>
+				<key>Modifiers</key>
+				<integer>196608</integer>
+				<key>ReleaseAll</key>
+				<false/>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9386384</integer>
+				<key>MacroActionType</key>
+				<string>Pause</string>
+				<key>Time</key>
+				<string>1</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>ByTyping</string>
+				<key>ActionUID</key>
+				<integer>9386385</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
+				<key>Text</key>
+				<string>-no-alpha</string>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9386386</integer>
+				<key>MacroActionType</key>
+				<string>Pause</string>
+				<key>Time</key>
+				<string>1</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
 				<integer>53615</integer>
 				<key>ButtonName</key>
 				<string>Alpha</string>
@@ -94,11 +144,29 @@
 			</dict>
 			<dict>
 				<key>ActionUID</key>
-				<integer>9386384</integer>
-				<key>ButtonName</key>
-				<string>Replace</string>
+				<integer>9386388</integer>
 				<key>MacroActionType</key>
-				<string>PressButton</string>
+				<string>Pause</string>
+				<key>Time</key>
+				<string>1</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9386387</integer>
+				<key>KeyCode</key>
+				<integer>12</integer>
+				<key>MacroActionType</key>
+				<string>SimulateKeystroke</string>
+				<key>Modifiers</key>
+				<integer>256</integer>
+				<key>ReleaseAll</key>
+				<false/>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
 			</dict>
 			<dict>
 				<key>Action</key>
@@ -112,7 +180,7 @@
 		<key>CreationDate</key>
 		<real>688412240.03178895</real>
 		<key>ModificationDate</key>
-		<real>699242512.43835497</real>
+		<real>699929937.18991899</real>
 		<key>Name</key>
 		<string>Remove Alpha PNG - Bob Cassidy</string>
 		<key>Triggers</key>
