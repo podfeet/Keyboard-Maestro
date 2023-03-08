@@ -83,6 +83,8 @@
 				<string>Front</string>
 			</dict>
 			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>9386384</integer>
 				<key>MacroActionType</key>
@@ -107,6 +109,8 @@
 				<string>-no-alpha</string>
 			</dict>
 			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>9386386</integer>
 				<key>MacroActionType</key>
@@ -125,12 +129,50 @@
 				<string>PressButton</string>
 			</dict>
 			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>53618</integer>
 				<key>MacroActionType</key>
 				<string>Pause</string>
 				<key>Time</key>
 				<string>1</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9386393</integer>
+				<key>Allowed</key>
+				<string>IncludeInactive</string>
+				<key>InitialSearch</key>
+				<string>Go To Finder Front Window</string>
+				<key>IsActive</key>
+				<false/>
+				<key>MacroActionType</key>
+				<string>TriggerByName</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9386396</integer>
+				<key>KeyCode</key>
+				<integer>27</integer>
+				<key>MacroActionType</key>
+				<string>TriggerMacroByHotKey</string>
+				<key>Modifiers</key>
+				<integer>6912</integer>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
+				<key>ActionUID</key>
+				<integer>9386394</integer>
+				<key>MacroActionType</key>
+				<string>Pause</string>
+				<key>Time</key>
+				<string>2</string>
 				<key>TimeOutAbortsMacro</key>
 				<true/>
 			</dict>
@@ -143,6 +185,8 @@
 				<string>PressButton</string>
 			</dict>
 			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>9386388</integer>
 				<key>MacroActionType</key>
@@ -180,7 +224,7 @@
 		<key>CreationDate</key>
 		<real>688412240.03178895</real>
 		<key>ModificationDate</key>
-		<real>699929937.18991899</real>
+		<real>699931864.621997</real>
 		<key>Name</key>
 		<string>Remove Alpha PNG - Bob Cassidy</string>
 		<key>Triggers</key>
