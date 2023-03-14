@@ -254,6 +254,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>9385948</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
@@ -415,8 +417,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 								<string>Local__ChapterMark_URL</string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -2876,7 +2876,7 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 					owAAA9wAAMBs
 					</data>
 		<key>ModificationDate</key>
-		<real>698551246.57709706</real>
+		<real>700027843.73438001</real>
 		<key>Name</key>
 		<string>Grumpy's Hindy Chapter Marks - the OG</string>
 		<key>Triggers</key>

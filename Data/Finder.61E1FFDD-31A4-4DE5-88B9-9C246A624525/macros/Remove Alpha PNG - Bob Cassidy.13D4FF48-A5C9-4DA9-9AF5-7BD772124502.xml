@@ -23,6 +23,8 @@
 				<string>Specific</string>
 			</dict>
 			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>53232</integer>
 				<key>IsDisclosed</key>
@@ -57,14 +59,69 @@
 				<string>Specific</string>
 			</dict>
 			<dict>
+				<key>ActionColor</key>
+				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>53614</integer>
+				<key>IsDisclosed</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>Pause</string>
 				<key>Time</key>
 				<string>1</string>
 				<key>TimeOutAbortsMacro</key>
 				<true/>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Aqua</string>
+				<key>ActionUID</key>
+				<integer>9387590</integer>
+				<key>MacroActionType</key>
+				<string>Comment</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC7nAQAAKwAAAAEAAADf
+							AQAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYyNzA4Clxjb2Nv
+							YXRleHRzY2FsaW5nMFxj
+							b2NvYXBsYXRmb3JtMHtc
+							Zm9udHRibFxmMFxmc3dp
+							c3NcZmNoYXJzZXQwIEhl
+							bHZldGljYTt9CntcY29s
+							b3J0Ymw7XHJlZDI1NVxn
+							cmVlbjI1NVxibHVlMjU1
+							O1xyZWQwXGdyZWVuMFxi
+							bHVlMDt9CntcKlxleHBh
+							bmRlZGNvbG9ydGJsOztc
+							Y3NzcmdiXGMwXGMwXGMw
+							XGM4NDcwNlxjbmFtZSBj
+							b250cm9sVGV4dENvbG9y
+							O30KXHBhcmRcdHg1NjBc
+							dHgxMTIwXHR4MTY4MFx0
+							eDIyNDBcdHgyODAwXHR4
+							MzM2MFx0eDM5MjBcdHg0
+							NDgwXHR4NTA0MFx0eDU2
+							MDBcdHg2MTYwXHR4Njcy
+							MFxwYXJkaXJuYXR1cmFs
+							XHBhcnRpZ2h0ZW5mYWN0
+							b3IwCgpcZjBcZnMyNiBc
+							Y2YyIEZpbGUgbmFtZSBp
+							cyBwcmVzZWxlY3RlZFwK
+							VXNlIHJpZ2h0IGFycm93
+							IHRvIGp1bXAgdG8gZW5k
+							IG9mIG5hbWUgKGJlZm9y
+							ZSAucG5nKVwKVHlwZSB0
+							aGUgYXBwZW5kZWQgdGV4
+							dH0BAAAAIwAAAAEAAAAH
+							AAAAVFhULnJ0ZhAAAADd
+							+g9ktgEAAAAAAAAAAAAA
+							</data>
+				<key>Title</key>
+				<string>Rename file to append "-no-alpha"</string>
 			</dict>
 			<dict>
 				<key>ActionUID</key>
@@ -87,6 +144,8 @@
 				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>9386384</integer>
+				<key>IsDisclosed</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>Pause</string>
 				<key>Time</key>
@@ -113,6 +172,8 @@
 				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>9386386</integer>
+				<key>IsDisclosed</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>Pause</string>
 				<key>Time</key>
@@ -133,6 +194,8 @@
 				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>53618</integer>
+				<key>IsDisclosed</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>Pause</string>
 				<key>Time</key>
@@ -149,10 +212,60 @@
 				<string>Go To Finder Front Window</string>
 				<key>IsActive</key>
 				<false/>
+				<key>IsDisclosed</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>TriggerByName</string>
 				<key>TimeOutAbortsMacro</key>
 				<true/>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Aqua</string>
+				<key>ActionUID</key>
+				<integer>9387215</integer>
+				<key>MacroActionType</key>
+				<string>Comment</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC60AQAAKwAAAAEAAACs
+							AQAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYyNzA4Clxjb2Nv
+							YXRleHRzY2FsaW5nMFxj
+							b2NvYXBsYXRmb3JtMHtc
+							Zm9udHRibFxmMFxmc3dp
+							c3NcZmNoYXJzZXQwIEhl
+							bHZldGljYTt9CntcY29s
+							b3J0Ymw7XHJlZDI1NVxn
+							cmVlbjI1NVxibHVlMjU1
+							O1xyZWQwXGdyZWVuMFxi
+							bHVlMDt9CntcKlxleHBh
+							bmRlZGNvbG9ydGJsOztc
+							Y3NzcmdiXGMwXGMwXGMw
+							XGM4NDcwNlxjbmFtZSBj
+							b250cm9sVGV4dENvbG9y
+							O30KXHBhcmRcdHg1NjBc
+							dHgxMTIwXHR4MTY4MFx0
+							eDIyNDBcdHgyODAwXHR4
+							MzM2MFx0eDM5MjBcdHg0
+							NDgwXHR4NTA0MFx0eDU2
+							MDBcdHg2MTYwXHR4Njcy
+							MFxwYXJkaXJuYXR1cmFs
+							XHBhcnRpZ2h0ZW5mYWN0
+							b3IwCgpcZjBcZnMyNiBc
+							Y2YyIFRyaWdnZXIgR28g
+							dG8gRmluZGVyIEZyb250
+							IFdpbmRvdyBtYWNybyBi
+							eSBob3Qga2V5Ln0BAAAA
+							IwAAAAEAAAAHAAAAVFhU
+							LnJ0ZhAAAADRhgtktgEA
+							AAAAAAAAAAAA
+							</data>
+				<key>Title</key>
+				<string>Change Save As dialog box to front Finder Window</string>
 			</dict>
 			<dict>
 				<key>ActionUID</key>
@@ -224,7 +337,7 @@
 		<key>CreationDate</key>
 		<real>688412240.03178895</real>
 		<key>ModificationDate</key>
-		<real>699931864.621997</real>
+		<real>700461689.92123199</real>
 		<key>Name</key>
 		<string>Remove Alpha PNG - Bob Cassidy</string>
 		<key>Triggers</key>
