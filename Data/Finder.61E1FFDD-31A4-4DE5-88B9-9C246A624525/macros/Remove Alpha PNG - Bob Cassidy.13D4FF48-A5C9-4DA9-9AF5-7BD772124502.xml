@@ -271,7 +271,7 @@
 				<key>ActionUID</key>
 				<integer>9386396</integer>
 				<key>KeyCode</key>
-				<integer>27</integer>
+				<integer>25</integer>
 				<key>MacroActionType</key>
 				<string>TriggerMacroByHotKey</string>
 				<key>Modifiers</key>
@@ -330,6 +330,8 @@
 				<string>CancelThisMacro</string>
 				<key>ActionUID</key>
 				<integer>53616</integer>
+				<key>IsActive</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>Cancel</string>
 			</dict>
@@ -337,7 +339,7 @@
 		<key>CreationDate</key>
 		<real>688412240.03178895</real>
 		<key>ModificationDate</key>
-		<real>700461689.92123199</real>
+		<real>700756553.92037404</real>
 		<key>Name</key>
 		<string>Remove Alpha PNG - Bob Cassidy</string>
 		<key>Triggers</key>

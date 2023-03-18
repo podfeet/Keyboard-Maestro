@@ -50,6 +50,8 @@
 				<string>CancelJustThisMacro</string>
 				<key>ActionUID</key>
 				<integer>9386391</integer>
+				<key>IsActive</key>
+				<false/>
 				<key>MacroActionType</key>
 				<string>Cancel</string>
 			</dict>
@@ -57,7 +59,7 @@
 		<key>CreationDate</key>
 		<real>699930932.44410396</real>
 		<key>ModificationDate</key>
-		<real>699931800.67336595</real>
+		<real>700755815.81567299</real>
 		<key>Name</key>
 		<string>Go to Finder Front Window</string>
 		<key>Triggers</key>
@@ -66,7 +68,7 @@
 				<key>FireType</key>
 				<string>Pressed</string>
 				<key>KeyCode</key>
-				<integer>27</integer>
+				<integer>25</integer>
 				<key>MacroTriggerType</key>
 				<string>HotKey</string>
 				<key>Modifiers</key>
