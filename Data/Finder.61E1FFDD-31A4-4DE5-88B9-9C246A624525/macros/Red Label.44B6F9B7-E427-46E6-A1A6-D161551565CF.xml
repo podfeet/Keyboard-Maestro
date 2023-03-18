@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9387966</integer>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>9387965</integer>
+						<key>Attribute</key>
+						<string>TagsAdd</string>
+						<key>MacroActionType</key>
+						<string>SetFileAttribute</string>
+						<key>Path</key>
+						<string>%Variable%Path%</string>
+						<key>Text</key>
+						<string>Red</string>
+					</dict>
+				</array>
+				<key>Collections</key>
+				<dict>
+					<key>CollectionList</key>
+					<array>
+						<dict>
+							<key>CollectionType</key>
+							<string>FinderSelection</string>
+						</dict>
+					</array>
+				</dict>
+				<key>MacroActionType</key>
+				<string>For</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+				<key>Variable</key>
+				<string>Path</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>700622257.75813103</real>
+		<key>ModificationDate</key>
+		<real>700624101.64739597</real>
+		<key>Name</key>
+		<string>Red Label</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>MacroTriggerType</key>
+				<string>StatusMenu</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>44B6F9B7-E427-46E6-A1A6-D161551565CF</string>
+	</dict>
+</array>
+</plist>
