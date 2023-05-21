@@ -57,7 +57,7 @@
 		<key>CreationDate</key>
 		<real>626760199.19745302</real>
 		<key>ModificationDate</key>
-		<real>626760425.85053504</real>
+		<real>706404695.64795804</real>
 		<key>Name</key>
 		<string>Markdown Italics</string>
 		<key>Triggers</key>
@@ -68,7 +68,7 @@
 				<key>SimulateDeletes</key>
 				<true/>
 				<key>TypedString</key>
-				<string>_;</string>
+				<string>-;</string>
 			</dict>
 		</array>
 		<key>UID</key>

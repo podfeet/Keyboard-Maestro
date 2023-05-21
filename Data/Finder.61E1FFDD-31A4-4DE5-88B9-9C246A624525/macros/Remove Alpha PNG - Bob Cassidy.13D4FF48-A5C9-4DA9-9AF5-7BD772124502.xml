@@ -63,8 +63,6 @@
 				<string>Orange</string>
 				<key>ActionUID</key>
 				<integer>53614</integer>
-				<key>IsDisclosed</key>
-				<false/>
 				<key>MacroActionType</key>
 				<string>Pause</string>
 				<key>Time</key>
@@ -339,7 +337,7 @@
 		<key>CreationDate</key>
 		<real>688412240.03178895</real>
 		<key>ModificationDate</key>
-		<real>700756553.92037404</real>
+		<real>702497651.51684403</real>
 		<key>Name</key>
 		<string>Remove Alpha PNG - Bob Cassidy</string>
 		<key>Triggers</key>

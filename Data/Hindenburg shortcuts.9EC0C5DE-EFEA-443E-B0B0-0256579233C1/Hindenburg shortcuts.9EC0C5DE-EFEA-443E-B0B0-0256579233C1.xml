@@ -36,8 +36,6 @@
 					<string>com.hindenburg.Hindenburg-Journalist</string>
 					<key>Name</key>
 					<string>Hindenburg</string>
-					<key>NewFile</key>
-					<string>/Applications/Hindenburg.app</string>
 				</dict>
 			</array>
 		</dict>

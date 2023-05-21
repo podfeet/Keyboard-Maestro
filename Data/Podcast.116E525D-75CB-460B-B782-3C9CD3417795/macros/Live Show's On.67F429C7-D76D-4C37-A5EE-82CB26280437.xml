@@ -335,11 +335,11 @@ networksetup -setairportpower $device $v</string>
 						<key>Application</key>
 						<dict>
 							<key>BundleIdentifier</key>
-							<string>com.hindenburg.Hindenburg-Journalist</string>
+							<string>com.hindenburg.Hindenburg2</string>
 							<key>Name</key>
-							<string>Hindenburg</string>
+							<string>Hindenburg PRO 2</string>
 							<key>NewFile</key>
-							<string>/Applications/Hindenburg.app</string>
+							<string>/Applications/Hindenburg PRO 2.app</string>
 						</dict>
 						<key>IsDisclosed</key>
 						<false/>
@@ -440,8 +440,6 @@ networksetup -setairportpower $device $v</string>
 							<string>com.rogueamoeba.audiohijack3</string>
 							<key>Name</key>
 							<string>Audio Hijack</string>
-							<key>NewFile</key>
-							<string>/Applications/Audio Hijack.app</string>
 						</dict>
 						<key>IsDisclosed</key>
 						<false/>
@@ -568,11 +566,11 @@ networksetup -setairportpower $device $v</string>
 						<key>TargetApplication</key>
 						<dict>
 							<key>BundleIdentifier</key>
-							<string>com.hindenburg.Hindenburg-Journalist</string>
+							<string>com.hindenburg.Hindenburg2</string>
 							<key>Name</key>
-							<string>Hindenburg</string>
+							<string>Hindenburg PRO 2</string>
 							<key>NewFile</key>
-							<string>/Applications/Hindenburg.app</string>
+							<string>/Applications/Hindenburg PRO 2.app</string>
 						</dict>
 						<key>Targeting</key>
 						<string>FrontWindow</string>
@@ -1244,7 +1242,7 @@ networksetup -setairportpower $device $v</string>
 					JgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 					</data>
 		<key>ModificationDate</key>
-		<real>698629170.74877203</real>
+		<real>703985391.511675</real>
 		<key>Name</key>
 		<string>Live Show's On</string>
 		<key>Triggers</key>

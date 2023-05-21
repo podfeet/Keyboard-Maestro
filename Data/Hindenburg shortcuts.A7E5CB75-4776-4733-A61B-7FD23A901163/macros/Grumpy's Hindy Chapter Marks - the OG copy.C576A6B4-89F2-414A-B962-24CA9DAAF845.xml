@@ -120,7 +120,9 @@
 							<key>Application</key>
 							<dict>
 								<key>BundleIdentifier</key>
-								<string>com.hindenburg.Hindenburg-Journalist</string>
+								<string>com.hindenburg.Hindenburg</string>
+								<key>Match</key>
+								<string>BundleID</string>
 								<key>Name</key>
 								<string>Hindenburg</string>
 								<key>NewFile</key>
@@ -157,6 +159,8 @@
 				<key>ThenActions</key>
 				<array>
 					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
 						<key>ActionUID</key>
 						<integer>9386778</integer>
 						<key>MacroActionType</key>
@@ -250,6 +254,41 @@
 						<true/>
 					</dict>
 					<dict>
+						<key>Action</key>
+						<string>SelectWindow</string>
+						<key>ActionUID</key>
+						<integer>9388723</integer>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>125</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.red-sweater.marsedit5</string>
+							<key>Name</key>
+							<string>MarsEdit</string>
+							<key>NewFile</key>
+							<string>/Applications/MarsEdit.app</string>
+						</dict>
+						<key>Targeting</key>
+						<string>WindowNameContaining</string>
+						<key>TargetingType</key>
+						<string>Specific</string>
+						<key>VerticalExpression</key>
+						<string>125</string>
+						<key>WidthExpression</key>
+						<string>300</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string>Preview of</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
 						<key>ActionUID</key>
 						<integer>9386780</integer>
 						<key>MacroActionType</key>
@@ -319,6 +358,18 @@
 									</data>
 						<key>Title</key>
 						<string>Grab the Chapter Mark URL</string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>DisplayBriefly</string>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>ActionUID</key>
+						<integer>9389853</integer>
+						<key>MacroActionType</key>
+						<string>InsertText</string>
+						<key>Text</key>
+						<string>got here</string>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
@@ -419,8 +470,12 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 						<true/>
 					</dict>
 					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
 						<key>ActionUID</key>
 						<integer>9386788</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
@@ -581,9 +636,87 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 								<key>Variable</key>
 								<string>Local__ChapterMark_Title</string>
 							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>9388724</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>Local__ChapterMark_Title</string>
+											<key>VariableConditionType</key>
+											<string>IsNotEmpty</string>
+											<key>VariableValue</key>
+											<string>value</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>MacroActionType</key>
+								<string>PauseUntil</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Yellow</string>
+								<key>ActionUID</key>
+								<integer>9388725</integer>
+								<key>MacroActionType</key>
+								<string>Comment</string>
+								<key>StyledText</key>
+								<data>
+								cnRmZAAAAAAD
+								AAAAAgAAAAcA
+								AABUWFQucnRm
+								AQAAAC6GAAAA
+								KwAAAAEAAAB+
+								AAAAe1xydGYx
+								XGFuc2lcYW5z
+								aWNwZzEyNTJc
+								Y29jb2FydGYx
+								NTA0XGNvY29h
+								c3VicnRmODMw
+								CntcZm9udHRi
+								bH0Ke1xjb2xv
+								cnRibDtccmVk
+								MjU1XGdyZWVu
+								MjU1XGJsdWUy
+								NTU7fQp7XCpc
+								ZXhwYW5kZWRj
+								b2xvcnRibDs7
+								fQp9AQAAACMA
+								AAABAAAABwAA
+								AFRYVC5ydGYQ
+								AAAAlmygWbYB
+								AAAAAAAAAAAA
+								AA==
+											</data>
+								<key>Title</key>
+								<string>Local__ChapterMark_Title is the URL, not the Title</string>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Purple</string>
+								<key>ActionUID</key>
+								<integer>9388726</integer>
+								<key>MacroActionType</key>
+								<string>Notification</string>
+								<key>SoundName</key>
+								<string></string>
+								<key>Subtitle</key>
+								<string></string>
+								<key>Text</key>
+								<string></string>
+								<key>Title</key>
+								<string>I got %Local__ChapterMark_Title%</string>
+							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -675,8 +808,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>BundleID</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>MacroActionType</key>
 								<string>ActivateApplication</string>
@@ -698,8 +829,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 								<string>Hundredths</string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -799,8 +928,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>com.hindenburg.Hindenburg-Journalist</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>TargetingType</key>
 								<string>Specific</string>
@@ -818,8 +945,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 								<string>Hundredths</string>
 							</dict>
 						</array>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Group</string>
 						<key>TimeOutAbortsMacro</key>
@@ -1456,8 +1581,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>com.hindenburg.Hindenburg-Journalist</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>TargetingType</key>
 								<string>Specific</string>
@@ -2872,7 +2995,7 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 					owAAA9wAAMBs
 					</data>
 		<key>ModificationDate</key>
-		<real>700027921.47276902</real>
+		<real>703993093.15771401</real>
 		<key>Name</key>
 		<string>Grumpy's Hindy Chapter Marks - the OG copy</string>
 		<key>Triggers</key>

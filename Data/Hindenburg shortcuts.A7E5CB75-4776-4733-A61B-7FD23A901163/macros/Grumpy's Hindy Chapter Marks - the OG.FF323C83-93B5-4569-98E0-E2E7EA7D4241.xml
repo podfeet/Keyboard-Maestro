@@ -104,8 +104,6 @@
 						<string>%ExecutingMacro%</string>
 					</dict>
 				</array>
-				<key>IsDisclosed</key>
-				<false/>
 				<key>MacroActionType</key>
 				<string>Group</string>
 				<key>TimeOutAbortsMacro</key>
@@ -125,8 +123,6 @@
 								<string>com.hindenburg.Hindenburg-Journalist</string>
 								<key>Name</key>
 								<string>Hindenburg</string>
-								<key>NewFile</key>
-								<string>/Applications/Hindenburg.app</string>
 							</dict>
 							<key>ApplicationConditionType</key>
 							<string>Active</string>
@@ -242,7 +238,7 @@
 							<key>Name</key>
 							<string>Safari</string>
 							<key>NewFile</key>
-							<string>/Applications/Safari.app</string>
+							<string>/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app</string>
 						</dict>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
@@ -679,8 +675,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>BundleID</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>MacroActionType</key>
 								<string>ActivateApplication</string>
@@ -803,8 +797,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>com.hindenburg.Hindenburg-Journalist</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>TargetingType</key>
 								<string>Specific</string>
@@ -1460,8 +1452,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>com.hindenburg.Hindenburg-Journalist</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>TargetingType</key>
 								<string>Specific</string>
@@ -2875,8 +2865,10 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 					AAEMQgAABd7///MmAAAHkgAA/ZH///ui///9
 					owAAA9wAAMBs
 					</data>
+		<key>IsActive</key>
+		<false/>
 		<key>ModificationDate</key>
-		<real>700027843.73438001</real>
+		<real>700961628.20377898</real>
 		<key>Name</key>
 		<string>Grumpy's Hindy Chapter Marks - the OG</string>
 		<key>Triggers</key>

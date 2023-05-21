@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>DisplayLarge</string>
+				<key>ActionUID</key>
+				<integer>9389854</integer>
+				<key>MacroActionType</key>
+				<string>InsertText</string>
+				<key>Text</key>
+				<string> 🏠 You are now back on White Dart 🏠 
+There's no place like home</string>
+			</dict>
+		</array>
+		<key>CreationDate</key>
+		<real>704761167.39011598</real>
+		<key>ModificationDate</key>
+		<real>704827829.61642897</real>
+		<key>Name</key>
+		<string>WiFi back on White Dart</string>
+		<key>Triggers</key>
+		<array>
+			<dict>
+				<key>Connected</key>
+				<true/>
+				<key>MacroTriggerType</key>
+				<string>WirelessNetwork</string>
+				<key>MatchType</key>
+				<string>NameIs</string>
+				<key>Name</key>
+				<string>WhiteDart</string>
+			</dict>
+		</array>
+		<key>UID</key>
+		<string>67FD2213-C9DE-4D3C-A4CF-A8DA11512615</string>
+	</dict>
+</array>
+</plist>

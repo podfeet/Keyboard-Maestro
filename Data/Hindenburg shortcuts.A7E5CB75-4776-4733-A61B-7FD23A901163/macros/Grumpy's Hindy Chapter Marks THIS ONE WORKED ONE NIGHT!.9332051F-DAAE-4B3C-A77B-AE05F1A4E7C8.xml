@@ -123,8 +123,6 @@
 								<string>com.hindenburg.Hindenburg-Journalist</string>
 								<key>Name</key>
 								<string>Hindenburg</string>
-								<key>NewFile</key>
-								<string>/Applications/Hindenburg.app</string>
 							</dict>
 							<key>ApplicationConditionType</key>
 							<string>Active</string>
@@ -1567,8 +1565,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>com.hindenburg.Hindenburg-Journalist</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>TargetingType</key>
 								<string>Specific</string>

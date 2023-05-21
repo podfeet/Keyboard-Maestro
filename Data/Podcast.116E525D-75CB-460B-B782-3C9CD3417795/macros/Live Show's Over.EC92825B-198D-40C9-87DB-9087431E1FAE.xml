@@ -101,29 +101,6 @@
 							<string>com.rogueamoeba.audiohijack3</string>
 							<key>Name</key>
 							<string>Audio Hijack</string>
-							<key>NewFile</key>
-							<string>/Applications/Audio Hijack.app</string>
-						</dict>
-						<key>IsDisclosed</key>
-						<false/>
-						<key>MacroActionType</key>
-						<string>QuitSpecificApp</string>
-						<key>Target</key>
-						<string>Specific</string>
-					</dict>
-					<dict>
-						<key>Action</key>
-						<string>Quit</string>
-						<key>ActionUID</key>
-						<integer>78</integer>
-						<key>Application</key>
-						<dict>
-							<key>BundleIdentifier</key>
-							<string>com.apple.audio.AudioMIDISetup</string>
-							<key>Name</key>
-							<string>Audio MIDI Setup</string>
-							<key>NewFile</key>
-							<string>/System/Applications/Utilities/Audio MIDI Setup.app</string>
 						</dict>
 						<key>IsDisclosed</key>
 						<false/>
@@ -1248,7 +1225,7 @@ networksetup -setairportpower $device $v</string>
 					AAD9kf//+6L///2jAAAD3AAAwGw=
 					</data>
 		<key>ModificationDate</key>
-		<real>692497586.36864495</real>
+		<real>703985402.45043004</real>
 		<key>Name</key>
 		<string>Live Show's Over</string>
 		<key>Triggers</key>

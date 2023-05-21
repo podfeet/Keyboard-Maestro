@@ -33,6 +33,18 @@
 						<string>Front</string>
 					</dict>
 					<dict>
+						<key>ActionUID</key>
+						<integer>9390229</integer>
+						<key>IsActive</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>1.5</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
 						<key>ActionColor</key>
 						<string>Green</string>
 						<key>ActionUID</key>
@@ -53,6 +65,16 @@
 				</array>
 				<key>MacroActionType</key>
 				<string>Group</string>
+				<key>TimeOutAbortsMacro</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ActionUID</key>
+				<integer>9389102</integer>
+				<key>MacroActionType</key>
+				<string>Pause</string>
+				<key>Time</key>
+				<string>.3</string>
 				<key>TimeOutAbortsMacro</key>
 				<true/>
 			</dict>
@@ -344,7 +366,7 @@ grep -E '#{1,5}[[:space:]]&lt;a' | sed -E 's/#{1,5}[[:space:]]&lt;a/&lt;li&gt;&l
 		<key>CreationDate</key>
 		<real>639365096.88306606</real>
 		<key>ModificationDate</key>
-		<real>661986672.90843999</real>
+		<real>705189649.35247898</real>
 		<key>Name</key>
 		<string>Copy NC Blog Post URLs to Feeder</string>
 		<key>Triggers</key>
