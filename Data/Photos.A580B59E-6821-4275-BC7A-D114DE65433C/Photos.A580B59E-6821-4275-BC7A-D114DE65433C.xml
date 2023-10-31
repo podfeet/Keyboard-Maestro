@@ -10,11 +10,7 @@
 		<key>AddToStatusMenu</key>
 		<false/>
 		<key>CreationDate</key>
-		<real>570406375.61612201</real>
-		<key>CustomIconData</key>
-		<string>KMEP-ToolbarApplicationsFolder</string>
-		<key>DisplayToggle</key>
-		<false/>
+		<real>712605101.10842097</real>
 		<key>KeyCode</key>
 		<integer>32767</integer>
 		<key>Macros</key>
@@ -22,7 +18,7 @@
 		<key>Modifiers</key>
 		<integer>0</integer>
 		<key>Name</key>
-		<string>Hindenburg shortcuts</string>
+		<string>Photos</string>
 		<key>PaletteUnderMouse</key>
 		<false/>
 		<key>Targeting</key>
@@ -33,16 +29,18 @@
 			<array>
 				<dict>
 					<key>BundleIdentifier</key>
-					<string>com.hindenburg.Hindenburg</string>
+					<string>com.apple.Photos</string>
 					<key>Name</key>
-					<string>Hindenburg</string>
+					<string>Photos</string>
+					<key>NewFile</key>
+					<string>/System/Applications/Photos.app</string>
 				</dict>
 			</array>
 		</dict>
 		<key>ToggleMacroUID</key>
-		<string>358BA0FE-B1AC-4A4E-8221-D6A50D6B39BE</string>
+		<string>6FDB61A4-6273-4308-90D5-378D8E016CA9</string>
 		<key>UID</key>
-		<string>A7E5CB75-4776-4733-A61B-7FD23A901163</string>
+		<string>A580B59E-6821-4275-BC7A-D114DE65433C</string>
 	</dict>
 </array>
 </plist>

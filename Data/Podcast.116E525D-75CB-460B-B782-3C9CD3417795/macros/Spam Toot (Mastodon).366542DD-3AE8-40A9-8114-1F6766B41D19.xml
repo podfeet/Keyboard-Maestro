@@ -63,6 +63,10 @@
 				<true/>
 				<key>IncludeStdErr</key>
 				<false/>
+				<key>IncludedVariables</key>
+				<array>
+					<string>9999</string>
+				</array>
 				<key>MacroActionType</key>
 				<string>ExecuteAppleScript</string>
 				<key>Path</key>
@@ -98,8 +102,6 @@
 							<string>com.thomasricouard.IceCubesApp</string>
 							<key>Name</key>
 							<string>Ice Cubes</string>
-							<key>NewFile</key>
-							<string>/Applications/Ice Cubes.app</string>
 						</dict>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>

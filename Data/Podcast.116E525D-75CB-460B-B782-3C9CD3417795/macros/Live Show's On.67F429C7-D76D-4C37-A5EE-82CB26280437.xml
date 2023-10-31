@@ -68,6 +68,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -89,6 +91,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -101,8 +105,6 @@
 							<string>com.bombich.ccc</string>
 							<key>Name</key>
 							<string>Carbon Copy Cloner</string>
-							<key>NewFile</key>
-							<string>/Applications/Carbon Copy Cloner.app</string>
 						</dict>
 						<key>IsDisclosed</key>
 						<false/>
@@ -110,6 +112,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -131,6 +135,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 				</array>
 				<key>MacroActionType</key>
@@ -151,6 +157,10 @@
 				<true/>
 				<key>IncludeStdErr</key>
 				<false/>
+				<key>IncludedVariables</key>
+				<array>
+					<string>9999</string>
+				</array>
 				<key>MacroActionType</key>
 				<string>ExecuteAppleScript</string>
 				<key>Path</key>
@@ -261,6 +271,10 @@
 						<true/>
 						<key>IncludeStdErr</key>
 						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
 						<key>MacroActionType</key>
 						<string>ExecuteShellScript</string>
 						<key>Path</key>
@@ -292,6 +306,76 @@ networksetup -setairportpower $device $v</string>
 				<string>Group</string>
 				<key>TimeOutAbortsMacro</key>
 				<true/>
+			</dict>
+			<dict>
+				<key>ActionColor</key>
+				<string>Yellow</string>
+				<key>ActionUID</key>
+				<integer>9391355</integer>
+				<key>MacroActionType</key>
+				<string>Comment</string>
+				<key>StyledText</key>
+				<data>
+							cnRmZAAAAAADAAAAAgAA
+							AAcAAABUWFQucnRmAQAA
+							AC7wAQAAKwAAAAEAAADo
+							AQAAe1xydGYxXGFuc2lc
+							YW5zaWNwZzEyNTJcY29j
+							b2FydGYyNzU3Clxjb2Nv
+							YXRleHRzY2FsaW5nMFxj
+							b2NvYXBsYXRmb3JtMHtc
+							Zm9udHRibFxmMFxmc3dp
+							c3NcZmNoYXJzZXQwIEhl
+							bHZldGljYTt9CntcY29s
+							b3J0Ymw7XHJlZDI1NVxn
+							cmVlbjI1NVxibHVlMjU1
+							O1xyZWQwXGdyZWVuMFxi
+							bHVlMDt9CntcKlxleHBh
+							bmRlZGNvbG9ydGJsOztc
+							Y3NzcmdiXGMwXGMwXGMw
+							XGM4NDcwNlxjbmFtZSBj
+							b250cm9sVGV4dENvbG9y
+							O30KXHBhcmRcdHg1NjBc
+							dHgxMTIwXHR4MTY4MFx0
+							eDIyNDBcdHgyODAwXHR4
+							MzM2MFx0eDM5MjBcdHg0
+							NDgwXHR4NTA0MFx0eDU2
+							MDBcdHg2MTYwXHR4Njcy
+							MFxwYXJkaXJuYXR1cmFs
+							XHBhcnRpZ2h0ZW5mYWN0
+							b3IwCgpcZjBcZnMyNiBc
+							Y2YyIFRoaXMga2V5c3Ry
+							b2tlIGlzIGFzc2lnbmVk
+							IEluIFN5c3RlbSBTZXR0
+							aW5ncyA+IEtleWJvYXJk
+							ID4gS2V5Ym9hcmQgU2hv
+							cnRjdXRzID4gTWlzc2lv
+							biBDb250cm9sID4gU3Rh
+							Z2UgTWFuYWdlcn0BAAAA
+							IwAAAAEAAAAHAAAAVFhU
+							LnJ0ZhAAAABFcSBltgEA
+							AAAAAAAAAAAA
+							</data>
+				<key>Title</key>
+				<string>Stage Manager Keystroke</string>
+			</dict>
+			<dict>
+				<key>ActionName</key>
+				<string>Toggle Stage Manager</string>
+				<key>ActionUID</key>
+				<integer>9390980</integer>
+				<key>KeyCode</key>
+				<integer>40</integer>
+				<key>MacroActionType</key>
+				<string>SimulateKeystroke</string>
+				<key>Modifiers</key>
+				<integer>6912</integer>
+				<key>ReleaseAll</key>
+				<false/>
+				<key>TargetApplication</key>
+				<dict/>
+				<key>TargetingType</key>
+				<string>Front</string>
 			</dict>
 			<dict>
 				<key>ActionColor</key>
@@ -327,7 +411,7 @@ networksetup -setairportpower $device $v</string>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>56</integer>
+						<integer>9390604</integer>
 						<key>AllWindows</key>
 						<true/>
 						<key>AlreadyActivatedActionType</key>
@@ -335,11 +419,11 @@ networksetup -setairportpower $device $v</string>
 						<key>Application</key>
 						<dict>
 							<key>BundleIdentifier</key>
-							<string>com.hindenburg.Hindenburg2</string>
+							<string>com.hindenburg.HindenburgPRO</string>
 							<key>Name</key>
-							<string>Hindenburg PRO 2</string>
+							<string>Hindenburg PRO</string>
 							<key>NewFile</key>
-							<string>/Applications/Hindenburg PRO 2.app</string>
+							<string>/Applications/Hindenburg PRO.app</string>
 						</dict>
 						<key>IsDisclosed</key>
 						<false/>
@@ -437,12 +521,12 @@ networksetup -setairportpower $device $v</string>
 						<key>Application</key>
 						<dict>
 							<key>BundleIdentifier</key>
-							<string>com.rogueamoeba.audiohijack3</string>
+							<string>com.rogueamoeba.audiohijack</string>
 							<key>Name</key>
 							<string>Audio Hijack</string>
+							<key>NewFile</key>
+							<string>/Applications/Audio Hijack.app</string>
 						</dict>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
 						<key>ReopenWindows</key>
@@ -566,11 +650,11 @@ networksetup -setairportpower $device $v</string>
 						<key>TargetApplication</key>
 						<dict>
 							<key>BundleIdentifier</key>
-							<string>com.hindenburg.Hindenburg2</string>
+							<string>com.hindenburg.HindenburgPRO</string>
 							<key>Name</key>
-							<string>Hindenburg PRO 2</string>
+							<string>Hindenburg PRO</string>
 							<key>NewFile</key>
-							<string>/Applications/Hindenburg PRO 2.app</string>
+							<string>/Applications/Hindenburg PRO.app</string>
 						</dict>
 						<key>Targeting</key>
 						<string>FrontWindow</string>
@@ -633,8 +717,6 @@ networksetup -setairportpower $device $v</string>
 						<string>750</string>
 						<key>HorizontalExpression</key>
 						<string>3</string>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>ManipulateWindow</string>
 						<key>TargetApplication</key>
@@ -654,6 +736,78 @@ networksetup -setairportpower $device $v</string>
 						<string>825</string>
 						<key>WidthExpression</key>
 						<string>1280</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>MoveAndResize</string>
+						<key>ActionName</key>
+						<string>StreamYard Move to Internal Display</string>
+						<key>ActionUID</key>
+						<integer>9391746</integer>
+						<key>HeightExpression</key>
+						<string>600</string>
+						<key>HorizontalExpression</key>
+						<string>SCREEN(2,LEFT)+500</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.microsoft.edgemac</string>
+							<key>Name</key>
+							<string>Microsoft Edge</string>
+							<key>NewFile</key>
+							<string>/Applications/Microsoft Edge.app</string>
+						</dict>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Specific</string>
+						<key>VerticalExpression</key>
+						<string>125</string>
+						<key>WidthExpression</key>
+						<string>950</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>MoveAndResize</string>
+						<key>ActionName</key>
+						<string>Telegram Move to Internal Display</string>
+						<key>ActionUID</key>
+						<integer>9391747</integer>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>SCREEN(2,LEFT)+10</string>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>ru.keepcoder.Telegram</string>
+							<key>Name</key>
+							<string>Telegram</string>
+							<key>NewFile</key>
+							<string>/Applications/Telegram.app</string>
+						</dict>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Specific</string>
+						<key>VerticalExpression</key>
+						<string>125</string>
+						<key>WidthExpression</key>
+						<string>300</string>
 						<key>WindowIndexExpression</key>
 						<string>2</string>
 						<key>WindowName</key>
@@ -1242,7 +1396,7 @@ networksetup -setairportpower $device $v</string>
 					JgAAB5IAAP2R///7ov///aMAAAPcAADAbA==
 					</data>
 		<key>ModificationDate</key>
-		<real>703985391.511675</real>
+		<real>720466918.00593901</real>
 		<key>Name</key>
 		<string>Live Show's On</string>
 		<key>Triggers</key>

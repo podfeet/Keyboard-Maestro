@@ -57,8 +57,6 @@
 							<string>com.boinx.mimoLive</string>
 							<key>Name</key>
 							<string>mimoLive</string>
-							<key>NewFile</key>
-							<string>/Applications/mimoLive 6.1.2.app</string>
 						</dict>
 						<key>IsActive</key>
 						<false/>
@@ -68,6 +66,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -89,6 +89,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -108,6 +110,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -129,6 +133,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -150,6 +156,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>Action</key>
@@ -171,6 +179,8 @@
 						<string>QuitSpecificApp</string>
 						<key>Target</key>
 						<string>Specific</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>ActionName</key>
@@ -211,6 +221,10 @@
 				<true/>
 				<key>IncludeStdErr</key>
 				<false/>
+				<key>IncludedVariables</key>
+				<array>
+					<string>9999</string>
+				</array>
 				<key>MacroActionType</key>
 				<string>ExecuteAppleScript</string>
 				<key>Path</key>
@@ -320,6 +334,10 @@
 						<true/>
 						<key>IncludeStdErr</key>
 						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
 						<key>MacroActionType</key>
 						<string>ExecuteShellScript</string>
 						<key>Path</key>
@@ -424,8 +442,6 @@ networksetup -setairportpower $device $v</string>
 							<string>com.bombich.ccc</string>
 							<key>Name</key>
 							<string>Carbon Copy Cloner</string>
-							<key>NewFile</key>
-							<string>/Applications/Carbon Copy Cloner.app</string>
 						</dict>
 						<key>IsDisclosed</key>
 						<false/>

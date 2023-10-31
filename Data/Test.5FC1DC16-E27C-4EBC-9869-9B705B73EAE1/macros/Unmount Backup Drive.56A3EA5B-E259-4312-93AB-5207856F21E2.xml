@@ -19,8 +19,6 @@
 								<string>com.bombich.ccc</string>
 								<key>Name</key>
 								<string>Carbon Copy Cloner</string>
-								<key>NewFile</key>
-								<string>/Applications/Carbon Copy Cloner.app</string>
 							</dict>
 							<key>ApplicationConditionType</key>
 							<string>NotRunning</string>
@@ -46,6 +44,10 @@
 						<true/>
 						<key>IncludeStdErr</key>
 						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
 						<key>MacroActionType</key>
 						<string>ExecuteShellScript</string>
 						<key>Path</key>
@@ -85,20 +87,6 @@
 				<string>Login</string>
 				<key>MacroTriggerType</key>
 				<string>Time</string>
-				<key>Repeat</key>
-				<false/>
-				<key>RepeatTime</key>
-				<integer>60</integer>
-				<key>TimeFinishHour</key>
-				<integer>17</integer>
-				<key>TimeFinishMinutes</key>
-				<integer>30</integer>
-				<key>TimeHour</key>
-				<integer>8</integer>
-				<key>TimeMinutes</key>
-				<integer>30</integer>
-				<key>WhichDays</key>
-				<integer>127</integer>
 			</dict>
 			<dict>
 				<key>Application</key>

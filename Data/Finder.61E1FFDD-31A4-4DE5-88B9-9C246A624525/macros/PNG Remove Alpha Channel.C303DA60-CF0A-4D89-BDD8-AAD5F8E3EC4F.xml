@@ -250,6 +250,10 @@
 				<true/>
 				<key>IncludeStdErr</key>
 				<true/>
+				<key>IncludedVariables</key>
+				<array>
+					<string>9999</string>
+				</array>
 				<key>MacroActionType</key>
 				<string>ExecuteShellScript</string>
 				<key>Path</key>

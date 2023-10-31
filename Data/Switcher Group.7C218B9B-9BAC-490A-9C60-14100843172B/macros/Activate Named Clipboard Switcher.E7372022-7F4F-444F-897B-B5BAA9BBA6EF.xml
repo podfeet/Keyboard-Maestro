@@ -16,8 +16,10 @@
 		</array>
 		<key>CreationDate</key>
 		<real>559784101.61114895</real>
+		<key>IsActive</key>
+		<false/>
 		<key>ModificationDate</key>
-		<real>575906935.45357502</real>
+		<real>709914144.70089495</real>
 		<key>Name</key>
 		<string>Activate Named Clipboard Switcher</string>
 		<key>Triggers</key>

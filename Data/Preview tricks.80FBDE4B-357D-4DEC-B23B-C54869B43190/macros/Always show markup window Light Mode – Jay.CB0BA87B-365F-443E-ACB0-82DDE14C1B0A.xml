@@ -25,6 +25,10 @@
 						<dict>
 							<key>ConditionType</key>
 							<string>Script</string>
+							<key>IncludedVariables</key>
+							<array>
+								<string>9999</string>
+							</array>
 							<key>Path</key>
 							<string></string>
 							<key>ScriptConditionSourceType</key>
@@ -42,6 +46,8 @@
 	end tell
 end tell
 return theMode</string>
+							<key>UseModernSyntax</key>
+							<false/>
 						</dict>
 					</array>
 					<key>ConditionListMatch</key>

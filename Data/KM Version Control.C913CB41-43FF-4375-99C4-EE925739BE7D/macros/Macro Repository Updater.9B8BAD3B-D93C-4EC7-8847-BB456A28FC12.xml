@@ -1231,7 +1231,7 @@
 				<key>MacroActionType</key>
 				<string>SetVariableToText</string>
 				<key>Text</key>
-				<string>~/htdocs/Keyboard Maestro</string>
+				<string>/Users/allison/htdocs/Keyboard-Maestro</string>
 				<key>Variable</key>
 				<string>Instance_repositoryFolderPath</string>
 			</dict>
@@ -1312,8 +1312,6 @@
 				<false/>
 				<key>ElseActions</key>
 				<array/>
-				<key>IsDisclosed</key>
-				<false/>
 				<key>MacroActionType</key>
 				<string>IfThenElse</string>
 				<key>ThenActions</key>
@@ -1883,6 +1881,10 @@
 						<true/>
 						<key>IncludeStdErr</key>
 						<true/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -1947,6 +1949,10 @@
 				<true/>
 				<key>IncludeStdErr</key>
 				<false/>
+				<key>IncludedVariables</key>
+				<array>
+					<string>9999</string>
+				</array>
 				<key>IsDisclosed</key>
 				<false/>
 				<key>MacroActionType</key>
@@ -2629,6 +2635,8 @@
 				<true/>
 				<key>TrimResultsNew</key>
 				<true/>
+				<key>UseModernSyntax</key>
+				<false/>
 				<key>UseText</key>
 				<true/>
 				<key>Variable</key>
@@ -3018,6 +3026,10 @@
 						<true/>
 						<key>IncludeStdErr</key>
 						<true/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
 						<key>MacroActionType</key>
 						<string>ExecuteAppleScript</string>
 						<key>NotifyOnFailure</key>
@@ -3699,7 +3711,7 @@ end tell</string>
 					AAD9kf//+6L///2jAAAD3AAAwGw=
 					</data>
 		<key>ModificationDate</key>
-		<real>695091209.08500695</real>
+		<real>720467487.23187006</real>
 		<key>Name</key>
 		<string>Macro Repository Updater</string>
 		<key>Triggers</key>

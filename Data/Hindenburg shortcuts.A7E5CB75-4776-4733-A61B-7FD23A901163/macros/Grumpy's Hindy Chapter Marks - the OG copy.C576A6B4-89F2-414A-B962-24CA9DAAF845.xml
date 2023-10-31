@@ -125,8 +125,6 @@
 								<string>BundleID</string>
 								<key>Name</key>
 								<string>Hindenburg</string>
-								<key>NewFile</key>
-								<string>/Applications/Hindenburg.app</string>
 							</dict>
 							<key>ApplicationConditionType</key>
 							<string>Active</string>

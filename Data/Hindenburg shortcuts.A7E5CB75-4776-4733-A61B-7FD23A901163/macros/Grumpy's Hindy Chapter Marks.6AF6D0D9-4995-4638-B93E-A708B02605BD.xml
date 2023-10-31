@@ -792,8 +792,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>BundleID</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>MacroActionType</key>
 								<string>ActivateApplication</string>
@@ -914,8 +912,6 @@ Note: If the clipboard is not tewaked in a reasonable amount of time, then @podf
 									<string>com.hindenburg.Hindenburg</string>
 									<key>Name</key>
 									<string>Hindenburg</string>
-									<key>NewFile</key>
-									<string>/Applications/Hindenburg.app</string>
 								</dict>
 								<key>TargetingType</key>
 								<string>Specific</string>

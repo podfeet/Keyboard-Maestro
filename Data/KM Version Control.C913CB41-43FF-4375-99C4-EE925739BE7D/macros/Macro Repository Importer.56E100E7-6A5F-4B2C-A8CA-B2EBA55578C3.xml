@@ -185,6 +185,10 @@
 						<true/>
 						<key>IncludeStdErr</key>
 						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
 						<key>IsDisclosed</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -434,6 +438,8 @@
 						<true/>
 						<key>TrimResultsNew</key>
 						<true/>
+						<key>UseModernSyntax</key>
+						<false/>
 						<key>UseText</key>
 						<true/>
 						<key>Variable</key>
@@ -525,8 +531,6 @@
 												<array/>
 											</dict>
 										</array>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>IfThenElse</string>
 										<key>ThenActions</key>
@@ -796,6 +800,10 @@
 										<true/>
 										<key>IncludeStdErr</key>
 										<false/>
+										<key>IncludedVariables</key>
+										<array>
+											<string>9999</string>
+										</array>
 										<key>IsDisclosed</key>
 										<false/>
 										<key>MacroActionType</key>
@@ -835,6 +843,8 @@
 										<true/>
 										<key>TrimResultsNew</key>
 										<true/>
+										<key>UseModernSyntax</key>
+										<false/>
 										<key>UseText</key>
 										<true/>
 										<key>Variable</key>
@@ -1293,6 +1303,10 @@ NOTE: If you want to select a different group, go ahead and do that now, then cl
 								<true/>
 								<key>IncludeStdErr</key>
 								<true/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
 								<key>IsDisclosed</key>
 								<false/>
 								<key>MacroActionType</key>
@@ -1342,6 +1356,10 @@ NOTE: If you want to select a different group, go ahead and do that now, then cl
 								<true/>
 								<key>IncludeStdErr</key>
 								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
 								<key>IsDisclosed</key>
 								<false/>
 								<key>MacroActionType</key>
@@ -1428,6 +1446,8 @@ NOTE: If you want to select a different group, go ahead and do that now, then cl
 								<true/>
 								<key>TrimResultsNew</key>
 								<true/>
+								<key>UseModernSyntax</key>
+								<false/>
 								<key>UseText</key>
 								<true/>
 								<key>Variable</key>
@@ -2065,7 +2085,7 @@ NOTE: If you want to select a different group, go ahead and do that now, then cl
 					AAD9kf//+6L///2jAAAD3AAAwGw=
 					</data>
 		<key>ModificationDate</key>
-		<real>699686819.81628299</real>
+		<real>720467419.39391005</real>
 		<key>Name</key>
 		<string>Macro Repository Importer</string>
 		<key>Triggers</key>
